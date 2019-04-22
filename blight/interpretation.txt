@@ -12,7 +12,7 @@ Polynomial and ridge regression produced the highest ROC AUC score of 0.8, as
 shown in blight.py. The next highest-performing model was random forest, which
 only achieved an AUC of 0.66.
 
- After settling on a model, I looked its coefficients for insight into what
+ After settling on a model, I looked at its coefficients for insight into what
  might be done to increase the rate of fine payment. The coefficients generated
  by this model suggest that blight fine payment is influenced most strongly by
  the features 'discount amount', 'disposition', 'fine amount', 'late fee', and
@@ -57,7 +57,7 @@ increases the likelihood that they will pay their fine.
 DISCOUNT AMOUNT
 
 95% of those who received a discount on their fine paid it, compared to 7% of
-those who received no discount. For those who  received a discount, the mean
+those who received no discount. For those who received a discount, the mean
 amount was somewhat different between those who paid and those who did not ($27
 vs. $22, p=0.012). The discount was about 10% of the fine in each case. Among
 those who paid their fine, the mean fine amount for those given a discount was
