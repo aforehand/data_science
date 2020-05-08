@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.colors import LinearSegmentedColormap
 from sklearn.tree import export_graphviz
-from PIL import Image
+# from PIL import Image
 import subprocess
 from sklearn.metrics import roc_curve, auc
 from matplotlib import cm
@@ -127,6 +127,8 @@ def feature_importances(importances, feature_names, forest=False, truncate=True)
         plt.setp(p, 'facecolor', cm(c))
 
     plt.show()
+
+    return (feature_names, importances)
 
 def precision_recall(precision, recall, thresholds):
     closest_zero = np.argmin(np.abs(thresholds))
