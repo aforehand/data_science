@@ -137,7 +137,7 @@ class TopWords:
             pass  
        
     def show_nth_word(self):
-        """Getsa user entered value n to display the nth word."""
+        """Get a user entered value n to display the nth word."""
         try:
             n = eval(self.nth.get()) - 1
             if n < len(self.word_freqs):

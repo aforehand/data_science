@@ -8,9 +8,6 @@ verify_ssl = true
 [packages]
 nltk = "*"
 tkinter = "*"
-regex = "*"
-re = "*"
-jupyter = "*"
 
 [requires]
 python_version = "3.7"
