@@ -21,6 +21,9 @@ class TopWords:
     doc_dict: dict
         Keeps track of which documents each word appears in.
         
+    pos_dict: dict
+        Keeps track of each word's part of speech.
+        
     word_freqs: dict
         A frequency dictionary of the words in the document.
      
@@ -58,12 +61,44 @@ class TopWords:
         
     nth: Entry
         A tkinter widget to enter the frequency rank of a word to display.   
+        
+    noun_state: IntVar
+        A tkinter variable to hold the state of the noun Checkbutton.
+
+    verb_state: IntVar
+        A tkinter variable to hold the state of the verb Checkbutton.
+        
+    adj_state: IntVar
+        A tkinter variable to hold the state of the adj Checkbutton.
+        
+    adv_state: IntVar
+        A tkinter variable to hold the state of the adverb Checkbutton.
+        
+    other_state: IntVar
+        A tkinter variable to hold the state of the other Checkbutton.
+        
+    noun: Checkbutton
+        A tkinter widget to choose whether nouns are displayed.
+        
+    verb: Checkbutton
+        A tkinter widget to choose whether verbs are displayed.
+        
+    adj: Checkbutton
+        A tkinter widget to choose whether adjectives are displayed.
+        
+    adv: Checkbutton
+        A tkinter widget to choose whether adverbs are displayed.
+        
+    other: Checkbutton
+        A tkinter widget to choose whether other parts of speech are 
+        displayed.
     """
     
     def __init__(self):
         self.sentences = []
         self.word_dict = None
         self.doc_dict = None
+        self.pos_dict = None
         self.word_freqs = None
 
 
@@ -81,14 +116,30 @@ class TopWords:
         self.top_n = None
         self.nth = None
         
+        self.noun_state = 1
+        self.verb_state = 1
+        self.adj_state = 1
+        self.adv_state = 1
+        self.other_state = 1
+        
+        self.noun = None
+        self.verb = None
+        self.adj = None
+        self.adv = None
+        self.other = None
+        
     def convert_pos_tag(self, tag):
         """Convert Treebank POS tags to wordbank POS tags."""
         if tag.startswith('V'):
             return wordnet.VERB
         elif tag.startswith('N'):
             return wordnet.NOUN
+        elif tag.startswith('J'):
+            return wordnet.ADJ
+        elif tag.startswith('RB'):
+            return wordnet.ADV
         else:
-            return None
+            return 'other'
 
     def clear_words(self):
         """Destroy all the frames in the bottom pane."""
@@ -103,7 +154,7 @@ class TopWords:
         self.sent_frames = []
     
     def show_chosen_word(self):
-        """Gets a user entered value word_choice to display."""
+        """Get a user entered value word_choice to display."""
         try:
             word_choice = self.txt.get()
             word_choice = word_choice.lower()
@@ -121,7 +172,7 @@ class TopWords:
             pass
                 
     def show_top_words(self):
-        """Gets a user entered value how_many to display that many words."""
+        """Get a user entered value how_many to display that many words."""
         try:
             how_many = eval(self.top_n.get())
             if how_many < len(self.word_freqs):
@@ -197,6 +248,7 @@ class TopWords:
         self.word_freqs = Counter()
         self.word_dict = defaultdict(list)
         self.doc_dict = defaultdict(list)
+        self.pos_dict = defaultdict(list)
         lemmas = []
         file_names = tk.filedialog.askopenfilenames()
         for file in file_names:
@@ -208,13 +260,16 @@ class TopWords:
                 sent = [word for word in re.findall('\w+', sent.lower()) 
                         if word not in stopwords.words('english')]
                 tagged = nltk.pos_tag(sent)
+                tagged = [(t[0], self.convert_pos_tag(t[1])) for t in tagged]
                 lemm = stem.WordNetLemmatizer()
-                sent = [lemm.lemmatize(t[0], self.convert_pos_tag(t[1])) 
-                        if self.convert_pos_tag(t[1]) is not None else t[0] 
+                sent = [lemm.lemmatize(t[0], t[1]) if t[1] is not 'other' else t[0] 
                         for t in tagged]
-                for word in sent:
+                tagged_lemmas = zip(sent, [t[1] for t in tagged])
+                for word, pos in tagged_lemmas:
                     if name not in self.doc_dict[word]:
                         self.doc_dict[word].append(name)
+                    if word not in self.pos_dict[pos]:
+                        self.pos_dict[pos].append(word)
                 lemmas.append(sent)
                 self.word_freqs.update(sent)
             self.sentences = self.sentences + sentences
@@ -260,6 +315,24 @@ class TopWords:
         self.txt = tk.Entry(top, width=10)
         self.txt.grid(row=1,column=2)
         tk.Button(top, text='Show', command=self.show_chosen_word).grid(row=2,column=2)
+        
+        tk.Label(top, text='Include parts of speech:').grid(row=0,column=3)
+        self.noun_state = tk.IntVar()
+        self.noun = tk.Checkbutton(top, state='active', text='Noun', variable=self.noun_state)
+        self.noun.grid(row=1, column=3)
+        self.verb_state = tk.IntVar()
+        self.verb = tk.Checkbutton(top, state='active', text='Verb', variable=self.verb_state)
+        self.verb.grid(row=0, column=4)
+        self.adj_state = tk.IntVar()
+        self.adj = tk.Checkbutton(top, state='active', text='Adjective', variable=self.adj_state)
+        self.adj.grid(row=1, column=4)
+        self.adv_state = tk.IntVar()
+        self.adv = tk.Checkbutton(top, state='active', text='Adverb', variable=self.adv_state)
+        self.adv.grid(row=0, column=5)
+        self.other_state = tk.IntVar()
+        self.other = tk.Checkbutton(top, state='active', text='Other', variable=self.other_state)
+        self.other.grid(row=1, column=5)
+        
 
         self.ns = tk.PanedWindow(bottom, orient='vertical')
         bottom.add(self.ns)
