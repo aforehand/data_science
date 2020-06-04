@@ -177,6 +177,7 @@ class TopWords:
             how_many = eval(self.top_n.get())
             if how_many < len(self.word_freqs):
                 self.clear_words()
+
                 for i in range(how_many):
                     self.display(n=i)
             else:
@@ -252,7 +253,7 @@ class TopWords:
         lemmas = []
         file_names = tk.filedialog.askopenfilenames()
         for file in file_names:
-            name = os.path.split(file)[1]
+            doc_name = os.path.split(file)[1]
             with open(file, 'r') as doc:
                 text = doc.read()
                 sentences = sent_tokenize(text)
@@ -266,10 +267,10 @@ class TopWords:
                         for t in tagged]
                 tagged_lemmas = zip(sent, [t[1] for t in tagged])
                 for word, pos in tagged_lemmas:
-                    if name not in self.doc_dict[word]:
-                        self.doc_dict[word].append(name)
-                    if word not in self.pos_dict[pos]:
-                        self.pos_dict[pos].append(word)
+                    if doc_name not in self.doc_dict[word]:
+                        self.doc_dict[word].append(doc_name)
+                    if pos not in self.pos_dict[word]:
+                        self.pos_dict[word].append(pos)
                 lemmas.append(sent)
                 self.word_freqs.update(sent)
             self.sentences = self.sentences + sentences
