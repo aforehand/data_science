@@ -26,6 +26,9 @@ class TopWords:
         
     word_freqs: dict
         A frequency dictionary of the words in the document.
+
+    most_common: list
+        All words in order of frequency.
      
     n_frames: list
         A list of 'ns' objects.
@@ -62,20 +65,23 @@ class TopWords:
     nth: Entry
         A tkinter widget to enter the frequency rank of a word to display.   
         
-    noun_state: IntVar
-        A tkinter variable to hold the state of the noun Checkbutton.
+    # noun_state: IntVar
+    #     A tkinter variable to hold the state of the noun Checkbutton.
 
-    verb_state: IntVar
-        A tkinter variable to hold the state of the verb Checkbutton.
+    # verb_state: IntVar
+    #     A tkinter variable to hold the state of the verb Checkbutton.
         
-    adj_state: IntVar
-        A tkinter variable to hold the state of the adj Checkbutton.
+    # adj_state: IntVar
+    #     A tkinter variable to hold the state of the adj Checkbutton.
         
-    adv_state: IntVar
-        A tkinter variable to hold the state of the adverb Checkbutton.
+    # adv_state: IntVar
+    #     A tkinter variable to hold the state of the adverb Checkbutton.
         
-    other_state: IntVar
-        A tkinter variable to hold the state of the other Checkbutton.
+    # other_state: IntVar
+    #     A tkinter variable to hold the state of the other Checkbutton.
+
+    pos_states: dict
+        Keeps track of the states of the POS Checkbuttons.
         
     noun: Checkbutton
         A tkinter widget to choose whether nouns are displayed.
@@ -100,6 +106,7 @@ class TopWords:
         self.doc_dict = None
         self.pos_dict = None
         self.word_freqs = None
+        self.most_common = None
 
 
         self.n_frames = []
@@ -116,11 +123,13 @@ class TopWords:
         self.top_n = None
         self.nth = None
         
-        self.noun_state = None
-        self.verb_state = None
-        self.adj_state = None
-        self.adv_state = None
-        self.other_state = None
+        # self.noun_state = None
+        # self.verb_state = None
+        # self.adj_state = None
+        # self.adv_state = None
+        # self.other_state = None
+
+        self.pos_states = {}
         
         self.noun = None
         self.verb = None
@@ -177,12 +186,22 @@ class TopWords:
             how_many = eval(self.top_n.get())
             if how_many < len(self.word_freqs):
                 self.clear_words()
-
-                for i in range(how_many):
+                valid_ns = []
+                n = 0
+                while len(valid_ns) < how_many:
+                    word = self.most_common[n][0]
+                    pos = self.pos_dict[word]
+                    for p in pos:
+                        if self.pos_states[p].get() == 1:
+                            valid_ns.append(n)
+                            print(word, p, self.pos_states[p].get())
+                            break
+                    n += 1
+                for i in valid_ns:
                     self.display(n=i)
             else:
                 tk.messagebox.showerror('Error', 
-                                        f'Enter a value less than {len(self.word_freqs)}')
+                                        f'Enter a value less than {len(self.word_freqs)}.')
         except NameError:
             tk.messagebox.showerror('Error', 'You must enter a number.')
         except:
@@ -215,10 +234,9 @@ class TopWords:
         self.sent_frames[-1].pack(fill='both', expand=True)
         if word_choice is not None:
             nth_word = word_choice
-            n = self.word_freqs.most_common().index((nth_word, 
-                                                     self.word_freqs[nth_word]))
+            n = self.most_common.index((nth_word, self.word_freqs[nth_word]))
         else:
-            nth_word = self.word_freqs.most_common()[n][0]
+            nth_word = self.most_common[n][0]
         nth = tk.Text(self.n_frames[-1], width=5, height=5)
         nth.insert('end', n+1)
         nth.config(state='disabled')
@@ -277,6 +295,7 @@ class TopWords:
         for word in self.word_freqs.keys():
             self.word_dict[word] = [i for i in range(len(lemmas)) 
                                     if word in lemmas[i]]
+        self.most_common = self.word_freqs.most_common()
         self.clear_words()
         self.display()
             
@@ -308,20 +327,20 @@ class TopWords:
         tk.Button(top, text='Show', command=self.show_top_words).grid(row=2,column=0)
 
         tk.Label(top, text='Include parts of speech:', font=('Helvetica 12 bold')).grid(row=0,column=1)
-        self.noun_state = tk.IntVar(value=1)
-        self.noun = tk.Checkbutton(top, text='Noun', variable=self.noun_state)
+        self.pos_states[wordnet.NOUN] = tk.IntVar(value=1)
+        self.noun = tk.Checkbutton(top, text='Noun', variable=self.pos_states[wordnet.NOUN], command=self.show_top_words)
         self.noun.grid(row=1, column=1)
-        self.verb_state = tk.IntVar(value=1)
-        self.verb = tk.Checkbutton(top, text='Verb', variable=self.verb_state)
+        self.pos_states[wordnet.VERB] = tk.IntVar(value=1)
+        self.verb = tk.Checkbutton(top, text='Verb', variable=self.pos_states[wordnet.VERB], command=self.show_top_words)
         self.verb.grid(row=1, column=2)
-        self.adj_state = tk.IntVar(value=1)
-        self.adj = tk.Checkbutton(top, text='Adjective', variable=self.adj_state)
+        self.pos_states[wordnet.ADJ] = tk.IntVar(value=1)
+        self.adj = tk.Checkbutton(top, text='Adjective', variable=self.pos_states[wordnet.ADJ], command=self.show_top_words)
         self.adj.grid(row=1, column=3)
-        self.adv_state = tk.IntVar(value=1)
-        self.adv = tk.Checkbutton(top, text='Adverb', variable=self.adv_state)
+        self.pos_states[wordnet.ADV] = tk.IntVar(value=1)
+        self.adv = tk.Checkbutton(top, text='Adverb', variable=self.pos_states[wordnet.ADV], command=self.show_top_words)
         self.adv.grid(row=2, column=1)
-        self.other_state = tk.IntVar(value=1)
-        self.other = tk.Checkbutton(top, text='Other', variable=self.other_state)
+        self.pos_states['other'] = tk.IntVar(value=1)
+        self.other = tk.Checkbutton(top, text='Other', variable=self.pos_states['other'], command=self.show_top_words)
         self.other.grid(row=2, column=2)
         
         tk.Label(top, text='Show nth word: ', font=('Helvetica 12 bold')).grid(row=0,column=4)
