@@ -116,11 +116,11 @@ class TopWords:
         self.top_n = None
         self.nth = None
         
-        self.noun_state = 1
-        self.verb_state = 1
-        self.adj_state = 1
-        self.adv_state = 1
-        self.other_state = 1
+        self.noun_state = None
+        self.verb_state = None
+        self.adj_state = None
+        self.adv_state = None
+        self.other_state = None
         
         self.noun = None
         self.verb = None
@@ -301,37 +301,37 @@ class TopWords:
         bottom = tk.PanedWindow(main)
         main.add(bottom)
 
-        tk.Label(top, text='Show top n words: ').grid(row=0,column=0)
+        tk.Label(top, text='Show top n words: ', font=('Helvetica 12 bold')).grid(row=0,column=0)
         self.top_n = tk.Entry(top, width=10)
         self.top_n.grid(row=1,column=0)
         tk.Button(top, text='Show', command=self.show_top_words).grid(row=2,column=0)
-        
-        tk.Label(top, text='Show nth word: ').grid(row=0,column=1)
-        self.nth = tk.Entry(top, width=10)
-        self.nth.grid(row=1,column=1)
-        tk.Button(top, text='Show', command=self.show_nth_word).grid(row=2,column=1)
 
-        tk.Label(top, text='Show a word: ').grid(row=0,column=2)
-        self.txt = tk.Entry(top, width=10)
-        self.txt.grid(row=1,column=2)
-        tk.Button(top, text='Show', command=self.show_chosen_word).grid(row=2,column=2)
+        tk.Label(top, text='Include parts of speech:', font=('Helvetica 12 bold')).grid(row=0,column=1)
+        self.noun_state = tk.IntVar(value=1)
+        self.noun = tk.Checkbutton(top, text='Noun', variable=self.noun_state)
+        self.noun.grid(row=1, column=1)
+        self.verb_state = tk.IntVar(value=1)
+        self.verb = tk.Checkbutton(top, text='Verb', variable=self.verb_state)
+        self.verb.grid(row=1, column=2)
+        self.adj_state = tk.IntVar(value=1)
+        self.adj = tk.Checkbutton(top, text='Adjective', variable=self.adj_state)
+        self.adj.grid(row=1, column=3)
+        self.adv_state = tk.IntVar(value=1)
+        self.adv = tk.Checkbutton(top, text='Adverb', variable=self.adv_state)
+        self.adv.grid(row=2, column=1)
+        self.other_state = tk.IntVar(value=1)
+        self.other = tk.Checkbutton(top, text='Other', variable=self.other_state)
+        self.other.grid(row=2, column=2)
         
-        tk.Label(top, text='Include parts of speech:').grid(row=0,column=3)
-        self.noun_state = tk.IntVar()
-        self.noun = tk.Checkbutton(top, state='active', text='Noun', variable=self.noun_state)
-        self.noun.grid(row=1, column=3)
-        self.verb_state = tk.IntVar()
-        self.verb = tk.Checkbutton(top, state='active', text='Verb', variable=self.verb_state)
-        self.verb.grid(row=0, column=4)
-        self.adj_state = tk.IntVar()
-        self.adj = tk.Checkbutton(top, state='active', text='Adjective', variable=self.adj_state)
-        self.adj.grid(row=1, column=4)
-        self.adv_state = tk.IntVar()
-        self.adv = tk.Checkbutton(top, state='active', text='Adverb', variable=self.adv_state)
-        self.adv.grid(row=0, column=5)
-        self.other_state = tk.IntVar()
-        self.other = tk.Checkbutton(top, state='active', text='Other', variable=self.other_state)
-        self.other.grid(row=1, column=5)
+        tk.Label(top, text='Show nth word: ', font=('Helvetica 12 bold')).grid(row=0,column=4)
+        self.nth = tk.Entry(top, width=10)
+        self.nth.grid(row=1,column=4)
+        tk.Button(top, text='Show', command=self.show_nth_word).grid(row=2,column=4)
+
+        tk.Label(top, text='Show a word: ', font=('Helvetica 12 bold')).grid(row=0,column=5)
+        self.txt = tk.Entry(top, width=10)
+        self.txt.grid(row=1,column=5)
+        tk.Button(top, text='Show', command=self.show_chosen_word).grid(row=2,column=5)
         
 
         self.ns = tk.PanedWindow(bottom, orient='vertical')
