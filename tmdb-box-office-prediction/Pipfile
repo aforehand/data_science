@@ -14,12 +14,11 @@ seaborn = "*"
 matplotlib = "*"
 sklearn = "*"
 scipy = "*"
-nltk = "3.4.5"
+nltk = "==3.4.5"
 jupyter-contrib-nbextensions = "*"
 ipynb = "*"
 tensorflow = "*"
 keras = "*"
-random = "*"
 
 [requires]
 python_version = "3.7"
