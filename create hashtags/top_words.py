@@ -194,7 +194,7 @@ class TopWords:
                     for p in pos:
                         if self.pos_states[p].get() == 1:
                             valid_ns.append(n)
-                            print(word, p, self.pos_states[p].get())
+                            print(word, pos, self.pos_states[p].get())
                             break
                     n += 1
                 for i in valid_ns:
