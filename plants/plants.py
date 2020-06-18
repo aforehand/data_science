@@ -3,8 +3,7 @@ import selenium
 from selenium.webdriver import Firefox
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.support.ui import Select
-import bs4
-
+import re
 
 class PlantRecommender:
     """A recommender for designing plant guilds and permaculture gardens.
@@ -78,24 +77,31 @@ class PlantRecommender:
         else:
             self.region = region
         self.state = state 
+        self.plant_attributes = ['soil_coarse', 'soil_medium', 'soil_fine']
 
         options = Options()
         options.headless = True
         self.driver = Firefox(options=options)
+        self.usda_url = 'https://plantsdb.xyz/search'
         self.garden_search_url = 'https://garden.org/plants/search/advanced.php'
         self.driver.get(self.garden_search_url)
         # garden.org search parameters
-        self.sections = [s for s in driver.find_elements_by_xpath('//p') if
+        self.sections = [s for s in self.driver.find_elements_by_xpath('//p') if
             s.text is not '']
         self.plant_habit = self.get_inputs(self.sections[0])
         self.life_cycle = Select(self.sections[1].find_element_by_xpath('.//select'))
+        self.plant_attributes += [o.text for o in self.life_cycle.options[1:]]
         self.light = self.get_inputs(self.sections[2])
         self.water = self.get_inputs(self.sections[3])
         self.soil_ph = self.get_inputs(self.sections[4])
         self.cold_hardiness = Select(self.sections[5].find_element_by_xpath('.//select'))
+        self.plant_attributes += [o.text for o in self.cold_hardiness.options[1:]]
         self.maximum_zone = Select(self.sections[6].find_element_by_xpath('.//select'))
+        self.plant_attributes += [o.text for o in self.maximum_zone.options[1:]]
         self.plant_height = self.sections[7].find_element_by_xpath('.//input')
+        self.plant_attributes.append(self.plant_height.text)
         self.plant_spread = self.sections[8].find_element_by_xpath('.//input')
+        self.plant_attributes.append(self.plant_spread.text)
         self.leaves = self.get_inputs(self.sections[9])
         self.fruit = self.get_inputs(self.sections[10])
         self.fruiting_time = self.get_inputs(self.sections[11])
@@ -104,7 +110,9 @@ class PlantRecommender:
         self.bloom_size = self.get_inputs(self.sections[14])
         self.flower_time = self.get_inputs(self.sections[15])
         self.inflorescence_height = self.sections[16].find_element_by_xpath('.//input')
+        self.plant_attributes.append(self.inflorescence_height.text)
         self.foliage_mound_height = self.sections[17].find_element_by_xpath('.//input')
+        self.plant_attributes.append(self.foliage_mound_height.text)
         self.roots = self.get_inputs(self.sections[18])
         self.locations = self.get_inputs(self.sections[19])
         self.uses = self.get_inputs(self.sections[20])
@@ -131,7 +139,15 @@ class PlantRecommender:
     def get_inputs(self, section):
         inputs = section.find_elements_by_xpath('.//input')
         labels = section.find_elements_by_xpath('.//label')
+        self.plant_attributes += labels
         return {l.text: i for l,i in zip(labels,inputs)}
 
-
-        
+    def get_results(self):
+        links = self.driver.find_elements_by_xpath('.//a')
+        results = {}
+        for l in links:
+            url = l.get_attribute('href')
+            name = re.findall(r'(?<=\()([A-Z]\w+ [a-z]\w+)', l.text)[0] 
+            if 'plants/view/' in url and name is not '':
+                results[name] = url
+        return results
