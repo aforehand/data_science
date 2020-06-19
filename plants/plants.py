@@ -4,6 +4,7 @@ from selenium.webdriver import Firefox
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.support.ui import Select
 import re
+from collections import defaultdict
 
 class PlantRecommender:
     """A recommender for designing plant guilds and permaculture gardens.
@@ -77,7 +78,7 @@ class PlantRecommender:
         else:
             self.region = region
         self.state = state 
-        self.categorical_attributes = ['Genus', 'Species']
+        self.categorical_attributes = ['Genus', 'Species', 'Varieties']
         self.boolean_attributes = ['Coarse Soil', 'Medium Soil', 'Fine Soil']
         self.numeric_attributes = []
 
@@ -97,13 +98,13 @@ class PlantRecommender:
         self.water = self.get_inputs(self.sections[3])
         self.soil_ph = self.get_inputs(self.sections[4])
         self.cold_hardiness = Select(self.sections[5].find_element_by_xpath('.//select'))
-        self.numeric_attributes.append('Minimum Zone')
+        self.numeric_attributes.append('Minimum cold hardiness')
         self.maximum_zone = Select(self.sections[6].find_element_by_xpath('.//select'))
         self.numeric_attributes.append('Maximum recommended zone')
         self.plant_height = self.sections[7].find_element_by_xpath('.//input')
-        self.numeric_attributes.append(self.plant_height.text)
+        self.numeric_attributes.append('Plant Height')
         self.plant_spread = self.sections[8].find_element_by_xpath('.//input')
-        self.numeric_attributes.append(self.plant_spread.text)
+        self.numeric_attributes.append('Plant Spread')
         self.leaves = self.get_inputs(self.sections[9], 'Leaves_')
         self.fruit = self.get_inputs(self.sections[10], 'Fruit_')
         self.fruiting_time = self.get_inputs(self.sections[11], 'Fruiting Time_')
@@ -112,9 +113,9 @@ class PlantRecommender:
         self.bloom_size = self.get_inputs(self.sections[14])
         self.flower_time = self.get_inputs(self.sections[15], 'Flower Time_')
         self.inflorescence_height = self.sections[16].find_element_by_xpath('.//input')
-        self.numeric_attributes.append(self.inflorescence_height.text)
+        self.numeric_attributes.append('Inflorescence Height')
         self.foliage_mound_height = self.sections[17].find_element_by_xpath('.//input')
-        self.numeric_attributes.append(self.foliage_mound_height.text)
+        self.numeric_attributes.append('Foliage Mound Height')
         self.roots = self.get_inputs(self.sections[18])
         self.locations = self.get_inputs(self.sections[19])
         self.uses = self.get_inputs(self.sections[20])
@@ -146,65 +147,63 @@ class PlantRecommender:
 
     def get_results(self):
         links = self.driver.find_elements_by_xpath('.//a')
-        results = {}
+        results = defaultdict(list)
         for l in links:
             url = l.get_attribute('href')
             name = re.findall(r'(?<=\()([A-Z]\w+ [a-z]\w+)', l.text)
-            if 'plants/view/' in url and len(name) > 0 and name[0] not in results:
-                results[name[0]] = url
+            if 'plants/view/' in url and len(name) > 0:
+                results[name[0]].append(url)
         return results
 
     
     def filter_plants(self, results):
-        plants = {a:[] for a in (self.categorical_attributes
-                                + self.boolean_attributes
-                                + self.numeric_attributes)}
-        fields = ('Genus,Species,State_and_Province,Native_Status,'
-                'Adapted_to_Coarse_Textured_Soils,Adapted_to_Medium_Textured_Soils,'
-                'Adapted_to_Fine_Textured_Soils,Tempterature_Minimum_F,'
-                'pH_Minimum,pH_Maximum')
+        plants = pd.DataFrame()
         for name in results.keys():
-            self.driver.get(f'{self.usda_url}?Scientific_Name_y={name}&fields={fields}')
+            plant = {a:None for a in (self.categorical_attributes
+                                    + self.boolean_attributes
+                                    + self.numeric_attributes)}
+            genus,species = name.split()
+            self.driver.get(f'{self.usda_url}?Genus={genus}&Species={species}')
+            self.driver.implicitly_wait(5)
+            self.driver.find_element_by_id('rawdata-tab').click()
             data = self.driver.find_element_by_class_name('data')
-            data = eval(data.text.replace('null', 'None'))['data'][0]
-            is_native = ('L48 (N)' in data['Native_Status'])
-            states = data['State_and_Province']
-            states = states[states.index('(')+1:states.index(')')] 
-            in_location = ((self.state is None and self.region is None) or 
-                            (self.state in states) or 
-                            (len(set(self.region) & set(states)) > 0))
-            in_zone = (self.min_temp >= data['Temperature_Minimum_F'])
-            in_ph_range = ((self.ph >= data['pH_Minimum'] and 
-                            (self.ph <= data['pH_Maximum']))
+            try:
+                data = eval(data.text.replace('null', 'None'))['data'][0]
+                is_native = ('L48 (N)' in data['Native_Status'])
+                states = data['State_and_Province']
+                states = states[states.index('(')+1:states.index(')')] 
+                in_location = ((self.state is None and self.region is None) or 
+                                (self.state in states) or 
+                                (len(set(self.region) & set(states)) > 0))
+                in_zone = self.min_temp >= eval(data['Temperature_Minimum_F'])
+                in_ph_range = ((self.ph >= eval(data['pH_Minimum'])) and 
+                                (self.ph <= eval(data['pH_Maximum'])))
+            except:
+                continue
             if is_native and in_location and in_zone and in_ph_range:
-                plants['Genus'].append(data['Genus'])
-                plants['Species'].append(data['Species'])
-                plants['Coarse Soil'].append(data['Adapted_to_Coarse_Textured_Soils']=='Yes')
-                plants['Medium Soil'].append(data['Adapted_to_Medium_Textured_Soils']=='Yes')
-                plants['Fine Soil'].append(data['Adapted_to_Fine_Textured_Soils']=='Yes')
-                self.driver.get(results[name])
-                table = self.driver.find_elements_by_xpath('.//tbody')[1]
+                plant['Genus'] = genus
+                plant['Species'] = species
+                plant['Varieties'] = results[name]
+                plant['Coarse Soil'] = data['Adapted_to_Coarse_Textured_Soils']=='Yes'
+                plant['Medium Soil'] = data['Adapted_to_Medium_Textured_Soils']=='Yes'
+                plant['Fine Soil'] = data['Adapted_to_Fine_Textured_Soils']=='Yes'            
+                self.driver.get(results[name][0])
+                table = self.driver.find_element_by_xpath('//caption[contains(text(),'
+                        ' "General Plant Information")]/../tbody')
                 rows = table.find_elements_by_xpath('.//tr')
                 for row in rows:
                     field,values = row.find_elements_by_xpath('.//td')
                     field = field.text[:-1]
                     values = values.text.split('\n')
                     if field in self.categorical_attributes+self.numeric_attributes:
-                        plants[field] = values[0]
+                        plant[field] = values[0]
                     else:
-                        attrs = [a for a in self.boolean_attributes if field+'_' in a]
-                        for a in attrs:
-                            val = a.split('_')[1]
-                            if val in values:
-                                plants[a].append(True)
-                            else:
-                                plants[a].append(False)
-                        for a in list(set(self.boolean_attributes)-set(attrs)):
-                            if a in values:
-                                plants[a].append(True)
-                            else:
-                                plants[a].append(False)
+                        for v in values:
+                            if f'{field}_{v}' in self.boolean_attributes:
+                                plant[f'{field}_{v}'] = True 
+                            elif v in self.boolean_attributes:
+                                plant[v] = True
+                plants = plants.append(plant, ignore_index=True)
+        plants[self.boolean_attributes] = plants[self.boolean_attributes].applymap(
+                                            lambda x: False if None else True)
         return plants
-
-                    
-
