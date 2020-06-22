@@ -3,13 +3,16 @@ import selenium
 from selenium.webdriver import Firefox
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.support.ui import Select
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.by import By
 import re
 from collections import defaultdict
 
 class PlantRecommender:
     """A recommender for designing plant guilds and permaculture gardens.
     Uses a REST API for the USDA Plants Database 
-    (https://github.com/sckott/usdaplantsapi/) and the National Gerdening 
+    (https://github.com/sckott/usdaplantsapi/) and the National Gardening 
     Association's plant database (https://garden.org) to recommend plants for 
     various uses.
 
@@ -48,7 +51,8 @@ class PlantRecommender:
                             'loamy_very_fine_sand', 'very_fine_sand', 
                             'loamy_sand'}:
             self.soil_texture = {'Adapted_to_Coarse_Textured_Soils': 'Yes'}
-        elif soil_texture in {'medium', 'silt', 'sandy_clay_loam', 'very_fine_sandy_loam', 'silty_clay_loam', 
+        elif soil_texture in {'medium', 'silt', 'sandy_clay_loam', 
+                            'very_fine_sandy_loam', 'silty_clay_loam', 
                             'silt_loam', 'loam', 'fine_sandy_loam', 'sandy_loam', 
                             'coarse_sandy_loam', 'clay_loam'}:
             self.soil_texture = {'Adapted_to_Medium_Textured_Soils': 'Yes'}
@@ -65,14 +69,14 @@ class PlantRecommender:
         else:
             self.min_temp = None
         if region is not None:
-            regions = {'northeast': ['ME', 'NH', 'VT', 'MA', 'RI', 'CT', 'NY', 'NJ', 
-                                'PA', 'DE', 'MD', 'WV', 'VA'], 
+            regions = {'northeast': ['ME', 'NH', 'VT', 'MA', 'RI', 'CT', 'NY', 
+                                    'NJ', 'PA', 'DE', 'MD', 'WV', 'VA'], 
                         'southeast': ['NC', 'TN', 'AR', 'SC', 'GA', 'AL', 'MS', 
-                                'LA', 'FL'], 
-                        'midwest': ['MN', 'WI', 'MI', 'IA', 'IL', 'IN', 'OH', 'MO', 
-                                'KY'],
-                        'plains': ['MT', 'ND', 'WY', 'SD', 'NE', 'CO', 'KS', 'NM', 
-                                'TX', 'OK'],
+                                    'LA', 'FL'], 
+                        'midwest': ['MN', 'WI', 'MI', 'IA', 'IL', 'IN', 'OH', 
+                                    'MO', 'KY'],
+                        'plains': ['MT', 'ND', 'WY', 'SD', 'NE', 'CO', 'KS', 
+                                    'NM', 'TX', 'OK'],
                         'pacific': ['WA', 'OR', 'ID', 'CA', 'NV', 'UT', 'AZ']}
             self.region = regions[region]
         else:
@@ -92,14 +96,17 @@ class PlantRecommender:
         self.sections = [s for s in self.driver.find_elements_by_xpath('//p') if
             s.text is not '']
         self.plant_habit = self.get_inputs(self.sections[0])
-        self.life_cycle = Select(self.sections[1].find_element_by_xpath('.//select'))
+        self.life_cycle = Select(self.sections[1].find_element_by_xpath(
+            './/select'))
         self.categorical_attributes.append('Life cycle')
         self.light = self.get_inputs(self.sections[2])
         self.water = self.get_inputs(self.sections[3])
         self.soil_ph = self.get_inputs(self.sections[4])
-        self.cold_hardiness = Select(self.sections[5].find_element_by_xpath('.//select'))
+        self.cold_hardiness = Select(self.sections[5].find_element_by_xpath(
+            './/select'))
         self.numeric_attributes.append('Minimum cold hardiness')
-        self.maximum_zone = Select(self.sections[6].find_element_by_xpath('.//select'))
+        self.maximum_zone = Select(self.sections[6].find_element_by_xpath(
+            './/select'))
         self.numeric_attributes.append('Maximum recommended zone')
         self.plant_height = self.sections[7].find_element_by_xpath('.//input')
         self.numeric_attributes.append('Plant Height')
@@ -107,14 +114,17 @@ class PlantRecommender:
         self.numeric_attributes.append('Plant Spread')
         self.leaves = self.get_inputs(self.sections[9], 'Leaves_')
         self.fruit = self.get_inputs(self.sections[10], 'Fruit_')
-        self.fruiting_time = self.get_inputs(self.sections[11], 'Fruiting Time_')
+        self.fruiting_time = self.get_inputs(self.sections[11], 
+                                            'Fruiting Time_')
         self.flowers = self.get_inputs(self.sections[12], 'Flowers_')
         self.flower_color = self.get_inputs(self.sections[13],)
         self.bloom_size = self.get_inputs(self.sections[14])
         self.flower_time = self.get_inputs(self.sections[15], 'Flower Time_')
-        self.inflorescence_height = self.sections[16].find_element_by_xpath('.//input')
+        self.inflorescence_height = self.sections[16].find_element_by_xpath(
+            './/input')
         self.numeric_attributes.append('Inflorescence Height')
-        self.foliage_mound_height = self.sections[17].find_element_by_xpath('.//input')
+        self.foliage_mound_height = self.sections[17].find_element_by_xpath(
+            './/input')
         self.numeric_attributes.append('Foliage Mound Height')
         self.roots = self.get_inputs(self.sections[18])
         self.locations = self.get_inputs(self.sections[19])
@@ -133,10 +143,12 @@ class PlantRecommender:
         self.containers = self.get_inputs(self.sections[30])
         self.misc = self.get_inputs(self.sections[31])
         self.awards = self.get_inputs(self.sections[32])
-        self.conservation_status = Select(self.sections[33].find_element_by_xpath('.//select'))
+        self.conservation_status = Select(self.sections[33].
+            find_element_by_xpath('.//select'))
         self.parentage = self.sections[34].find_element_by_xpath('.//input')
         self.child_plants = self.sections[35].find_element_by_xpath('.//input')
-        self.sort_by = Select(self.sections[36].find_element_by_xpath('.//select'))
+        self.sort_by = Select(self.sections[36].find_element_by_xpath(
+            './/select'))
         self.clear_form = self.sections[37].find_element_by_xpath('.//a')
 
     def get_inputs(self, section, field=''):
@@ -146,6 +158,10 @@ class PlantRecommender:
         return {l.text: i for l,i in zip(labels,inputs)}
 
     def get_results(self):
+        """Return a dict with the scientific name of each plant returned by a 
+        query and a list of links to all varieties of that plant.
+        Note: self.driver must be on a garden.org results page before calling.
+        """
         links = self.driver.find_elements_by_xpath('.//a')
         results = defaultdict(list)
         for l in links:
@@ -157,8 +173,14 @@ class PlantRecommender:
 
     
     def filter_plants(self, results):
+        """Cross-reference plants returned from a garden.org query with the USDA
+        plants database to remove plants that do not meet requirements and 
+        return filtered results.
+        """
+        print('Finding native plants', end='')
         plants = pd.DataFrame()
         for name in results.keys():
+            print('.', end='')
             plant = {a:None for a in (self.categorical_attributes
                                     + self.boolean_attributes
                                     + self.numeric_attributes)}
@@ -188,14 +210,15 @@ class PlantRecommender:
                 plant['Medium Soil'] = data['Adapted_to_Medium_Textured_Soils']=='Yes'
                 plant['Fine Soil'] = data['Adapted_to_Fine_Textured_Soils']=='Yes'            
                 self.driver.get(results[name][0])
-                table = self.driver.find_element_by_xpath('//caption[contains(text(),'
-                        ' "General Plant Information")]/../tbody')
+                table = self.driver.find_element_by_xpath('//caption[contains('
+                'text(),"General Plant Information")]/../tbody')
                 rows = table.find_elements_by_xpath('.//tr')
                 for row in rows:
                     field,values = row.find_elements_by_xpath('.//td')
                     field = field.text[:-1]
                     values = values.text.split('\n')
-                    if field in self.categorical_attributes+self.numeric_attributes:
+                    if (field in self.categorical_attributes 
+                            + self.numeric_attributes):
                         plant[field] = values[0]
                     else:
                         for v in values:
@@ -204,6 +227,70 @@ class PlantRecommender:
                             elif v in self.boolean_attributes:
                                 plant[v] = True
                 plants = plants.append(plant, ignore_index=True)
-        plants[self.boolean_attributes] = plants[self.boolean_attributes].applymap(
-                                            lambda x: False if None else True)
         return plants
+
+    def get_all_native_plants(self, new=False):
+        """Download all native plants from USDA plant database with garden.org 
+        data"""
+        if new:
+            plants = pd.DataFrame()
+        else:
+            plants = pd.read_csv('all_native_plants.csv')                   
+        options = Options()
+        options.headless = True
+        for i in range(5000,93000,1000):
+            print(f'\n{i} / 93000')
+            self.driver.get(f'{self.usda_url}?limit=1000&offset={i}')
+            WebDriverWait(self.driver, 30).until(EC.presence_of_element_located(
+                (By.ID, 'rawdata-tab'))).click()
+            data_list = WebDriverWait(self.driver, 30).until(
+                EC.presence_of_element_located((By.CLASS_NAME, 'data')))
+            data_list = eval(data_list.text.replace('null', 'None'))['data']
+            for j in range(len(data_list)):
+                if j % 10 == 1:
+                    plants.to_csv('all_native_plants.csv', index=False)
+                    self.driver.quit()
+                    self.driver = Firefox(options=options)
+                    print('.', end='', flush=True)
+                plant = {a:None for a in (self.categorical_attributes
+                                        + self.boolean_attributes
+                                        + self.numeric_attributes)}
+                data = data_list[j]
+                is_native = (('L48 (N)' in data['Native_Status']) or 
+                            ('L48 (N?)' in data['Native_Status']))
+                in_df =  (plants[['Genus','Species']] == ({k:v for k,v in 
+                    data.items() if k in {'Genus','Species'}})).all(axis=1).any()
+                if is_native and not in_df:
+                    plant['Genus'] = data['Genus']
+                    plant['Species'] = data['Species']
+                    plant['Coarse Soil'] = data['Adapted_to_Coarse_Textured_Soils']=='Yes'
+                    plant['Medium Soil'] = data['Adapted_to_Medium_Textured_Soils']=='Yes'
+                    plant['Fine Soil'] = data['Adapted_to_Fine_Textured_Soils']=='Yes'            
+                    self.driver.get(f'https://garden.org/plants/search/text/?q='
+                        f'{plant["Genus"]}+{plant["Species"]}')
+                    results = self.get_results()
+                    plant['Varieties'] = results[f'{plant["Genus"]} '
+                        f'{plant["Species"]}']
+                    try:    
+                        self.driver.get(plant['Varieties'][0])
+                        table = self.driver.find_element_by_xpath('//caption['
+                            'contains(text(), "General Plant Information")]/../'
+                            'tbody')
+                    except:
+                        continue
+                    rows = table.find_elements_by_xpath('.//tr')
+                    for row in rows:
+                        field,values = row.find_elements_by_xpath('.//td')
+                        field = field.text[:-1]
+                        values = values.text.split('\n')
+                        if (field in self.categorical_attributes 
+                                + self.numeric_attributes):
+                            plant[field] = values[0]
+                        else:
+                            for v in values:
+                                if f'{field}_{v}' in self.boolean_attributes:
+                                    plant[f'{field}_{v}'] = True 
+                                elif v in self.boolean_attributes:
+                                    plant[v] = True
+                    plants = plants.append(plant, ignore_index=True)
+        self.driver.quit()
