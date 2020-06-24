@@ -229,6 +229,8 @@ class PlantRecommender:
                 plants = plants.append(plant, ignore_index=True)
         return plants
 
+        # TODO: implement function to search garden.org 
+
     def get_all_native_plants(self, new=False):
         """Download all native plants from USDA plant database with garden.org 
         data"""
@@ -238,7 +240,7 @@ class PlantRecommender:
             plants = pd.read_csv('all_native_plants.csv')                   
         options = Options()
         options.headless = True
-        for i in range(5000,93000,1000):
+        for i in range(13800,93000,1000):
             print(f'\n{i} / 93000')
             self.driver.get(f'{self.usda_url}?limit=1000&offset={i}')
             WebDriverWait(self.driver, 30).until(EC.presence_of_element_located(
@@ -261,6 +263,11 @@ class PlantRecommender:
                 in_df =  (plants[['Genus','Species']] == ({k:v for k,v in 
                     data.items() if k in {'Genus','Species'}})).all(axis=1).any()
                 if is_native and not in_df:
+                    #  columns to add: states, coppice, growth (clumping, 
+                    #  running, dispersive, etc.), active growth period?, 
+                    #  foliage porosity summer?, growth form?, known allelopath?,
+                    #  
+                    #  maybe to add from pfaf: edible and medicinal ratings,
                     plant['Genus'] = data['Genus']
                     plant['Species'] = data['Species']
                     plant['Coarse Soil'] = data['Adapted_to_Coarse_Textured_Soils']=='Yes'
@@ -294,3 +301,125 @@ class PlantRecommender:
                                     plant[v] = True
                     plants = plants.append(plant, ignore_index=True)
         self.driver.quit()
+
+
+"""
+considerations to implement:
+number of layers/plants (2-7)
+root structures
+shade tolerances (shade tolerant short plants under sun loving tall plants)
+combine root crops with vigorous plants that need thinning and won't mind the
+disturbance
+always include ground cover, nitrogen fixers, and mulchers
+define function for each patch
+plant height 
+TODO: convert neight and spread columns to min/max columns with
+same units. 
+"""
+
+import random
+
+class GuildRecommender:
+    """Recommends a group of native plants to be planted together in a guild.
+
+    layers: int, default=None
+        Number of layers to include in guild. Can range from 2-7. If None, a
+        random number of layers will be chosen.
+
+    zone: int, default=7
+        USDA hardiness zone of intended site. Can range from 1-10.
+
+    water: {'In Water', 'Wet', 'Wet Mesic', Mesic', 'Dry Mesic', 'Dry'}, 
+    default='Mesic'
+        The moisute of the soil at the site.
+
+    ph: int, default=6.5
+        The pH of the soil at the site.
+    
+    sun: string, default='Full Sun'
+        How much sun is available at the site.
+
+    include_trees: boolean, defualt=True
+        Whether or not trees can be considered when creating guilds.
+
+    edible_only: boolean, default=False
+        Whether only edible plants can be considered when creating guilds.
+
+    perennial_only: boolean, default=True
+        Whether only perennial plants will be considered when creating guilds.
+    """
+
+    def __init__(self, layers=None, zone=7, water='Mesic', ph='slightly acid', 
+                sun='Full Sun', include_trees=True, edible_only=False,
+                perennial_only=True):
+        if layers=None:
+            self.layers = random.randint(2,7)
+        else:
+            self.layers = layers 
+        self.zone = zone 
+        self.water = water 
+        if type(ph) == int or type(ph) == float:
+            if ph < 4.5:
+                self.ph = 'Extremely acid (3.5 – 4.4)'
+            elif ph < 5.1:
+                self.ph = 'Very strongly acid (4.5 – 5.0)'
+            elif ph < 5.6:
+                self.ph = 'Strongly acid (5.1 – 5.5)'
+            elif ph < 6.1:
+                self.ph = 'Moderately acid (5.6 – 6.0)'
+            elif ph < 6.6:
+                self.ph = 'Slightly acid (6.1 – 6.5)'
+            elif ph < 7.4:
+                self.ph = 'Neutral (6.6 – 7.3)'
+            elif ph < 7.9:
+                self.ph = 'Slightly alkaline (7.4 – 7.8)'
+            elif ph < 8.5:
+                self.ph = 'Moderately alkaline (7.9 – 8.4)'
+            else:
+                self.ph = 'Strongly alkaline (8.5 – 9.0)'
+        else:
+            self.ph = ph
+        sun_list = ['Full Sun', 'Full Sun to Partial Shade',
+            'Partial or Dappled Shade', 'Partial Shade to Full Shade', 
+            'Full Shade']
+        self.sun = sun_list[sun_list.index(sun):]
+        self.habits = {'Herb/Forb', 'Shrub', 'Tree', 'Cactus/Succulent', 
+            'Grass/Grass-like', 'Fern', 'Vine'}
+        # plants = pd.read_csv('all_native_plants.csv')
+        plants = pd.read_csv('some_native_plants.csv')
+        # TODO: filter by zone after can replace values in df with ints
+        self.plants = pd.DataFrame()
+        for s in self.sun:
+            self.plants.append(plants[plants[s]==True])
+        self.plants = self.plants[self.plants[self.ph]==True]
+        self.plants = self.plants[self.plants[self.water]==True]
+        if edible_only:
+            self.plants = self.plants[(self.plants['Seeds or Nuts']==True) | 
+                (self.plants['Stem']==True) | (self.plants['Leaves']==True) | 
+                (self.plants['Roots']==True) | (self.plants['Bark']==True) |
+                (self.plants['Sap']==True) |  (self.plants['Fruit']==True) | 
+                (self.plants['Flowers']==True)]
+        if not include_trees:
+            self.plants = self.plants[self.plants['Tree']!=True]
+        if perennial_only:
+            self.plants = self.plants[self.plants['Life cycle']=='Perennial']
+
+    def create_guild(self):
+        n_fixers = False
+        groundcovers = self.plants[self.plants['Groundcover']==True & 
+            self.plants[self.sun[0]]!=True]
+        # top_layers = self.plants[self.plants[self.sun[0]]==True]
+        # top_layer = top_layers.iloc[random.randrange(len(top_layers))]
+        # if top_layer['Nitrogen fixer'] == True:
+        #     n_fixers = True
+        guild = pd.DataFrame()
+        for _ in range(layers-1):
+            guild.append(self.plants.iloc[random.randrange(len(self.plants))], 
+            ignore_index=True)
+            if guild[-1:]['Nitrogen fixer'] == True:
+                n_fixers = True
+        if not n_fixers:
+            groundcovers = groundcovers[groundcover['Nitrogen fixer']==True]
+        guild.append(groundcovers.iloc[random.randrange(len(groundcovers))], 
+            ignore_index=True)     
+        return guild
