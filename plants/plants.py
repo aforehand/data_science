@@ -313,7 +313,7 @@ disturbance
 always include ground cover, nitrogen fixers, and mulchers
 define function for each patch
 plant height 
-TODO: convert neight and spread columns to min/max columns with
+TODO: convert height and spread columns to min/max columns with
 same units. 
 """
 
@@ -339,6 +339,15 @@ class GuildRecommender:
     sun: string, default='Full Sun'
         How much sun is available at the site.
 
+    soil_texture: string, default='medium'
+        Values can be {'coarse', 'medium', 'fine'}, or from the 
+        Soil Texture Triangle, {'sand', 'coarse_sand', 'fine_sand', 
+        'loamy_coarse_sand', 'loamy_fine_sand', 'loamy_very_fine_sand', 
+        'very_fine_sand', 'loamy_sand', 'silt', 'sandy_clay_loam', 
+        'very_fine_sandy_loam', 'silty_clay_loam', 'silt_loam', 'loam', 
+        'fine_sandy_loam', 'sandy_loam', 'coarse_sandy_loam', 'clay_loam', 
+        'sandy_clay', 'silty_clay', 'clay'}.
+
     include_trees: boolean, defualt=True
         Whether or not trees can be considered when creating guilds.
 
@@ -349,40 +358,49 @@ class GuildRecommender:
         Whether only perennial plants will be considered when creating guilds.
     """
 
-    def __init__(self, layers=None, zone=7, water='Mesic', ph='slightly acid', 
-                sun='Full Sun', include_trees=True, edible_only=False,
-                perennial_only=True):
+    def __init__(self, layers=None, zone=7, water='Mesic', ph=6.5, 
+                sun='Full Sun', soil_texture='medium', include_trees=True, 
+                edible_only=False, perennial_only=True):
         if layers=None:
             self.layers = random.randint(2,7)
         else:
             self.layers = layers 
         self.zone = zone 
         self.water = water 
-        if type(ph) == int or type(ph) == float:
             if ph < 4.5:
-                self.ph = 'Extremely acid (3.5 – 4.4)'
-            elif ph < 5.1:
-                self.ph = 'Very strongly acid (4.5 – 5.0)'
-            elif ph < 5.6:
-                self.ph = 'Strongly acid (5.1 – 5.5)'
-            elif ph < 6.1:
-                self.ph = 'Moderately acid (5.6 – 6.0)'
-            elif ph < 6.6:
-                self.ph = 'Slightly acid (6.1 – 6.5)'
-            elif ph < 7.4:
-                self.ph = 'Neutral (6.6 – 7.3)'
-            elif ph < 7.9:
-                self.ph = 'Slightly alkaline (7.4 – 7.8)'
-            elif ph < 8.5:
-                self.ph = 'Moderately alkaline (7.9 – 8.4)'
-            else:
-                self.ph = 'Strongly alkaline (8.5 – 9.0)'
+            self.ph = 'Extremely acid (3.5 – 4.4)'
+        elif ph < 5.1:
+            self.ph = 'Very strongly acid (4.5 – 5.0)'
+        elif ph < 5.6:
+            self.ph = 'Strongly acid (5.1 – 5.5)'
+        elif ph < 6.1:
+            self.ph = 'Moderately acid (5.6 – 6.0)'
+        elif ph < 6.6:
+            self.ph = 'Slightly acid (6.1 – 6.5)'
+        elif ph < 7.4:
+            self.ph = 'Neutral (6.6 – 7.3)'
+        elif ph < 7.9:
+            self.ph = 'Slightly alkaline (7.4 – 7.8)'
+        elif ph < 8.5:
+            self.ph = 'Moderately alkaline (7.9 – 8.4)'
         else:
-            self.ph = ph
+            self.ph = 'Strongly alkaline (8.5 – 9.0)'
         sun_list = ['Full Sun', 'Full Sun to Partial Shade',
             'Partial or Dappled Shade', 'Partial Shade to Full Shade', 
             'Full Shade']
         self.sun = sun_list[sun_list.index(sun):]
+        if soil_texture in {'coarse', 'sand', 'coarse_sand', 'fine_sand', 
+                            'loamy_coarse_sand', 'loamy_fine_sand', 
+                            'loamy_very_fine_sand', 'very_fine_sand', 
+                            'loamy_sand'}:
+            self.soil_texture = 'Coarse Soil'
+        elif soil_texture in {'medium', 'silt', 'sandy_clay_loam', 
+                            'very_fine_sandy_loam', 'silty_clay_loam', 
+                            'silt_loam', 'loam', 'fine_sandy_loam', 'sandy_loam', 
+                            'coarse_sandy_loam', 'clay_loam'}:
+            self.soil_texture = 'Medium Soil'
+        elif soil_texture in {'fine', 'sandy_clay', 'silty_clay', 'clay'}:
+            self.soil_texture = 'Fine Soil'
         self.habits = {'Herb/Forb', 'Shrub', 'Tree', 'Cactus/Succulent', 
             'Grass/Grass-like', 'Fern', 'Vine'}
         # plants = pd.read_csv('all_native_plants.csv')
@@ -393,6 +411,7 @@ class GuildRecommender:
             self.plants.append(plants[plants[s]==True])
         self.plants = self.plants[self.plants[self.ph]==True]
         self.plants = self.plants[self.plants[self.water]==True]
+        self.plants = self.plants[self.plants[self.soil_texture]==True]
         if edible_only:
             self.plants = self.plants[(self.plants['Seeds or Nuts']==True) | 
                 (self.plants['Stem']==True) | (self.plants['Leaves']==True) | 
