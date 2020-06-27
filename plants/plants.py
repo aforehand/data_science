@@ -240,7 +240,7 @@ class PlantRecommender:
             plants = pd.read_csv('all_native_plants.csv')                   
         options = Options()
         options.headless = True
-        for i in range(13800,93000,1000):
+        for i in range(74200,93000,1000):
             print(f'\n{i} / 93000')
             self.driver.get(f'{self.usda_url}?limit=1000&offset={i}')
             WebDriverWait(self.driver, 30).until(EC.presence_of_element_located(
@@ -361,13 +361,13 @@ class GuildRecommender:
     def __init__(self, layers=None, zone=7, water='Mesic', ph=6.5, 
                 sun='Full Sun', soil_texture='medium', include_trees=True, 
                 edible_only=False, perennial_only=True):
-        if layers=None:
+        if layers==None:
             self.layers = random.randint(2,7)
         else:
             self.layers = layers 
         self.zone = zone 
         self.water = water 
-            if ph < 4.5:
+        if ph < 4.5:
             self.ph = 'Extremely acid (3.5 – 4.4)'
         elif ph < 5.1:
             self.ph = 'Very strongly acid (4.5 – 5.0)'
