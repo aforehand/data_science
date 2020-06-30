@@ -12,6 +12,7 @@ beautifulsoup4 = "*"
 mechanize = "*"
 selenium = "*"
 jupyter = "*"
+seaborn = "*"
 
 [requires]
 python_version = "3.7"

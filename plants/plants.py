@@ -1,4 +1,7 @@
 import pandas as pd 
+import re
+import numpy as np
+import random
 import selenium
 from selenium.webdriver import Firefox
 from selenium.webdriver.firefox.options import Options
@@ -6,7 +9,6 @@ from selenium.webdriver.support.ui import Select
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
-import re
 from collections import defaultdict
 
 class PlantRecommender:
@@ -266,7 +268,7 @@ class PlantRecommender:
                     #  columns to add: states, coppice, growth (clumping, 
                     #  running, dispersive, etc.), active growth period?, 
                     #  foliage porosity summer?, growth form?, known allelopath?,
-                    #  
+                    #  fertility requitement, height
                     #  maybe to add from pfaf: edible and medicinal ratings,
                     plant['Genus'] = data['Genus']
                     plant['Species'] = data['Species']
@@ -312,17 +314,12 @@ combine root crops with vigorous plants that need thinning and won't mind the
 disturbance
 always include ground cover, nitrogen fixers, and mulchers
 define function for each patch
-plant height 
-TODO: convert height and spread columns to min/max columns with
-same units. 
 """
-
-import random
 
 class GuildRecommender:
     """Recommends a group of native plants to be planted together in a guild.
 
-    layers: int, default=None
+    num_layers: int, default=None
         Number of layers to include in guild. Can range from 2-7. If None, a
         random number of layers will be chosen.
 
@@ -358,13 +355,13 @@ class GuildRecommender:
         Whether only perennial plants will be considered when creating guilds.
     """
 
-    def __init__(self, layers=None, zone=7, water='Mesic', ph=6.5, 
+    def __init__(self, num_layers=None, zone=7, water='Mesic', ph=6.5, 
                 sun='Full Sun', soil_texture='medium', include_trees=True, 
                 edible_only=False, perennial_only=True):
-        if layers==None:
-            self.layers = random.randint(2,7)
+        if num_layers==None:
+            self.num_layers = random.randint(2,7)
         else:
-            self.layers = layers 
+            self.num_layers = num_layers 
         self.zone = zone 
         self.water = water 
         if ph < 4.5:
@@ -403,12 +400,12 @@ class GuildRecommender:
             self.soil_texture = 'Fine Soil'
         self.habits = {'Herb/Forb', 'Shrub', 'Tree', 'Cactus/Succulent', 
             'Grass/Grass-like', 'Fern', 'Vine'}
-        # plants = pd.read_csv('all_native_plants.csv')
-        plants = pd.read_csv('some_native_plants.csv')
-        # TODO: filter by zone after can replace values in df with ints
-        self.plants = pd.DataFrame()
+        plants = pd.read_csv('all_native_plants.csv')
+        self.plants = plants[(plants['Minimum cold hardiness']<=zone) & 
+            ((plants['Maximum recommended zone']==np.nan) | 
+            (plants['Maximum recommended zone']>=zone))]
         for s in self.sun:
-            self.plants.append(plants[plants[s]==True])
+            self.plants = self.plants.append(self.plants[self.plants[s]==True])
         self.plants = self.plants[self.plants[self.ph]==True]
         self.plants = self.plants[self.plants[self.water]==True]
         self.plants = self.plants[self.plants[self.soil_texture]==True]
@@ -418,27 +415,91 @@ class GuildRecommender:
                 (self.plants['Roots']==True) | (self.plants['Bark']==True) |
                 (self.plants['Sap']==True) |  (self.plants['Fruit']==True) | 
                 (self.plants['Flowers']==True)]
-        if not include_trees:
+        self.include_trees = include_trees
+        if not self.include_trees:
             self.plants = self.plants[self.plants['Tree']!=True]
         if perennial_only:
             self.plants = self.plants[self.plants['Life cycle']=='Perennial']
 
     def create_guild(self):
         n_fixers = False
-        groundcovers = self.plants[self.plants['Groundcover']==True & 
-            self.plants[self.sun[0]]!=True]
-        # top_layers = self.plants[self.plants[self.sun[0]]==True]
-        # top_layer = top_layers.iloc[random.randrange(len(top_layers))]
-        # if top_layer['Nitrogen fixer'] == True:
-        #     n_fixers = True
+        if self.include_trees:
+            all_layers = ['canopy', 'understory', 'shrub', 'herb','rhizome', 
+                'vine']
+            guild_layers = random.sample(all_layers, self.num_layers-1)
+        else:
+            all_layers = ['shrub', 'herb', 'rhizome', 'vine']
+            guild_layers = random.choices(all_layers, self.num_layers-1)
         guild = pd.DataFrame()
-        for _ in range(layers-1):
-            guild.append(self.plants.iloc[random.randrange(len(self.plants))], 
-            ignore_index=True)
-            if guild[-1:]['Nitrogen fixer'] == True:
-                n_fixers = True
-        if not n_fixers:
-            groundcovers = groundcovers[groundcover['Nitrogen fixer']==True]
-        guild.append(groundcovers.iloc[random.randrange(len(groundcovers))], 
-            ignore_index=True)     
+        canopy = None
+        understory = None
+        shrub = None
+        herb = None
+        groundcover = None 
+        rhizome = None 
+        vine = None 
+        # import pdb; pdb.set_trace()
+        if 'canopy' in guild_layers:
+            canopies = self.plants[(self.plants['Tree']==True) &  
+                (self.plants[self.sun[0]]==True)]
+            canopy = canopies.iloc[random.randint(0, len(canopies))]
+            guild = guild.append(canopy, ignore_index=True)
+        if 'understory' in guild_layers:
+            all_understories = self.plants[self.plants['Tree']==True]
+            understories = pd.DataFrame()
+            if 'canopy' in guild_layers:
+                for s in self.sun[1:]:
+                    understories = understories.append(all_understories[
+                        all_understories[s]==True]) 
+                canopy_height = canopy['Min Height']
+                if canopy_height is not np.nan:
+                    understories = understories[understories['Max Height'] < 
+                        canopy_height]
+                else:
+                    understories = understories[understories['Max Height'] < 50]
+            else:
+                understories = all_understories[all_understories[self.sun[0]]==
+                    True]
+                understories = understories[understories['Max Height'] < 50]
+            understory = understories.iloc[random.randint(0, len(understories))]
+            guild = guild.append(understory, ignore_index=True)
+        canopy_present = 'canopy' in guild_layers
+        understory_present = 'understory' in guild_layers
+        if 'shrub' in guild_layers:
+            shrub = self.get_lower_plants(['Shrub'], canopy_present, understory_present) 
+            guild = guild.append(shrub, ignore_index=True)
+        if 'herb' in guild_layers:
+            herb = self.get_lower_plants(['Herb/Forb', 'Fern'], canopy_present, 
+                understory_present)
+            guild = guild.append(herb, ignore_index=True)
+        if 'vine' in guild_layers:
+            vine = self.get_lower_plants(['Vine'], canopy_present, understory_present)
+            guild = guild.append(vine, ignore_index=True)
+        if 'rhizome' in guild_layers:
+            rhizome = self.get_lower_plants(['Rhizome', 'Tuber'], canopy_present, 
+                understory_present)
+            guild = guild.append(rhizome, ignore_index=True)
+        n_fixers = (guild['Nitrogen fixer'] == True).any()
+        groundcover = self.get_lower_plants(['Groundcover'], canopy_present,
+            understory_present, n_fixers)
+        guild = guild.append(groundcover, ignore_index=True)
         return guild
+        
+
+
+    def get_lower_plants(self, layers, canopy_present, understory_present, n_fix=True):
+        all_in_layer = pd.DataFrame()
+        for l in layers:
+            all_in_layer = all_in_layer.append(self.plants[self.plants[l]==True])
+        if not n_fix:
+            all_in_layer = all_in_layer[all_in_layer['Nitrogen fixer']==True]
+        selected = pd.DataFrame()
+        if canopy_present or understory_present:
+            for s in self.sun[1:]:
+                selected = selected.append(all_in_layer[all_in_layer[s]==True])
+        else:
+            selected = all_in_layer[all_in_layer[self.sun[0]]==True]
+        plant = selected.iloc[random.randint(0, len(selected))]
+        return plant
+
+
