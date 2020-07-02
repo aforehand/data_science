@@ -268,7 +268,7 @@ class PlantRecommender:
                     #  columns to add: states, coppice, growth (clumping, 
                     #  running, dispersive, etc.), active growth period?, 
                     #  foliage porosity summer?, growth form?, known allelopath?,
-                    #  fertility requitement, height
+                    #  fertility requitement, height, temperature_minimum_f
                     #  maybe to add from pfaf: edible and medicinal ratings,
                     plant['Genus'] = data['Genus']
                     plant['Species'] = data['Species']
@@ -401,11 +401,11 @@ class GuildRecommender:
         self.habits = {'Herb/Forb', 'Shrub', 'Tree', 'Cactus/Succulent', 
             'Grass/Grass-like', 'Fern', 'Vine'}
         plants = pd.read_csv('all_native_plants.csv')
-        self.plants = plants[(plants['Minimum cold hardiness']<=zone) & 
+        plants = plants[(plants['Minimum cold hardiness']<=zone) & 
             ((plants['Maximum recommended zone']==np.nan) | 
             (plants['Maximum recommended zone']>=zone))]
         for s in self.sun:
-            self.plants = self.plants.append(self.plants[self.plants[s]==True])
+            self.plants = self.plants.append(plants[plants[s]==True])
         self.plants = self.plants[self.plants[self.ph]==True]
         self.plants = self.plants[self.plants[self.water]==True]
         self.plants = self.plants[self.plants[self.soil_texture]==True]
@@ -438,7 +438,6 @@ class GuildRecommender:
         groundcover = None 
         rhizome = None 
         vine = None 
-        # import pdb; pdb.set_trace()
         if 'canopy' in guild_layers:
             canopies = self.plants[(self.plants['Tree']==True) &  
                 (self.plants[self.sun[0]]==True)]
