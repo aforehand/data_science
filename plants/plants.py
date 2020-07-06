@@ -404,8 +404,10 @@ class GuildRecommender:
         plants = plants[(plants['Minimum cold hardiness']<=zone) & 
             ((plants['Maximum recommended zone']==np.nan) | 
             (plants['Maximum recommended zone']>=zone))]
+        self.plants = pd.DataFrame()
         for s in self.sun:
-            self.plants = self.plants.append(plants[plants[s]==True])
+            self.plants = self.plants.append(plants[plants[s]==True], 
+                ignore_index=True)
         self.plants = self.plants[self.plants[self.ph]==True]
         self.plants = self.plants[self.plants[self.water]==True]
         self.plants = self.plants[self.plants[self.soil_texture]==True]
@@ -449,7 +451,7 @@ class GuildRecommender:
             if 'canopy' in guild_layers:
                 for s in self.sun[1:]:
                     understories = understories.append(all_understories[
-                        all_understories[s]==True]) 
+                        all_understories[s]==True], ignore_index=True) 
                 canopy_height = canopy['Min Height']
                 if canopy_height is not np.nan:
                     understories = understories[understories['Max Height'] < 
