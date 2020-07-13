@@ -503,4 +503,5 @@ class GuildRecommender:
         plant = selected.iloc[random.randint(0, len(selected))]
         return plant
 
-
+# TODO: include 'Leaves Spring ephemeral' with herbs that grow later'
+# TODO: add method to get columns and add option to filter by specified columns
