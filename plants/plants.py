@@ -326,7 +326,7 @@ class GuildRecommender:
     zone: int, default=7
         USDA hardiness zone of intended site. Can range from 1-10.
 
-    water: {'In Water', 'Wet', 'Wet Mesic', Mesic', 'Dry Mesic', 'Dry'}, 
+    water: {'In Water', 'Wet', 'Wet Mesic', 'Mesic', 'Dry Mesic', 'Dry'}, 
     default='Mesic'
         The moisute of the soil at the site.
 
