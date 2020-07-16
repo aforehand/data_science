@@ -1,31 +1,31 @@
-Active_Growth_Period,Bloom_Period,Coppice_Potential,Duration,Fertility_Requirement,Foliage_Porosity_Summer,Genus,Growth_Form,Growth_Habit,Growth_Rate,Height_Mature_feet,Known_Allelopath,Species,State_and_Province,Vegetative_Spread_Rate,pH_Maximum,pH_Minimum
+Active Growth Period,Bloom Period,Coppice Potential,Duration,Fertility Requirement,Foliage Porosity Summer,Genus,Growth Form,Growth Habit,Growth Rate,Height Mature feet,Known Allelopath,Species,State and Province,Vegetative Spread Rate,pH Maximum,pH Minimum
 ,,,Perennial,,,Abutilon,,"Subshrub, Forb/herb",,,,abutiloides,"USA (AZ, TX), USA+ (PR, VI)",,,
 ,,,Perennial,,,Abies,,Tree,,,,amabilis,"USA (AK, CA, OR, WA), CAN (BC)",,,
-Spring and Summer,Mid Summer,No,Perennial,Medium,Dense,Abies,Single Stem,Tree,Slow,60,No,balsamea,"USA (CT, IA, IN, MA, MD, ME, MI, MN, NH, NJ, NY, OH, PA, RI, VA, VT, WI, WV), CAN (AB, LB, MB, NB, NF, NS, ON, PE, QC, SK), FRA (SPM)",None,6.0,4.0
-Spring and Summer,Mid Summer,No,Perennial,Medium,Dense,Abies,Single Stem,Tree,Slow,60,No,balsamea,"USA (CT, IA, IN, MA, MD, ME, MI, MN, NH, NJ, NY, OH, PA, RI, VA, VT, WI, WV), CAN (AB, LB, MB, NB, NF, NS, ON, PE, QC, SK), FRA (SPM)",None,6.0,4.0
+Spring and Summer,Mid Summer,No,Perennial,Medium,Dense,Abies,Single Stem,Tree,Slow,60.0,No,balsamea,"USA (CT, IA, IN, MA, MD, ME, MI, MN, NH, NJ, NY, OH, PA, RI, VA, VT, WI, WV), CAN (AB, LB, MB, NB, NF, NS, ON, PE, QC, SK), FRA (SPM)",None,6.0,4.0
+Spring and Summer,Mid Summer,No,Perennial,Medium,Dense,Abies,Single Stem,Tree,Slow,60.0,No,balsamea,"USA (CT, IA, IN, MA, MD, ME, MI, MN, NH, NJ, NY, OH, PA, RI, VA, VT, WI, WV), CAN (AB, LB, MB, NB, NF, NS, ON, PE, QC, SK), FRA (SPM)",None,6.0,4.0
 ,,,Perennial,,,Abutilon,,Shrub,,,,berlandieri,USA (TX),,,
 ,,,Perennial,,,Abies,,Tree,,,,bracteata,USA (CA),,,
-Spring and Summer,Late Spring,No,Perennial,Medium,Dense,Abies,Single Stem,Tree,Slow,120,No,concolor,"USA (AZ, CO, ID, MA, ME, NM, NV, OR, UT, WY)",None,7.8,5.5
-Spring and Summer,Mid Spring,No,Perennial,Low,Moderate,Abies,Single Stem,Tree,Moderate,55,No,fraseri,"USA (GA, NC, TN, VA)",None,5.5,3.5
+Spring and Summer,Late Spring,No,Perennial,Medium,Dense,Abies,Single Stem,Tree,Slow,120.0,No,concolor,"USA (AZ, CO, ID, MA, ME, NM, NV, OR, UT, WY)",None,7.8,5.5
+Spring and Summer,Mid Spring,No,Perennial,Low,Moderate,Abies,Single Stem,Tree,Moderate,55.0,No,fraseri,"USA (GA, NC, TN, VA)",None,5.5,3.5
 ,,,Perennial,,,Abronia,,Forb/herb,,,,fragrans,"USA (AZ, CO, KS, MT, ND, NE, NM, OK, SD, TX, UT, WA, WY)",,,
 ,,,Perennial,,,Abutilon,,Subshrub,,,,fruticosum,"USA (AR, OK, TX)",,,
-Spring and Summer,Late Spring,No,Perennial,Medium,Dense,Abies,Single Stem,Tree,Moderate,150,No,grandis,"USA (CA, ID, MT, OR, WA), CAN (BC)",None,7.5,4.5
+Spring and Summer,Late Spring,No,Perennial,Medium,Dense,Abies,Single Stem,Tree,Moderate,150.0,No,grandis,"USA (CA, ID, MT, OR, WA), CAN (BC)",None,7.5,4.5
 ,,,Perennial,,,Abutilon,,"Subshrub, Forb/herb",,,,hulseanum,"USA (FL, LA, TX), USA+ (PR)",,,
 ,,,Perennial,,,Abutilon,,"Subshrub, Shrub",,,,hypoleucum,USA (TX),,,
 ,,,Perennial,,,Abutilon,,"Subshrub, Forb/herb",,,,incanum,"USA (AZ, CO, HI, NM)",,,
-Spring and Summer,Late Spring,No,Perennial,Medium,Dense,Abies,Single Stem,Tree,Slow,90,No,lasiocarpa,"USA (AK, AZ, CA, CO, ID, MT, NM, NV, OR, UT, WA, WY), CAN (AB, BC, NT, YT)",None,6.5,4.0
+Spring and Summer,Late Spring,No,Perennial,Medium,Dense,Abies,Single Stem,Tree,Slow,90.0,No,lasiocarpa,"USA (AK, AZ, CA, CO, ID, MT, NM, NV, OR, UT, WA, WY), CAN (AB, BC, NT, YT)",None,6.5,4.0
 ,,,Perennial,,,Abronia,,Forb/herb,,,,latifolia,"USA (CA, OR, WA), CAN (BC)",,,
-Spring and Summer,Late Spring,No,Perennial,Medium,Dense,Abies,Single Stem,Tree,Slow,90,No,lasiocarpa,"USA (AK, AZ, CA, CO, ID, MT, NM, NV, OR, UT, WA, WY), CAN (AB, BC, NT, YT)",None,6.5,4.0
-Spring and Summer,Late Spring,No,Perennial,Low,Moderate,Abies,Single Stem,Tree,Slow,150,No,magnifica,"USA (CA, NV, NY, OR)",None,6.1,5.0
+Spring and Summer,Late Spring,No,Perennial,Medium,Dense,Abies,Single Stem,Tree,Slow,90.0,No,lasiocarpa,"USA (AK, AZ, CA, CO, ID, MT, NM, NV, OR, UT, WA, WY), CAN (AB, BC, NT, YT)",None,6.5,4.0
+Spring and Summer,Late Spring,No,Perennial,Low,Moderate,Abies,Single Stem,Tree,Slow,150.0,No,magnifica,"USA (CA, NV, NY, OR)",None,6.1,5.0
 ,,,Perennial,,,Abronia,,Forb/herb,,,,maritima,USA (CA),,,
 ,,,Perennial,,,Abutilon,,"Subshrub, Forb/herb",,,,malacum,"USA (AZ, NM, TX)",,,
-Spring and Summer,Late Spring,No,Perennial,Low,Moderate,Abies,Single Stem,Tree,Slow,150,No,magnifica,"USA (CA, NV, NY, OR)",None,6.1,5.0
+Spring and Summer,Late Spring,No,Perennial,Low,Moderate,Abies,Single Stem,Tree,Slow,150.0,No,magnifica,"USA (CA, NV, NY, OR)",None,6.1,5.0
 ,,,Perennial,,,Abutilon,,"Subshrub, Shrub, Forb/herb",,,,mollicomum,"USA (AZ, NM, TX)",,,
 ,,,Perennial,,,Abutilon,,"Shrub, Subshrub",,,,palmeri,"USA (AZ, CA)",,,
 ,,,Perennial,,,Abutilon,,"Subshrub, Shrub, Forb/herb",,,,parishii,USA (AZ),,,
 ,,,Perennial,,,Abutilon,,"Subshrub, Forb/herb",,,,parvulum,"USA (AZ, CA, CO, NM, NV, TX, UT)",,,
 ,,,Perennial,,,Abutilon,,"Subshrub, Forb/herb",,,,permolle,"USA (FL), USA+ (PR)",,,
-Spring and Summer,Late Spring,No,Perennial,Low,Dense,Abies,Single Stem,Tree,Rapid,230,No,procera,"USA (CA, OR, WA)",None,7.5,6.0
+Spring and Summer,Late Spring,No,Perennial,Low,Dense,Abies,Single Stem,Tree,Rapid,230.0,No,procera,"USA (CA, OR, WA)",None,7.5,6.0
 ,,,Perennial,,,Abutilon,,"Subshrub, Forb/herb",,,,reventum,USA (AZ),,,
 ,,,Perennial,,,Abutilon,,"Subshrub, Shrub",,,,trisulcatum,USA (TX),,,
 ,,,"Annual, Perennial",,,Abronia,,Forb/herb,,,,turbinata,"USA (CA, NV, OR)",,,
@@ -41,10 +41,10 @@ Spring and Summer,Late Spring,No,Perennial,Low,Porous,Acacia,Multiple Stem,"Tree
 ,,,Perennial,,,Actaea,,Forb/herb,,,,elata,"USA (OR, WA), CAN (BC)",,,
 ,,,Perennial,,,Acer,,"Tree, Shrub",,,,glabrum,"USA (AK, AZ, CA, CO, ID, MT, NE, NM, NV, OR, SD, UT, WA, WY), CAN (AB, BC)",,,
 ,,,Perennial,,,Acer,,"Tree, Shrub",,,,glabrum,"USA (AK, AZ, CA, CO, ID, MT, NE, NM, NV, OR, SD, UT, WA, WY), CAN (AB, BC)",,,
-Spring and Summer,Mid Spring,No,Perennial,Low,Porous,Acacia,Multiple Stem,"Tree, Shrub",Slow,20,No,greggii,"USA (AZ, CA, NM, NV, TX, UT)",None,8.5,6.5
+Spring and Summer,Mid Spring,No,Perennial,Low,Porous,Acacia,Multiple Stem,"Tree, Shrub",Slow,20.0,No,greggii,"USA (AZ, CA, NM, NV, TX, UT)",None,8.5,6.5
 ,,,Annual,,,Acalypha,,Forb/herb,,,,gracilens,"USA (AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KY, LA, MA, MD, ME, MI, MO, MS, NC, NH, NJ, NY, OH, OK, PA, RI, SC, TN, TX, VA, VT, WI, WV)",,,
 ,,,Perennial,,,Acer,,"Tree, Shrub",,,,grandidentatum,"USA (AZ, CO, ID, MT, NM, NV, TX, UT, WA, WY)",,,
-Spring and Summer,Mid Spring,No,Perennial,Low,Porous,Acacia,Multiple Stem,"Tree, Shrub",Slow,20,No,greggii,"USA (AZ, CA, NM, NV, TX, UT)",None,8.5,6.5
+Spring and Summer,Mid Spring,No,Perennial,Low,Porous,Acacia,Multiple Stem,"Tree, Shrub",Slow,20.0,No,greggii,"USA (AZ, CA, NM, NV, TX, UT)",None,8.5,6.5
 ,,,Perennial,,,Actaea,,Forb/herb,,,,laciniata,"USA (OR, WA)",,,
 ,,,Perennial,,,Acer,,"Tree, Shrub",,,,leucoderme,"USA (AL, AR, DC, FL, GA, LA, MS, NC, OK, SC, TN, TX)",,,
 ,,,Perennial,,,Acer,,Tree,,,,macrophyllum,"USA (CA, OR, WA), CAN (BC)",,,
@@ -52,29 +52,29 @@ Spring and Summer,Mid Spring,No,Perennial,Low,Porous,Acacia,Multiple Stem,"Tree,
 ,,,Perennial,,,Acourtia,,"Subshrub, Forb/herb",,,,microcephala,USA (CA),,,
 Spring,Early Summer,No,Perennial,Medium,Porous,Achillea,Rhizomatous,Forb/herb,Moderate,3.0,No,millefolium,"USA (AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, HI, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY), CAN (AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT), DEN (GL), FRA (SPM)",Slow,8.0,6.0
 Spring,Early Summer,No,Perennial,Medium,Porous,Achillea,Rhizomatous,Forb/herb,Moderate,3.0,No,millefolium,"USA (AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, HI, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY), CAN (AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT), DEN (GL), FRA (SPM)",Slow,8.0,6.0
-Spring and Summer,Early Spring,Yes,Perennial,Medium,Dense,Acer,Multiple Stem,Tree,Rapid,60,No,negundo,"USA (AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY), CAN (AB, BC, MB, NB, NS, NT, ON, PE, QC, SK)",Slow,7.8,5.0
-Spring and Summer,Early Spring,Yes,Perennial,Medium,Dense,Acer,Multiple Stem,Tree,Rapid,60,No,negundo,"USA (AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY), CAN (AB, BC, MB, NB, NS, NT, ON, PE, QC, SK)",Slow,7.8,5.0
+Spring and Summer,Early Spring,Yes,Perennial,Medium,Dense,Acer,Multiple Stem,Tree,Rapid,60.0,No,negundo,"USA (AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY), CAN (AB, BC, MB, NB, NS, NT, ON, PE, QC, SK)",Slow,7.8,5.0
+Spring and Summer,Early Spring,Yes,Perennial,Medium,Dense,Acer,Multiple Stem,Tree,Rapid,60.0,No,negundo,"USA (AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY), CAN (AB, BC, MB, NB, NS, NT, ON, PE, QC, SK)",Slow,7.8,5.0
 ,,,Perennial,,,Acer,,Tree,,,,nigrum,"USA (AL, AR, CT, DC, DE, GA, IA, IL, IN, KS, KY, MA, MD, MI, MN, MO, NC, NH, NJ, NY, OH, PA, SD, TN, VA, VT, WI, WV), CAN (ON, QC)",,,
 ,,,Perennial,,,Actaea,,Forb/herb,,,,pachypoda,"USA (AL, AR, CT, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, NE, NH, NJ, NY, OH, OK, PA, RI, SC, TN, VA, VT, WI, WV), CAN (NB, NS, ON, PE, QC)",,,
 ,,,Perennial,,,Acer,,"Tree, Shrub",,,,pensylvanicum,"USA (CT, GA, KY, MA, MD, ME, MI, MN, NC, NH, NJ, NY, OH, PA, RI, SC, TN, VA, VT, WI, WV), CAN (NB, NS, ON, PE, QC)",,,
 ,,,Perennial,,,Acacia,,"Tree, Shrub",,,,pinetorum,USA (FL),,,
 ,,,Perennial,,,Actaea,,Forb/herb,,,,podocarpa,"USA (GA, IL, KY, MD, NC, PA, SC, TN, VA, WV)",,,
 ,,,Perennial,,,Actaea,,Forb/herb,,,,racemosa,"USA (AL, AR, CT, DC, DE, GA, IA, IL, IN, KY, MA, MD, ME, MI, MO, MS, NC, NJ, NY, OH, PA, SC, TN, VA, WV), CAN (ON, QC)",,,
-Spring and Summer,Early Spring,Yes,Perennial,Medium,Dense,Acer,Single Stem,Tree,Rapid,68,No,rubrum,"USA (AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, NH, NJ, NY, OH, OK, OR, PA, RI, SC, TN, TX, VA, VT, WI, WV), CAN (NB, NF, NS, ON, PE, QC)",None,7.3,4.7
+Spring and Summer,Early Spring,Yes,Perennial,Medium,Dense,Acer,Single Stem,Tree,Rapid,68.0,No,rubrum,"USA (AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, NH, NJ, NY, OH, OK, OR, PA, RI, SC, TN, TX, VA, VT, WI, WV), CAN (NB, NF, NS, ON, PE, QC)",None,7.3,4.7
 ,,,Perennial,,,Actaea,,Forb/herb,,,,rubifolia,"USA (AL, IL, IN, KY, PA, TN, VA)",,,
 ,,,Perennial,,,Actaea,,Forb/herb,,,,rubra,"USA (AK, AZ, CA, CO, CT, IA, ID, IL, IN, KS, MA, ME, MI, MN, MT, ND, NE, NH, NJ, NM, NV, NY, OH, OR, PA, RI, SD, UT, VT, WA, WI, WY), CAN (AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT)",,,
-Spring and Summer,Early Spring,Yes,Perennial,Medium,Dense,Acer,Single Stem,Tree,Rapid,68,No,rubrum,"USA (AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, NH, NJ, NY, OH, OK, OR, PA, RI, SC, TN, TX, VA, VT, WI, WV), CAN (NB, NF, NS, ON, PE, QC)",None,7.3,4.7
-Spring and Summer,Early Spring,Yes,Perennial,Low,Dense,Acer,Single Stem,Tree,Rapid,90,No,saccharinum,"USA (AL, AR, CA, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NM, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WA, WI, WV), CAN (NB, ON, QC, SK)",None,7.3,4.0
+Spring and Summer,Early Spring,Yes,Perennial,Medium,Dense,Acer,Single Stem,Tree,Rapid,68.0,No,rubrum,"USA (AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, NH, NJ, NY, OH, OK, OR, PA, RI, SC, TN, TX, VA, VT, WI, WV), CAN (NB, NF, NS, ON, PE, QC)",None,7.3,4.7
+Spring and Summer,Early Spring,Yes,Perennial,Low,Dense,Acer,Single Stem,Tree,Rapid,90.0,No,saccharinum,"USA (AL, AR, CA, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NM, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WA, WI, WV), CAN (NB, ON, QC, SK)",None,7.3,4.0
 ,,,Perennial,,,Acer,,"Tree, Shrub",,,,saccharum,"USA (AL, AR, CT, DE, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NH, NJ, NY, OH, OK, PA, RI, SD, TN, VA, VT, WI, WV), CAN (NB, NS, ON, PE, QC)",,,
-Spring and Summer,Spring,Yes,Perennial,Medium,Dense,Acer,Multiple Stem,"Tree, Shrub",Moderate,25,No,spicatum,"USA (AL, CT, GA, IA, KY, MA, MD, ME, MI, MN, NC, NH, NJ, NY, OH, PA, RI, TN, VA, VT, WI, WV), CAN (LB, MB, NB, NF, NS, ON, PE, QC, SK), FRA (SPM)",None,7.0,4.8
+Spring and Summer,Spring,Yes,Perennial,Medium,Dense,Acer,Multiple Stem,"Tree, Shrub",Moderate,25.0,No,spicatum,"USA (AL, CT, GA, IA, KY, MA, MD, ME, MI, MN, NC, NH, NJ, NY, OH, PA, RI, TN, VA, VT, WI, WV), CAN (LB, MB, NB, NF, NS, ON, PE, QC, SK), FRA (SPM)",None,7.0,4.8
 ,,,Perennial,,,Acanthocereus,,"Vine, Shrub",,,,tetragonus,"USA (FL, HI, TX), USA+ (VI)",,,
 ,,,Perennial,,,Aconitum,,Forb/herb,,,,uncinatum,"USA (AL, DC, GA, IL, IN, KY, MD, MO, NC, NH, OH, PA, SC, TN, VA, WV)",,,
 "Spring, Summer, Fall",Early Summer,No,Annual,Medium,Moderate,Acalypha,Single Crown,Forb/herb,Rapid,3.0,No,virginica,"USA (AL, AR, CT, DC, DE, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MO, MS, NC, NE, NH, NJ, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WV)",None,7.0,5.9
 ,,,Perennial,,,Adiantum,,Forb/herb,,,,aleuticum,"USA (AK, AZ, CA, CO, ID, MD, ME, MI, MT, NV, OR, PA, UT, VT, WA, WV, WY), CAN (AB, BC, NF, QC)",,,
 ,,,Perennial,,,Adenocaulon,,Forb/herb,,,,bicolor,"USA (CA, ID, MI, MN, MT, ND, OR, SD, WA, WY), CAN (AB, BC, ON)",,,
 ,,,Perennial,,,Adenophyllum,,Subshrub,,,,cooperi,"USA (AZ, CA, NV, UT)",,,
-"Fall, Winter and Spring",Mid Spring,Yes,Perennial,Low,Moderate,Adenostoma,Thicket Forming,Shrub,,10,Yes,fasciculatum,"USA (CA, NV)",,6.0,4.0
-"Fall, Winter and Spring",Mid Spring,Yes,Perennial,Low,Moderate,Adenostoma,Thicket Forming,Shrub,,10,Yes,fasciculatum,"USA (CA, NV)",,6.0,4.0
+"Fall, Winter and Spring",Mid Spring,Yes,Perennial,Low,Moderate,Adenostoma,Thicket Forming,Shrub,,10.0,Yes,fasciculatum,"USA (CA, NV)",,6.0,4.0
+"Fall, Winter and Spring",Mid Spring,Yes,Perennial,Low,Moderate,Adenostoma,Thicket Forming,Shrub,,10.0,Yes,fasciculatum,"USA (CA, NV)",,6.0,4.0
 ,,,Biennial,,,Adlumia,,"Vine, Forb/herb",,,,fungosa,"USA (CT, DE, IA, IL, IN, KY, MA, MD, ME, MI, MN, NC, NH, NJ, NY, OH, PA, RI, TN, VA, VT, WI, WV), CAN (MB, NB, NS, ON, QC)",,,
 ,,,Perennial,,,Adiantum,,Forb/herb,,,,jordanii,"USA (CA, OR)",,,
 ,,,Perennial,,,Adiantum,,Forb/herb,,,,melanoleucum,"USA (, FL), USA+ (PR)",,,
@@ -88,9 +88,9 @@ Spring and Summer,Spring,Yes,Perennial,Medium,Dense,Acer,Multiple Stem,"Tree, Sh
 ,,,Perennial,,,Aesculus,,"Tree, Shrub",,,,flava,"USA (AL, DC, GA, IL, IN, KY, MD, MS, NC, NJ, NY, OH, PA, SC, TN, VA, WV)",,,
 ,,,Perennial,,,Aesculus,,Tree,,,,glabra,"USA (AL, AR, GA, IA, IL, IN, KS, KY, ME, MI, MN, MO, MS, NE, NH, NJ, NY, OH, OK, PA, TN, TX, VA, WI, WV), CAN (ON)",,,
 ,,,"Annual, Perennial",,,Aeschynomene,,Forb/herb,,,,indica,"USA (AL, AR, FL, GA, LA, MO, MS, NC, OK, SC, TX, VA), USA+ (PR)",,,
-Spring and Summer,Late Spring,Yes,Perennial,Medium,Dense,Aesculus,Single Stem,"Tree, Shrub",Moderate,25,No,pavia,"USA (AL, AR, FL, GA, IL, IN, KY, LA, MO, MS, NC, OH, OK, SC, TN, TX, VA, WV), CAN (ON)",None,7.0,3.7
+Spring and Summer,Late Spring,Yes,Perennial,Medium,Dense,Aesculus,Single Stem,"Tree, Shrub",Moderate,25.0,No,pavia,"USA (AL, AR, FL, GA, IL, IN, KY, LA, MO, MS, NC, OH, OK, SC, TN, TX, VA, WV), CAN (ON)",None,7.0,3.7
 ,,,Perennial,,,Aesculus,,"Tree, Shrub",,,,parviflora,"USA (AL, DC, GA, NJ, NY, PA, SC)",,,
-Spring and Summer,Late Spring,Yes,Perennial,Medium,Dense,Aesculus,Single Stem,"Tree, Shrub",Moderate,25,No,pavia,"USA (AL, AR, FL, GA, IL, IN, KY, LA, MO, MS, NC, OH, OK, SC, TN, TX, VA, WV), CAN (ON)",None,7.0,3.7
+Spring and Summer,Late Spring,Yes,Perennial,Medium,Dense,Aesculus,Single Stem,"Tree, Shrub",Moderate,25.0,No,pavia,"USA (AL, AR, FL, GA, IL, IN, KY, LA, MO, MS, NC, OH, OK, SC, TN, TX, VA, WV), CAN (ON)",None,7.0,3.7
 ,,,Perennial,,,Aesculus,,"Tree, Shrub",,,,sylvatica,"USA (AL, GA, NC, SC, TN, VA)",,,
 ,,,Perennial,,,Agrostis,,Graminoid,,,,aequivalvis,"USA (AK, OR, WA), CAN (BC)",,,
 ,,,Perennial,,,Ageratina,,Forb/herb,,,,altissima,"USA (AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV), CAN (NB, NS, NT, ON, QC)",,,
@@ -208,14 +208,14 @@ Spring,Late Spring,No,Perennial,Low,Porous,Allium,Single Crown,Forb/herb,Rapid,0
 ,,,Perennial,,,Allium,,Forb/herb,,,,howellii,USA (CA),,,
 ,,,Perennial,,,Allowissadula,,"Subshrub, Shrub, Forb/herb",,,,holosericea,"USA (NM, TX)",,,
 ,,,Perennial,,,Allium,,Forb/herb,,,,hyalinum,USA (CA),,,
-Spring and Summer,Spring,No,Perennial,Medium,Moderate,Alnus,Thicket Forming,"Tree, Shrub",Rapid,25,No,incana,"USA (AK, AZ, CA, CO, CT, IA, ID, IL, IN, MA, MD, ME, MI, MN, MT, ND, NH, NJ, NM, NV, NY, OH, OR, PA, RI, UT, VA, VT, WA, WI, WV, WY), CAN (AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT), FRA (SPM)",Slow,7.0,5.0
-Spring and Summer,Spring,No,Perennial,Medium,Moderate,Alnus,Thicket Forming,"Tree, Shrub",Rapid,25,No,incana,"USA (AK, AZ, CA, CO, CT, IA, ID, IL, IN, MA, MD, ME, MI, MN, MT, ND, NH, NJ, NM, NV, NY, OH, OR, PA, RI, UT, VA, VT, WA, WI, WV, WY), CAN (AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT), FRA (SPM)",Slow,7.0,5.0
-Spring and Summer,Spring,No,Perennial,Medium,Moderate,Alnus,Thicket Forming,"Tree, Shrub",Rapid,25,No,incana,"USA (AK, AZ, CA, CO, CT, IA, ID, IL, IN, MA, MD, ME, MI, MN, MT, ND, NH, NJ, NM, NV, NY, OH, OR, PA, RI, UT, VA, VT, WA, WI, WV, WY), CAN (AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT), FRA (SPM)",Slow,7.0,5.0
+Spring and Summer,Spring,No,Perennial,Medium,Moderate,Alnus,Thicket Forming,"Tree, Shrub",Rapid,25.0,No,incana,"USA (AK, AZ, CA, CO, CT, IA, ID, IL, IN, MA, MD, ME, MI, MN, MT, ND, NH, NJ, NM, NV, NY, OH, OR, PA, RI, UT, VA, VT, WA, WI, WV, WY), CAN (AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT), FRA (SPM)",Slow,7.0,5.0
+Spring and Summer,Spring,No,Perennial,Medium,Moderate,Alnus,Thicket Forming,"Tree, Shrub",Rapid,25.0,No,incana,"USA (AK, AZ, CA, CO, CT, IA, ID, IL, IN, MA, MD, ME, MI, MN, MT, ND, NH, NJ, NM, NV, NY, OH, OR, PA, RI, UT, VA, VT, WA, WI, WV, WY), CAN (AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT), FRA (SPM)",Slow,7.0,5.0
+Spring and Summer,Spring,No,Perennial,Medium,Moderate,Alnus,Thicket Forming,"Tree, Shrub",Rapid,25.0,No,incana,"USA (AK, AZ, CA, CO, CT, IA, ID, IL, IN, MA, MD, ME, MI, MN, MT, ND, NH, NJ, NM, NV, NY, OH, OR, PA, RI, UT, VA, VT, WA, WI, WV, WY), CAN (AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT), FRA (SPM)",Slow,7.0,5.0
 ,,,Perennial,,,Allium,,Forb/herb,,,,lacunosum,USA (CA),,,
 ,,,Perennial,,,Allium,,Forb/herb,,,,lemmonii,"USA (CA, ID, NV, OR, UT)",,,
 ,,,Perennial,,,Alternanthera,,Forb/herb,,,,maritima,USA (FL),,,
 ,,,Perennial,,,Allium,,Forb/herb,,,,macropetalum,"USA (AZ, CO, NM, TX, UT)",,,
-Spring and Summer,Late Summer,No,Perennial,Medium,Moderate,Alnus,Single Stem,"Tree, Shrub",Moderate,30,No,maritima,"USA (DE, GA, MD, OK)",Slow,7.0,5.0
+Spring and Summer,Late Summer,No,Perennial,Medium,Moderate,Alnus,Single Stem,"Tree, Shrub",Moderate,30.0,No,maritima,"USA (DE, GA, MD, OK)",Slow,7.0,5.0
 ,,,Perennial,,,Allium,,Forb/herb,,,,membranaceum,USA (CA),,,
 ,,,Perennial,,,Allium,,Forb/herb,,,,monticola,USA (CA),,,
 ,,,Perennial,,,Allium,,Forb/herb,,,,munzii,USA (CA),,,
@@ -231,11 +231,11 @@ Spring and Summer,Late Summer,No,Perennial,Medium,Moderate,Alnus,Single Stem,"Tr
 ,,,Perennial,,,Allium,,Forb/herb,,,,platycaule,"USA (CA, NV, OR)",,,
 ,,,Perennial,,,Allium,,Forb/herb,,,,plummerae,USA (AZ),,,
 ,,,Perennial,,,Allium,,Forb/herb,,,,praecox,USA (CA),,,
-Spring and Summer,Fall,No,Perennial,Low,Moderate,Alnus,Multiple Stem,Tree,Rapid,65,No,rhombifolia,"USA (CA, ID, MT, NV, OR, WA)",None,7.5,4.8
+Spring and Summer,Fall,No,Perennial,Low,Moderate,Alnus,Multiple Stem,Tree,Rapid,65.0,No,rhombifolia,"USA (CA, ID, MT, NV, OR, WA)",None,7.5,4.8
 ,,,Perennial,,,Allium,,Forb/herb,,,,runyonii,USA (TX),,,
-"Spring, Summer, Fall",Early Spring,No,Perennial,Medium,Dense,Alnus,Single Stem,Tree,Rapid,90,No,rubra,"USA (AK, CA, ID, MT, OR, WA), CAN (BC)",Moderate,7.3,4.3
+"Spring, Summer, Fall",Early Spring,No,Perennial,Medium,Dense,Alnus,Single Stem,Tree,Rapid,90.0,No,rubra,"USA (AK, CA, ID, MT, OR, WA), CAN (BC)",Moderate,7.3,4.3
 ,,,Perennial,,,Allium,,Forb/herb,,,,schoenoprasum,"USA (AK, CO, CT, ID, IL, IN, MA, MD, ME, MI, MN, MO, MT, NH, NJ, NV, NY, OH, OR, PA, RI, UT, VA, VT, WA, WI, WY), CAN (AB, BC, LB, MB, NB, NF, NS, NT, ON, QC, SK, YT)",,,
-Spring and Summer,Spring,No,Perennial,Medium,Dense,Alnus,Multiple Stem,"Tree, Shrub",Rapid,30,No,serrulata,"USA (AL, AR, CT, DC, DE, FL, GA, IL, IN, KS, KY, LA, MA, MD, ME, MO, MS, NC, NH, NJ, NY, OH, OK, PA, RI, SC, TN, TX, VA, VT, WV), CAN (NB, NS, QC)",Slow,7.0,5.0
+Spring and Summer,Spring,No,Perennial,Medium,Dense,Alnus,Multiple Stem,"Tree, Shrub",Rapid,30.0,No,serrulata,"USA (AL, AR, CT, DC, DE, FL, GA, IL, IN, KS, KY, LA, MA, MD, ME, MO, MS, NC, NH, NJ, NY, OH, OK, PA, RI, SC, TN, TX, VA, VT, WV), CAN (NB, NS, QC)",Slow,7.0,5.0
 ,,,Perennial,,,Allium,,Forb/herb,,,,stellatum,"USA (AR, IA, IL, IN, KS, MI, MN, MO, ND, OK, SD, TN, TX, WI, WY), CAN (MB, ON, SK)",,,
 ,,,Perennial,,,Alisma,,Forb/herb,,,,subcordatum,"USA (AL, AR, AZ, CA, CO, CT, DC, DE, GA, IA, IL, IN, KS, KY, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NM, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV), CAN (MB, NB, ON, QC)",,,
 Spring,Mid Spring,No,Perennial,Low,Porous,Allium,Single Crown,Forb/herb,Rapid,1.0,No,textile,"USA (CO, IA, ID, KS, MN, MT, ND, NE, NM, NV, SD, UT, WA, WY), CAN (AB, MB, SK)",Slow,8.0,6.0
@@ -271,7 +271,7 @@ Spring and Summer,Late Winter,No,Perennial,Low,Moderate,Ambrosia,Single Crown,"S
 ,,,Perennial,,,Amyris,,"Tree, Shrub",,,,elemifera,"USA (FL), USA+ (PR, VI)",,,
 ,,,Perennial,,,Ambrosia,,"Subshrub, Shrub",,,,eriocentra,"USA (AZ, CA, NV, UT)",,,
 ,,,Annual,,,Amaranthus,,Forb/herb,,,,fimbriatus,"USA (AZ, CA, NM, NV, TX, UT)",,,
-Spring and Summer,Late Spring,Yes,Perennial,Low,Dense,Amorpha,Multiple Stem,Shrub,Slow,15,No,fruticosa,"USA (AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NM, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY), CAN (MB, NB, ON, QC)",None,8.5,5.0
+Spring and Summer,Late Spring,Yes,Perennial,Low,Dense,Amorpha,Multiple Stem,Shrub,Slow,15.0,No,fruticosa,"USA (AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NM, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY), CAN (MB, NB, ON, QC)",None,8.5,5.0
 ,,,Perennial,,,Ambrosia,,Forb/herb,,,,grayi,"USA (CO, KS, NE, NM, OK, TX)",,,
 ,,,Perennial,,,Ambrosia,,"Subshrub, Forb/herb",,,,hispida,"USA (FL), USA+ (PR, VI)",,,
 ,,,Perennial,,,Amsonia,,Forb/herb,,,,hubrichtii,"USA (AR, OK)",,,
@@ -281,7 +281,7 @@ Spring and Summer,Late Spring,Yes,Perennial,Low,Dense,Amorpha,Multiple Stem,Shru
 ,,,Perennial,,,Ambrosia,,"Subshrub, Shrub",,,,ilicifolia,"USA (AZ, CA)",,,
 ,,,Perennial,,,Amelanchier,,"Tree, Shrub",,,,interior,"USA (IA, IL, ME, MI, MN, NY, OH, SD, VT, WI), CAN (NB, NF, NS, ON, PE, QC)",,,
 ,,,Perennial,,,Amsonia,,Forb/herb,,,,jonesii,"USA (AZ, CO, NM, UT)",,,
-Spring and Summer,Early Spring,Yes,Perennial,Low,Moderate,Amelanchier,Multiple Stem,"Tree, Shrub",Moderate,35,No,laevis,"USA (AL, CT, DC, DE, GA, IA, IL, IN, KY, MA, MD, ME, MI, MN, NC, NH, NJ, NY, OH, PA, RI, SC, TN, VA, VT, WA, WI, WV), CAN (NB, NF, NS, ON, PE, QC), FRA (SPM)",None,7.0,4.8
+Spring and Summer,Early Spring,Yes,Perennial,Low,Moderate,Amelanchier,Multiple Stem,"Tree, Shrub",Moderate,35.0,No,laevis,"USA (AL, CT, DC, DE, GA, IA, IL, IN, KY, MA, MD, ME, MI, MN, NC, NH, NJ, NY, OH, PA, RI, SC, TN, VA, VT, WA, WI, WV), CAN (NB, NF, NS, ON, PE, QC), FRA (SPM)",None,7.0,4.8
 ,,,Annual,,,Ambrosia,,Subshrub,,,,linearis,USA (CO),,,
 ,,,Perennial,,,Amsonia,,Forb/herb,,,,longiflora,"USA (AZ, NM, TX)",,,
 ,,,Perennial,,,Amsonia,,Forb/herb,,,,ludoviciana,"USA (GA, LA, MS)",,,
@@ -333,7 +333,7 @@ Summer,Late Summer,No,Perennial,Low,Dense,Andropogon,Bunch,Graminoid,Moderate,6.
 ,,,Perennial,,,Andropogon,,Graminoid,,,,gracilis,"USA (FL), USA+ (PR, VI)",,,
 ,,,Perennial,,,Andropogon,,Graminoid,,,,gyrans,"USA (AL, AR, DC, DE, FL, GA, IL, IN, KY, LA, MD, MO, MS, NC, NJ, OH, OK, PA, SC, TN, TX, VA, WV)",,,
 Summer,Mid Summer,No,Perennial,High,Moderate,Andropogon,Bunch,Graminoid,Moderate,6.1,No,hallii,"USA (AZ, CO, IA, IL, IN, KS, MN, MT, ND, NE, NM, OK, SD, TX, UT, WY), CAN (MB, SK)",Slow,8.4,5.6
-Year Round,Summer,No,Perennial,Medium,Dense,Andira,Single Stem,Tree,Rapid,90,No,inermis,"USA (FL), USA+ (PR, VI)",,,
+Year Round,Summer,No,Perennial,Medium,Dense,Andira,Single Stem,Tree,Rapid,90.0,No,inermis,"USA (FL), USA+ (PR, VI)",,,
 ,,,Perennial,,,Anemone,,Forb/herb,,,,lancifolia,"USA (KY, MD, NC, SC, VA, WV)",,,
 ,,,Perennial,,,Anisacanthus,,"Vine, Shrub",,,,linearis,USA (TX),,,
 ,,,Perennial,,,Andropogon,,Graminoid,,,,longiberbis,"USA (FL, GA, MS, NC, SC)",,,
@@ -426,7 +426,7 @@ Spring and Summer,Late Spring,No,Perennial,Medium,Porous,Arnica,Rhizomatous,Forb
 ,,,Perennial,,,Arnoglossum,,Forb/herb,,,,floridanum,USA (FL),,,
 Spring and Fall,Summer,No,Perennial,Low,Moderate,Artemisia,Rhizomatous,Subshrub,Rapid,2.0,No,frigida,"USA (AK, AZ, CO, CT, IA, ID, IL, KS, MA, MI, MN, MO, MT, ND, NE, NJ, NM, NV, NY, PA, SD, TX, UT, VT, WA, WI, WY), CAN (AB, BC, MB, NB, NS, NT, ON, PE, QC, SK, YT)",Moderate,9.0,7.0
 Spring and Summer,Mid Spring,No,Perennial,Low,Porous,Arnica,Rhizomatous,Forb/herb,Moderate,2.0,No,fulgens,"USA (CA, CO, ID, MT, ND, NM, NV, OR, SD, UT, WA, WY), CAN (AB, BC, MB, SK)",Moderate,9.0,6.2
-Spring,,No,Perennial,Medium,Dense,Arundinaria,Rhizomatous,"Subshrub, Shrub, Graminoid",Rapid,25,No,gigantea,"USA (AL, AR, DE, FL, GA, IL, IN, KS, KY, LA, MD, MO, MS, NC, NJ, NY, OH, OK, SC, TN, TX, VA, WV)",Rapid,6.9,5.0
+Spring,,No,Perennial,Medium,Dense,Arundinaria,Rhizomatous,"Subshrub, Shrub, Graminoid",Rapid,25.0,No,gigantea,"USA (AL, AR, DE, FL, GA, IL, IN, KS, KY, LA, MD, MO, MS, NC, NJ, NY, OH, OK, SC, TN, TX, VA, WV)",Rapid,6.9,5.0
 ,,,Perennial,,,Arctostaphylos,,"Tree, Shrub",,,,glauca,USA (CA),,,
 ,,,Perennial,,,Argemone,,Forb/herb,,,,gracilenta,USA (AZ),,,
 ,,,Perennial,,,Aralia,,"Subshrub, Forb/herb",,,,hispida,"USA (CT, IL, IN, KY, MA, MD, ME, MI, MN, NC, NH, NJ, NY, OH, PA, RI, VA, VT, WI, WV), CAN (LB, MB, NB, NF, NS, ON, PE, QC, SK)",,,
@@ -455,10 +455,10 @@ Summer,Mid Spring,No,"Annual, Biennial, Perennial",Low,Porous,Argemone,Single St
 ,,,Perennial,,,Aristolochia,,Forb/herb,,,,reticulata,"USA (AR, LA, OK, TX)",,,
 ,,,"Annual, Biennial, Perennial",,,Argemone,,Forb/herb,,,,sanguinea,USA (TX),,,
 ,,,Perennial,,,Aristolochia,,Forb/herb,,,,serpentaria,"USA (AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MD, MI, MO, MS, NC, NJ, NY, OH, OK, PA, SC, TN, TX, VA, WV)",,,
-Spring and Summer,Early Summer,Yes,Perennial,High,Porous,Aralia,Multiple Stem,"Tree, Shrub",Moderate,20,No,spinosa,"USA (AL, AR, CT, DC, DE, FL, GA, IL, IN, KY, LA, MA, MD, ME, MO, MS, NC, NJ, NY, OH, OK, PA, RI, SC, TN, TX, VA, WV)",None,6.6,4.8
+Spring and Summer,Early Summer,Yes,Perennial,High,Porous,Aralia,Multiple Stem,"Tree, Shrub",Moderate,20.0,No,spinosa,"USA (AL, AR, CT, DC, DE, FL, GA, IL, IN, KY, LA, MA, MD, ME, MO, MS, NC, NJ, NY, OH, OK, PA, RI, SC, TN, TX, VA, WV)",None,6.6,4.8
 ,,,Perennial,,,Argemone,,Forb/herb,,,,squarrosa,"USA (CO, KS, NM, OK, TX)",,,
 ,,,Perennial,,,Arthrocnemum,,Forb/herb,,,,subterminale,USA (CA),,,
-,Summer,No,Perennial,Medium,Dense,Artemisia,Rhizomatous,"Subshrub, Forb/herb",Moderate,36,Yes,tilesii,"USA (AK, ID, MT, NV, OR, WA), CAN (AB, BC, MB, NT, NU, ON, QC, SK, YT)",Moderate,7.5,5.0
+,Summer,No,Perennial,Medium,Dense,Artemisia,Rhizomatous,"Subshrub, Forb/herb",Moderate,36.0,Yes,tilesii,"USA (AK, ID, MT, NV, OR, WA), CAN (AB, BC, MB, NT, NU, ON, QC, SK, YT)",Moderate,7.5,5.0
 ,,,Perennial,,,Arctostaphylos,,Shrub,,,,tomentosa,USA (CA),,,
 ,,,Perennial,,,Aristolochia,,Vine,,,,tomentosa,"USA (AL, AR, CT, FL, GA, IL, IN, KS, KY, LA, MA, MO, MS, NC, NY, OH, OK, SC, TN, TX, VT, WI)",,,
 Spring and Summer,Early Summer,No,Perennial,High,Dense,Arisaema,Rhizomatous,Forb/herb,Moderate,1.5,Yes,triphyllum,"USA (AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV), CAN (MB, NB, NS, ON, PE, QC)",Slow,7.0,4.8
@@ -593,7 +593,7 @@ Spring and Summer,Mid Spring,No,Perennial,Low,Dense,Astragalus,Single Crown,Forb
 ,,,Perennial,,,Astragalus,,Forb/herb,,,,tennesseensis,"USA (AL, IL, IN, KY, TN)",,,
 ,,,Perennial,,,Astragalus,,Forb/herb,,,,terminalis,"USA (ID, MT, WY)",,,
 ,,,Perennial,,,Asclepias,,Forb/herb,,,,tomentosa,"USA (AL, FL, GA, NC, SC, TX)",,,
-Spring and Summer,Mid Spring,Yes,Perennial,High,Moderate,Asimina,Single Stem,"Tree, Shrub",Slow,25,No,triloba,"USA (AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MD, MI, MO, MS, NC, NE, NJ, NY, OH, OK, PA, SC, TN, TX, VA, WI, WV), CAN (ON)",None,7.2,4.7
+Spring and Summer,Mid Spring,Yes,Perennial,High,Moderate,Asimina,Single Stem,"Tree, Shrub",Slow,25.0,No,triloba,"USA (AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MD, MI, MO, MS, NC, NE, NJ, NY, OH, OK, PA, SC, TN, TX, VA, WI, WV), CAN (ON)",None,7.2,4.7
 ,,,Perennial,,,Asplenium,,Forb/herb,,,,trichomanes,"USA (AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, HI, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, NH, NJ, NM, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY), CAN (AB, BC, LB, NB, NF, NS, NT, ON, QC, YT), DEN (GL)",,,
 Spring and Summer,Mid Summer,No,Perennial,Low,Moderate,Asclepias,Multiple Stem,Forb/herb,Slow,2.0,No,tuberosa,"USA (AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, NE, NH, NJ, NM, NY, OH, OK, PA, RI, SC, SD, TN, TX, UT, VA, VT, WI, WV), CAN (ON, QC)",None,6.8,4.8
 ,,,Perennial,,,Asclepias,,Forb/herb,,,,uncialis,"USA (AZ, CO, NM, NV, OK, TX, UT, WY)",,,
@@ -615,7 +615,7 @@ Spring and Summer,Late Spring,No,Perennial,Low,Moderate,Atriplex,Multiple Stem,S
 Spring and Summer,Early Summer,No,Perennial,Medium,Moderate,Atriplex,Multiple Stem,"Subshrub, Shrub",Slow,3.0,Yes,confertifolia,"USA (AZ, CA, CO, ID, MT, ND, NM, NV, OR, TX, UT, WY)",Slow,9.0,7.5
 ,,,Annual,,,Atriplex,,Forb/herb,,,,coronata,USA (CA),,,
 ,,,"Annual, Perennial",,,Atriplex,,Forb/herb,,,,elegans,"USA (AZ, CA, MD, NM, NV, TX, UT)",,,
-Spring and Summer,Early Summer,No,Perennial,Medium,Dense,Atriplex,Multiple Stem,"Subshrub, Shrub",Moderate,10,No,lentiformis,"USA (AZ, CA, HI, NV, UT)",Slow,10.0,7.0
+Spring and Summer,Early Summer,No,Perennial,Medium,Dense,Atriplex,Multiple Stem,"Subshrub, Shrub",Moderate,10.0,No,lentiformis,"USA (AZ, CA, HI, NV, UT)",Slow,10.0,7.0
 ,,,Perennial,,,Atriplex,,"Subshrub, Shrub",,,,nuttallii,"USA (NV, UT)",,,
 ,,,Annual,,,Atrichoseris,,Forb/herb,,,,platyphylla,"USA (AZ, CA, NV, UT)",,,
 ,,,Annual,,,Atriplex,,Forb/herb,,,,powellii,"USA (AZ, CO, MT, ND, NE, NM, OR, SD, TX, UT, WA, WY), CAN (AB, SK)",,,
@@ -623,7 +623,7 @@ Spring and Summer,Early Summer,No,Perennial,Medium,Dense,Atriplex,Multiple Stem,
 ,,,Annual,,,Atriplex,,Forb/herb,,,,serenana,"USA (AZ, CA, NV)",,,
 ,,,Annual,,,Atriplex,,Forb/herb,,,,truncata,"USA (CA, CO, ID, MO, MT, NM, NV, OR, UT, WA, WY), CAN (AB, BC, SK)",,,
 ,,,Perennial,,,Aureolaria,,Forb/herb,,,,grandiflora,"USA (AR, IA, IL, IN, KS, LA, MN, MO, OK, TX, WI)",,,
-Year Round,Indeterminate,Yes,Perennial,Low,Dense,Avicennia,Single Stem,"Tree, Shrub",Rapid,30,Yes,germinans,"USA (FL, LA, MS, TX), USA+ (PR, VI)",None,8.0,6.0
+Year Round,Indeterminate,Yes,Perennial,Low,Dense,Avicennia,Single Stem,"Tree, Shrub",Rapid,30.0,Yes,germinans,"USA (FL, LA, MS, TX), USA+ (PR, VI)",None,8.0,6.0
 ,,,Annual,,,Azolla,,Forb/herb,,,,caroliniana,"USA (AL, AR, CT, DC, DE, FL, GA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MO, MS, NC, NE, NH, NJ, NY, OH, OK, PA, SC, SD, TN, TX, VA, WI, WV), USA+ (PR), CAN (BC, ON)",,,
 ,,,Annual,,,Azolla,,Forb/herb,,,,filiculoides,"USA (AK, AZ, CA, FL, HI, NY, OR, TX, WA), CAN (BC)",,,
 ,,,Perennial,,,Baptisia,,Forb/herb,,,,alba,"USA (AL, AR, FL, GA, IA, IL, IN, KS, KY, LA, MI, MN, MO, MS, NC, NE, NY, OH, OK, SC, TN, TX, VA, WI)",,,
@@ -650,11 +650,11 @@ Spring,Mid Spring,No,Perennial,Low,Porous,Balsamorhiza,Single Crown,Forb/herb,Mo
 ,,,Perennial,,,Baptisia,,Forb/herb,,,,nuttalliana,"USA (AR, LA, MS, OK, TX)",,,
 ,,,"Biennial, Perennial",,,Barbarea,,Forb/herb,,,,orthoceras,"USA (AK, AZ, CA, CO, ID, ME, MI, MN, MT, NH, NM, NV, OR, SD, UT, WA, WI, WY), CAN (AB, BC, LB, MB, NB, NF, NT, ON, QC, SK, YT)",,,
 ,,,Perennial,,,Baptisia,,Forb/herb,,,,perfoliata,"USA (FL, GA, SC)",,,
-Spring and Summer,Late Summer,No,Perennial,Low,Dense,Baccharis,Multiple Stem,"Subshrub, Shrub",Moderate,10,No,pilularis,"USA (CA, NM, OR)",Moderate,8.5,6.0
+Spring and Summer,Late Summer,No,Perennial,Low,Dense,Baccharis,Multiple Stem,"Subshrub, Shrub",Moderate,10.0,No,pilularis,"USA (CA, NM, OR)",Moderate,8.5,6.0
 ,,,Perennial,,,Bacopa,,Forb/herb,,,,rotundifolia,"USA (AL, AR, AZ, CA, CO, IA, ID, IL, IN, KS, KY, LA, MD, MN, MO, MS, MT, NC, ND, NE, NM, OK, SD, TN, TX, VA, WI, WY), CAN (AB)",,,
-Spring and Summer,Late Winter,No,Perennial,Low,Dense,Baccharis,Multiple Stem,Shrub,Moderate,12,No,sarothroides,"USA (AZ, CA, NM, NV, TX)",None,8.5,7.0
+Spring and Summer,Late Winter,No,Perennial,Low,Dense,Baccharis,Multiple Stem,Shrub,Moderate,12.0,No,sarothroides,"USA (AZ, CA, NM, NV, TX)",None,8.5,7.0
 Spring,Late Spring,No,Perennial,Low,Moderate,Balsamorhiza,Multiple Stem,Forb/herb,Moderate,2.0,No,sagittata,"USA (AZ, CA, CO, ID, MT, ND, NV, OR, SD, UT, WA, WY), CAN (AB, BC)",None,8.0,6.5
-Summer,Mid Spring,Yes,Perennial,Low,Porous,Baccharis,Multiple Stem,Shrub,Rapid,10,No,salicifolia,"USA (AZ, CA, CO, NM, NV, TX, UT)",None,8.5,7.0
+Summer,Mid Spring,Yes,Perennial,Low,Porous,Baccharis,Multiple Stem,Shrub,Rapid,10.0,No,salicifolia,"USA (AZ, CA, CO, NM, NV, TX, UT)",None,8.5,7.0
 ,,,Perennial,,,Baccharis,,Shrub,,,,sergiloides,"USA (AZ, CA, NV, UT)",,,
 ,,,Perennial,,,Baptisia,,Forb/herb,,,,simplicifolia,USA (FL),,,
 ,,,Perennial,,,Baptisia,,Forb/herb,,,,sphaerocarpa,"USA (AR, LA, MO, MS, OK, TX)",,,
@@ -670,10 +670,10 @@ Summer,Mid Summer,No,Perennial,Low,Moderate,Baptisia,Single Crown,Forb/herb,Mode
 ,,,Perennial,,,Betula,,Tree,,,,lenta,"USA (AL, CT, DE, GA, KY, MA, MD, ME, MS, NC, NH, NJ, NY, OH, PA, RI, SC, TN, VA, VT, WV), CAN (ON)",,,
 ,,,Perennial,,,Berlandiera,,Forb/herb,,,,lyrata,"USA (AZ, CO, KS, NM, OK, TX)",,,
 ,,,Perennial,,,Betula,,"Shrub, Subshrub",,,,nana,"USA (AK, CA, CO, ID, ME, MN, MT, NH, NY, OR, SD, UT, VT, WA, WY), CAN (AB, BC, NT, NU, SK, YT), DEN (GL)",,,
-Spring and Summer,Mid Spring,Yes,Perennial,Medium,Moderate,Betula,Multiple Stem,Tree,Rapid,70,No,nigra,"USA (AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, MI, MN, MO, MS, NC, NH, NJ, NY, OH, OK, PA, SC, TN, TX, VA, VT, WI, WV)",Slow,6.5,3.0
+Spring and Summer,Mid Spring,Yes,Perennial,Medium,Moderate,Betula,Multiple Stem,Tree,Rapid,70.0,No,nigra,"USA (AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, MI, MN, MO, MS, NC, NH, NJ, NY, OH, OK, PA, SC, TN, TX, VA, VT, WI, WV)",Slow,6.5,3.0
 ,,,Perennial,,,Betula,,"Tree, Shrub",,,,occidentalis,"USA (AK, AZ, CA, CO, ID, MT, ND, NE, NM, NV, OR, SD, UT, WA, WY), CAN (AB, BC, MB, NT, NU, ON, SK, YT)",,,
-Spring and Summer,Mid Spring,Yes,Perennial,Medium,Moderate,Betula,Single Stem,Tree,Rapid,70,No,papyrifera,"USA (AK, CO, CT, IA, ID, IL, IN, MA, MD, ME, MI, MN, MT, NC, ND, NE, NH, NJ, NY, OH, OR, PA, RI, SD, TN, VA, VT, WA, WI, WV, WY), CAN (AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT), FRA (SPM)",None,7.4,4.2
-Spring and Summer,Mid Spring,No,Perennial,Low,Moderate,Betula,Thicket Forming,Tree,Rapid,25,No,populifolia,"USA (CT, DE, IL, IN, KY, MA, MD, ME, NC, NH, NJ, NY, OH, PA, RI, VA, VT, WV), CAN (NB, NS, ON, PE, QC)",None,6.5,3.5
+Spring and Summer,Mid Spring,Yes,Perennial,Medium,Moderate,Betula,Single Stem,Tree,Rapid,70.0,No,papyrifera,"USA (AK, CO, CT, IA, ID, IL, IN, MA, MD, ME, MI, MN, MT, NC, ND, NE, NH, NJ, NY, OH, OR, PA, RI, SD, TN, VA, VT, WA, WI, WV, WY), CAN (AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT), FRA (SPM)",None,7.4,4.2
+Spring and Summer,Mid Spring,No,Perennial,Low,Moderate,Betula,Thicket Forming,Tree,Rapid,25.0,No,populifolia,"USA (CT, DE, IL, IN, KY, MA, MD, ME, NC, NH, NJ, NY, OH, PA, RI, VA, VT, WV), CAN (NB, NS, ON, PE, QC)",None,6.5,3.5
 ,,,Perennial,,,Betula,,Shrub,,,,pumila,"USA (CA, CT, IA, ID, IL, IN, KS, MA, ME, MI, MN, MT, ND, NH, NJ, NY, OH, OR, VT, WA, WI), CAN (AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT), FRA (SPM)",,,
 ,,,Perennial,,,Bejaria,,Shrub,,,,racemosa,"USA (AL, FL, GA, SC)",,,
 ,,,Perennial,,,Berchemia,,Vine,,,,scandens,"USA (AL, AR, FL, GA, IL, KY, LA, MD, MO, MS, NC, OK, SC, TN, TX, VA)",,,
@@ -839,7 +839,7 @@ Spring and Summer,Late Spring,No,Perennial,Low,Porous,Carex,Bunch,Graminoid,Mode
 ,,,Perennial,,,Carex,,Graminoid,,,,caroliniana,"USA (AL, AR, DC, DE, FL, GA, IL, IN, KS, KY, LA, MD, MO, MS, NC, NJ, NY, OH, OK, PA, SC, TN, TX, VA, WV)",,,
 ,,,Perennial,,,Carex,,Graminoid,,,,castanea,"USA (CT, MA, ME, MI, MN, NH, NY, VT, WI), CAN (LB, MB, NB, NF, NS, ON, QC)",,,
 ,,,Perennial,,,Carpenteria,,Shrub,,,,californica,USA (CA),,,
-Spring and Summer,Mid Spring,No,Perennial,Medium,Dense,Carpinus,Multiple Stem,"Tree, Shrub",Slow,30,No,caroliniana,"USA (AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, NH, NJ, NY, OH, OK, PA, RI, SC, TN, TX, VA, VT, WI, WV), CAN (ON, QC)",None,7.4,4.0
+Spring and Summer,Mid Spring,No,Perennial,Medium,Dense,Carpinus,Multiple Stem,"Tree, Shrub",Slow,30.0,No,caroliniana,"USA (AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, NH, NJ, NY, OH, OK, PA, RI, SC, TN, TX, VA, VT, WI, WV), CAN (ON, QC)",None,7.4,4.0
 ,,,Perennial,,,Carex,,Graminoid,,,,calcifugens,"USA (FL, GA, NC, SC)",,,
 ,,,Perennial,,,Calochortus,,Forb/herb,,,,catalinae,USA (CA),,,
 ,,,Perennial,,,Campanula,,Forb/herb,,,,californica,USA (CA),,,
@@ -859,7 +859,7 @@ Spring and Summer,Late Spring,No,Perennial,Low,Porous,Carex,Bunch,Graminoid,Mode
 ,,,Perennial,,,Carex,,Graminoid,,,,congdonii,USA (CA),,,
 ,,,Perennial,,,Carex,,Graminoid,,,,conjuncta,"USA (AL, AR, DC, DE, IA, IL, IN, KS, KY, MD, MI, MN, MO, NE, NJ, NY, OH, PA, SD, TN, VA, WI, WV)",,,
 ,,,Perennial,,,Carex,,Graminoid,,,,conoidea,"USA (AZ, CT, DE, IA, IL, IN, MA, MD, ME, MI, MN, MO, NC, NH, NJ, NM, NY, OH, PA, RI, VA, VT, WI, WV), CAN (LB, MB, NB, NF, NS, ON, QC), FRA (SPM)",,,
-Spring and Summer,Mid Spring,No,Perennial,Medium,Dense,Carya,Single Stem,Tree,Slow,75,No,cordiformis,"USA (AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, NE, NH, NJ, NY, OH, OK, PA, RI, SC, TN, TX, VA, VT, WI, WV), CAN (ON, QC)",None,7.4,4.8
+Spring and Summer,Mid Spring,No,Perennial,Medium,Dense,Carya,Single Stem,Tree,Slow,75.0,No,cordiformis,"USA (AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, NE, NH, NJ, NY, OH, OK, PA, RI, SC, TN, TX, VA, VT, WI, WV), CAN (ON, QC)",None,7.4,4.8
 ,,,Perennial,,,Carex,,Graminoid,,,,collinsii,"USA (AL, CT, DE, GA, MD, NC, NJ, NY, PA, RI, SC, TN, VA)",,,
 ,,,Perennial,,,Carex,,Graminoid,,,,corrugata,"USA (AL, AR, FL, GA, IL, IN, KS, KY, LA, MD, MO, MS, NC, OK, SC, TN, TX, VA)",,,
 ,,,Perennial,,,Cardamine,,Forb/herb,,,,concatenata,"USA (AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NY, OH, OK, PA, SC, SD, TN, TX, VA, VT, WI, WV), CAN (NB, ON, QC)",,,
@@ -888,7 +888,7 @@ Spring and Summer,Late Spring,No,Perennial,Medium,Porous,Carex,Bunch,Graminoid,M
 ,,,Perennial,,,Carex,,Graminoid,,,,davisii,"USA (AR, CT, DE, IA, IL, IN, KS, KY, MA, MD, MI, MN, MO, ND, NE, NJ, NY, OH, OK, PA, TN, TX, VT, WI, WV), CAN (ON)",,,
 ,,,Perennial,,,Carex,,Graminoid,,,,davyi,USA (CA),,,
 ,,,Perennial,,,Carex,,Graminoid,,,,dasycarpa,"USA (AL, FL, GA, MS, SC)",,,
-Spring,Early Summer,Yes,Perennial,Medium,Dense,Castanea,Single Stem,Tree,Rapid,115,No,dentata,"USA (AL, CT, DC, DE, FL, GA, IA, IL, IN, KY, LA, MA, MD, ME, MI, MO, MS, NC, NH, NJ, NY, OH, PA, RI, SC, TN, VA, VT, WI, WV), CAN (ON)",None,6.5,5.5
+Spring,Early Summer,Yes,Perennial,Medium,Dense,Castanea,Single Stem,Tree,Rapid,115.0,No,dentata,"USA (AL, CT, DC, DE, FL, GA, IA, IL, IN, KY, LA, MA, MD, ME, MI, MO, MS, NC, NH, NJ, NY, OH, PA, RI, SC, TN, VA, VT, WI, WV), CAN (ON)",None,6.5,5.5
 ,,,Perennial,,,Carex,,Graminoid,,,,deamii,"USA (IL, IN, KY, MO)",,,
 ,,,Perennial,,,Calocedrus,,Tree,,,,decurrens,"USA (CA, NV, OR)",,,
 Spring and Summer,Late Spring,No,Perennial,Low,Moderate,Carex,Bunch,Graminoid,Moderate,3.0,No,debilis,"USA (AL, AR, CT, DC, DE, FL, GA, IL, IN, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, NH, NJ, NY, OH, OK, PA, RI, SC, TN, TX, VA, VT, WI, WV), CAN (NB, NF, NS, ON, PE, QC), FRA (SPM)",None,6.6,4.6
@@ -955,7 +955,7 @@ Spring and Summer,Late Spring,No,Perennial,Low,Porous,Carex,Rhizomatous,Graminoi
 ,,,Perennial,,,Carex,,Graminoid,,,,glaucescens,"USA (AL, AR, FL, GA, LA, MD, MS, NC, OK, SC, TN, TX, VA)",,,
 ,,,Perennial,,,Carex,,Graminoid,,,,glaucodea,"USA (AL, AR, CT, DC, DE, IL, IN, KY, LA, MA, MD, MO, MS, NC, NH, NJ, NY, OH, OK, PA, TN, TX, VA, WV), CAN (ON)",,,
 ,,,Perennial,,,Carex,,Graminoid,,,,globosa,USA (CA),,,
-Spring and Summer,Mid Spring,No,Perennial,Medium,Dense,Carya,Single Stem,Tree,Slow,80,No,glabra,"USA (AL, AR, CT, DC, DE, FL, GA, IL, IN, KS, KY, LA, MA, MD, MI, MO, MS, NC, NH, NJ, NY, OH, OK, PA, RI, SC, TN, TX, VA, VT, WV), CAN (ON)",None,7.3,4.8
+Spring and Summer,Mid Spring,No,Perennial,Medium,Dense,Carya,Single Stem,Tree,Slow,80.0,No,glabra,"USA (AL, AR, CT, DC, DE, FL, GA, IL, IN, KS, KY, LA, MA, MD, MI, MO, MS, NC, NH, NJ, NY, OH, OK, PA, RI, SC, TN, TX, VA, VT, WV), CAN (ON)",None,7.3,4.8
 ,,,Perennial,,,Carex,,Graminoid,,,,godfreyi,"USA (AL, FL, GA, NC, SC)",,,
 ,,,Perennial,,,Calochortus,,Forb/herb,,,,greenei,"USA (CA, OR)",,,
 Spring and Summer,Late Spring,No,Perennial,Medium,Moderate,Carex,Bunch,Graminoid,Slow,3.0,No,gracillima,"USA (AL, AR, CT, DC, DE, GA, IA, IL, IN, KY, MA, MD, ME, MI, MN, MO, NC, ND, NH, NJ, NY, OH, PA, RI, SC, TN, VA, VT, WI, WV), CAN (LB, MB, NB, NF, NS, ON, PE, QC), FRA (SPM)",None,6.9,4.7
@@ -999,7 +999,7 @@ Spring and Summer,Late Spring,No,Perennial,Medium,Moderate,Carex,Rhizomatous,Gra
 ,,,Perennial,,,Carex,,Graminoid,,,,hystericina,"USA (AR, AZ, CA, CO, CT, DC, GA, IA, ID, IL, IN, KS, KY, MA, MD, ME, MI, MN, MO, MT, ND, NE, NH, NJ, NM, NY, OH, OK, OR, PA, RI, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY), CAN (AB, BC, LB, MB, NB, NF, NS, ON, PE, QC, SK)",,,
 ,,,Perennial,,,Carex,,Graminoid,,,,idahoa,"USA (ID, MT, OR, UT)",,,
 ,,,Perennial,,,Carex,,Graminoid,,,,illota,"USA (CA, CO, ID, MT, NM, NV, OR, UT, WA, WY), CAN (AB, BC)",,,
-Spring and Summer,Early Spring,No,Perennial,High,Dense,Carya,Single Stem,Tree,Slow,120,No,illinoinensis,"USA (AL, AR, FL, GA, IA, IL, IN, KS, KY, LA, MD, MO, MS, NC, OH, OK, SC, TN, TX, VA)",Slow,7.5,4.5
+Spring and Summer,Early Spring,No,Perennial,High,Dense,Carya,Single Stem,Tree,Slow,120.0,No,illinoinensis,"USA (AL, AR, FL, GA, IA, IL, IN, KS, KY, LA, MD, MO, MS, NC, OH, OK, SC, TN, TX, VA)",Slow,7.5,4.5
 ,,,Perennial,,,Carex,,Graminoid,,,,impressinervia,"USA (AL, MS, NC, SC)",,,
 ,,,Perennial,,,Carex,,Graminoid,,,,integra,"USA (CA, NV, OR, WA)",,,
 Spring and Summer,Mid Spring,No,Perennial,Medium,Moderate,Carex,Bunch,Graminoid,Slow,1.5,No,interior,"USA (AK, AR, AZ, CA, CO, CT, IA, ID, IL, IN, KS, MA, MD, ME, MI, MN, MO, MT, ND, NE, NH, NJ, NM, NV, NY, OH, OR, PA, RI, SD, TN, UT, VA, VT, WA, WI, WV, WY), CAN (AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT), FRA (SPM)",Slow,7.2,5.4
@@ -1029,7 +1029,7 @@ Spring and Summer,Mid Spring,No,Perennial,Medium,Moderate,Carex,Bunch,Graminoid,
 Spring and Summer,Late Spring,No,Perennial,Medium,Dense,Carex,Rhizomatous,Graminoid,Rapid,5.0,No,lacustris,"USA (CT, DC, DE, IA, ID, IL, IN, KS, KY, MA, MD, ME, MI, MN, MO, ND, NE, NH, NJ, NY, OH, PA, RI, SD, TN, VA, VT, WI, WV), CAN (AB, MB, NB, NF, NS, ON, QC, SK)",Moderate,6.8,5.6
 ,,,Perennial,,,Carex,,Graminoid,,,,laxiculmis,"USA (AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KY, MA, MD, ME, MI, MN, MO, NC, NH, NJ, NY, OH, OK, PA, RI, SC, TN, VA, VT, WI, WV), CAN (ON, QC)",,,
 ,,,Perennial,,,Carex,,Graminoid,,,,laxiflora,"USA (AL, AR, CT, DC, DE, FL, GA, IL, IN, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, NH, NJ, NY, OH, OK, PA, RI, SC, TN, VA, VT, WI, WV), CAN (NS, ON, QC)",,,
-Spring and Summer,Mid Spring,Yes,Perennial,High,Dense,Carya,Single Stem,Tree,Slow,100,No,laciniosa,"USA (AL, AR, DC, DE, GA, IA, IL, IN, KS, KY, LA, MD, ME, MI, MO, MS, NC, NY, OH, OK, PA, SC, TN, TX, VA, WV), CAN (ON)",None,6.6,5.0
+Spring and Summer,Mid Spring,Yes,Perennial,High,Dense,Carya,Single Stem,Tree,Slow,100.0,No,laciniosa,"USA (AL, AR, DC, DE, GA, IA, IL, IN, KS, KY, LA, MD, ME, MI, MO, MS, NC, NY, OH, OK, PA, SC, TN, TX, VA, WV), CAN (ON)",None,6.6,5.0
 ,,,Perennial,,,Carex,,Graminoid,,,,latebracteata,"USA (AR, OK)",,,
 ,,,Perennial,,,Campanula,,Forb/herb,,,,lasiocarpa,"USA (AK, WA), CAN (AB, BC, NT, YT)",,,
 ,,,Perennial,,,Carex,,Graminoid,,,,lativena,"USA (AZ, NM, TX)",,,
@@ -1257,7 +1257,7 @@ Spring and Summer,Late Spring,No,Perennial,High,Moderate,Carex,Bunch,Graminoid,M
 ,,,Perennial,,,Carex,,Graminoid,,,,spectabilis,"USA (AK, CA, ID, MT, OR, UT, WA, WY), CAN (AB, BC, YT)",,,
 ,,,Perennial,,,Carex,,Graminoid,,,,spissa,"USA (AZ, CA)",,,
 ,,,Perennial,,,Carex,,Graminoid,,,,sprengelii,"USA (AK, CO, CT, DE, IA, IL, IN, MA, ME, MI, MN, MO, MT, ND, NE, NH, NJ, NM, NY, OH, PA, SD, VT, WI, WY), CAN (AB, BC, MB, NB, ON, QC, SK)",,,
-Spring,Early Summer,No,Perennial,Medium,Dense,Catalpa,Single Stem,Tree,Rapid,60,No,speciosa,"USA (AL, AR, CO, CT, DC, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NM, NY, OH, OK, PA, RI, SC, SD, TN, TX, UT, VA, WI, WV), CAN (ON)",Slow,7.0,5.5
+Spring,Early Summer,No,Perennial,Medium,Dense,Catalpa,Single Stem,Tree,Rapid,60.0,No,speciosa,"USA (AL, AR, CO, CT, DC, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NM, NY, OH, OK, PA, RI, SC, SD, TN, TX, UT, VA, WI, WV), CAN (ON)",Slow,7.0,5.5
 Spring and Summer,Mid Spring,No,Perennial,Medium,Moderate,Carex,Bunch,Graminoid,Slow,3.0,No,squarrosa,"USA (AL, AR, CT, DC, DE, GA, IA, IL, IN, KS, KY, LA, MD, MI, MN, MO, MS, NC, NE, NJ, NY, OH, OK, PA, RI, SC, TN, VA, WI, WV), CAN (ON)",Slow,7.3,5.6
 ,,,Perennial,,,Carex,,Graminoid,,,,stylosa,"USA (AK, WA), CAN (BC, LB, NF, QC, YT), DEN (GL)",,,
 ,,,Perennial,,,Carex,,Graminoid,,,,sterilis,"USA (AL, CT, IA, IL, IN, MA, ME, MI, MN, MO, MT, ND, NJ, NY, OH, PA, RI, TN, VA, WI, WV), CAN (MB, NF, NT, NU, ON, QC, SK)",,,
@@ -1353,10 +1353,10 @@ Spring and Summer,Late Spring,No,Perennial,Low,Dense,Ceanothus,Multiple Stem,"Su
 ,,,Annual,,,Cerastium,,Forb/herb,,,,axillare,"USA (NM, TX)",,,
 ,,,Perennial,,,Cerastium,,Forb/herb,,,,beeringianum,"USA (AK, AZ, CA, CO, ID, MT, NM, OR, UT, WA, WY), CAN (AB, BC, LB, MB, NF, NT, NU, ON, QC, SK, YT)",,,
 ,,,Perennial,,,Cerastium,,Forb/herb,,,,brachypodum,"USA (AL, AR, AZ, CO, GA, IA, ID, IL, IN, KS, KY, LA, MN, MO, MS, MT, NC, ND, NE, NM, OK, OR, SC, SD, TN, TX, UT, VA, WA, WI, WY), CAN (AB, MB, ON, SK)",,,
-Spring and Summer,Spring,No,Perennial,Low,Moderate,Cercis,Multiple Stem,"Tree, Shrub",Slow,30,No,canadensis,"USA (AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, MI, MO, MS, NC, NE, NJ, NM, NY, OH, OK, PA, SC, TN, TX, VA, WI, WV), CAN (ON)",None,7.9,5.0
+Spring and Summer,Spring,No,Perennial,Low,Moderate,Cercis,Multiple Stem,"Tree, Shrub",Slow,30.0,No,canadensis,"USA (AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, MI, MO, MS, NC, NE, NJ, NM, NY, OH, OK, PA, SC, TN, TX, VA, WI, WV), CAN (ON)",None,7.9,5.0
 Spring and Summer,Early Summer,No,Perennial,Low,Dense,Ceanothus,Multiple Stem,Shrub,Slow,8.0,No,cordulatus,"USA (CA, NV, OR)",None,8.5,7.0
 ,,,Perennial,,,Ceanothus,,Shrub,,,,crassifolius,USA (CA),,,
-Spring and Summer,Early Summer,No,Perennial,Low,Dense,Ceanothus,Thicket Forming,Shrub,Moderate,11,No,cuneatus,"USA (CA, OR)",Moderate,8.5,7.1
+Spring and Summer,Early Summer,No,Perennial,Low,Dense,Ceanothus,Thicket Forming,Shrub,Moderate,11.0,No,cuneatus,"USA (CA, OR)",Moderate,8.5,7.1
 ,,,Perennial,,,Ceanothus,,Shrub,,,,cyaneus,USA (CA),,,
 ,,,Perennial,,,Ceanothus,,Shrub,,,,dentatus,USA (CA),,,
 ,,,Perennial,,,Ceratophyllum,,Forb/herb,,,,demersum,"USA (AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, HI, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY), USA+ (PR, VI), CAN (AB, BC, MB, NB, NS, NT, NU, ON, PE, QC, SK, YT)",,,
@@ -1375,25 +1375,25 @@ Spring and Summer,Early Spring,No,Perennial,Low,Moderate,Ceanothus,Multiple Stem
 ,,,Perennial,,,Ceanothus,,"Subshrub, Shrub",,,,hearstiorum,USA (CA),,,
 ,,,Perennial,,,Ceanothus,,"Shrub, Tree",,,,impressus,USA (CA),,,
 ,,,Perennial,,,Ceanothus,,Shrub,,,,incanus,USA (CA),,,
-Spring and Summer,Late Spring,No,Perennial,Low,Dense,Ceanothus,Multiple Stem,Shrub,Moderate,13,No,integerrimus,"USA (AZ, CA, NM, OR, WA)",None,8.5,7.1
+Spring and Summer,Late Spring,No,Perennial,Low,Dense,Ceanothus,Multiple Stem,Shrub,Moderate,13.0,No,integerrimus,"USA (AZ, CA, NM, OR, WA)",None,8.5,7.1
 ,,,Perennial,,,Ceanothus,,Shrub,,,,jepsonii,USA (CA),,,
 ,,,Perennial,,,Celtis,,"Tree, Shrub",,,,laevigata,"USA (AL, AR, AZ, CA, CO, DC, FL, GA, ID, IL, IN, KS, KY, LA, MD, MO, MS, NC, NM, NV, OH, OK, OR, SC, TN, TX, UT, VA, WA, WV, WY)",,,
 ,,,Perennial,,,Ceanothus,,Shrub,,,,lemmonii,USA (CA),,,
 ,,,Perennial,,,Ceanothus,,Shrub,,,,leucodermis,USA (CA),,,
-"Spring, Summer, Fall",Early Spring,No,Perennial,Low,Dense,Cercocarpus,Multiple Stem,"Tree, Shrub",Moderate,20,No,ledifolius,"USA (AZ, CA, CO, ID, MT, NV, OR, UT, WA, WY)",None,8.7,5.5
+"Spring, Summer, Fall",Early Spring,No,Perennial,Low,Dense,Cercocarpus,Multiple Stem,"Tree, Shrub",Moderate,20.0,No,ledifolius,"USA (AZ, CA, CO, ID, MT, NV, OR, UT, WA, WY)",None,8.7,5.5
 ,,,Perennial,,,Celtis,,Tree,,,,lindheimeri,USA (TX),,,
 ,,,Perennial,,,Ceanothus,,Shrub,,,,maritimus,USA (CA),,,
 ,,,Perennial,,,Ceanothus,,Shrub,,,,martinii,"USA (AZ, CO, NV, UT, WY)",,,
 ,,,Perennial,,,Ceanothus,,"Subshrub, Shrub",,,,masonii,"USA (CA, MN)",,,
-Summer and Fall,Late Winter,Yes,Perennial,Low,Moderate,Ceanothus,Multiple Stem,Shrub,Moderate,13,No,megacarpus,USA (CA),None,8.0,7.0
+Summer and Fall,Late Winter,Yes,Perennial,Low,Moderate,Ceanothus,Multiple Stem,Shrub,Moderate,13.0,No,megacarpus,USA (CA),None,8.0,7.0
 ,,,Perennial,,,Ceanothus,,Shrub,,,,microphyllus,"USA (AL, FL, GA)",,,
 ,,,"Annual, Perennial",,,Cerastium,,Forb/herb,,,,nutans,"USA (AL, AR, AZ, CT, DC, DE, GA, IA, ID, IL, IN, KS, KY, MA, MD, MI, MN, MO, MS, MT, NC, ND, NE, NJ, NM, NY, OH, OK, OR, PA, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY), CAN (AB, BC, MB, NT, ON, QC, SK, YT)",,,
-Spring and Summer,Mid Spring,No,Perennial,Medium,Dense,Celtis,Single Stem,"Tree, Shrub",Rapid,60,No,occidentalis,"USA (AL, AR, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, MA, MD, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NY, OH, OK, PA, RI, SC, SD, TN, TX, UT, VA, VT, WI, WV, WY), CAN (MB, ON, QC)",None,7.8,6.0
+Spring and Summer,Mid Spring,No,Perennial,Medium,Dense,Celtis,Single Stem,"Tree, Shrub",Rapid,60.0,No,occidentalis,"USA (AL, AR, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, MA, MD, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NY, OH, OK, PA, RI, SC, SD, TN, TX, UT, VA, VT, WI, WV, WY), CAN (MB, ON, QC)",None,7.8,6.0
 ,,,Perennial,,,Cephalanthus,,"Tree, Shrub",,,,occidentalis,"USA (AL, AR, AZ, CA, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, NE, NH, NJ, NY, OH, OK, PA, RI, SC, TN, TX, VA, VT, WI, WV), CAN (NB, NS, ON, PE, QC)",,,
 ,,,Perennial,,,Ceanothus,,Shrub,,,,oliganthus,USA (CA),,,
 ,,,Perennial,,,Ceanothus,,Shrub,,,,ophiochilus,USA (CA),,,
 ,,,Perennial,,,Ceanothus,,Shrub,,,,palmeri,"USA (CA, OR)",,,
-Spring and Summer,Early Spring,Yes,Perennial,Low,Porous,Ceanothus,Multiple Stem,Shrub,Moderate,16,No,papillosus,USA (CA),None,8.0,7.0
+Spring and Summer,Early Spring,Yes,Perennial,Low,Porous,Ceanothus,Multiple Stem,Shrub,Moderate,16.0,No,papillosus,USA (CA),None,8.0,7.0
 ,,,Perennial,,,Ceanothus,,Shrub,,,,parryi,USA (CA),,,
 ,,,Perennial,,,Ceanothus,,Shrub,,,,parvifolius,USA (CA),,,
 ,,,Perennial,,,Ceanothus,,"Subshrub, Shrub",,,,pinetorum,USA (CA),,,
@@ -1402,8 +1402,8 @@ Spring and Summer,Early Spring,No,Perennial,Low,Porous,Ceanothus,Thicket Forming
 ,,,Perennial,,,Ceanothus,,"Shrub, Subshrub",,,,pumilus,"USA (CA, OR)",,,
 ,,,Perennial,,,Ceanothus,,Shrub,,,,purpureus,USA (CA),,,
 ,,,Perennial,,,Ceanothus,,Shrub,,,,roderickii,USA (CA),,,
-Spring and Summer,Mid Spring,No,Perennial,Low,Moderate,Ceanothus,Multiple Stem,Shrub,Slow,10,No,sanguineus,"USA (CA, ID, MI, MT, OR, SD, WA), CAN (BC)",None,8.0,6.5
-Spring and Summer,Spring,No,Perennial,Medium,,Celastrus,Thicket Forming,Vine,Rapid,15,No,scandens,"USA (AL, AR, CT, DC, DE, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV, WY), CAN (MB, NB, ON, QC, SK)",Rapid,7.5,5.0
+Spring and Summer,Mid Spring,No,Perennial,Low,Moderate,Ceanothus,Multiple Stem,Shrub,Slow,10.0,No,sanguineus,"USA (CA, ID, MI, MT, OR, SD, WA), CAN (BC)",None,8.0,6.5
+Spring and Summer,Spring,No,Perennial,Medium,,Celastrus,Thicket Forming,Vine,Rapid,15.0,No,scandens,"USA (AL, AR, CT, DC, DE, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV, WY), CAN (MB, NB, ON, QC, SK)",Rapid,7.5,5.0
 ,,,Perennial,,,Ceanothus,,Shrub,,,,sonomensis,USA (CA),,,
 ,,,Perennial,,,Ceanothus,,Shrub,,,,sorediatus,USA (CA),,,
 ,,,Perennial,,,Ceanothus,,"Tree, Shrub",,,,spinosus,USA (CA),,,
@@ -1412,7 +1412,7 @@ Spring and Summer,Spring,No,Perennial,Medium,,Celastrus,Thicket Forming,Vine,Rap
 ,,,Perennial,,,Ceanothus,,"Tree, Shrub",,,,thyrsiflorus,"USA (CA, OR)",,,
 ,,,"Annual, Perennial",,,Ceratopteris,,Forb/herb,,,,thalictroides,"USA (CA, FL, HI, LA, MS, TX), USA+ (PR)",,,
 ,,,Perennial,,,Ceanothus,,Shrub,,,,tomentosus,USA (CA),,,
-Spring and Summer,Early Summer,No,Perennial,Medium,Dense,Ceanothus,Thicket Forming,"Tree, Shrub",Moderate,10,No,velutinus,"USA (CA, CO, ID, MT, NV, OR, SD, UT, WA, WY), CAN (AB, BC)",Moderate,8.3,6.5
+Spring and Summer,Early Summer,No,Perennial,Medium,Dense,Ceanothus,Thicket Forming,"Tree, Shrub",Moderate,10.0,No,velutinus,"USA (CA, CO, ID, MT, NV, OR, SD, UT, WA, WY), CAN (AB, BC)",Moderate,8.3,6.5
 ,,,Perennial,,,Ceanothus,,Shrub,,,,verrucosus,USA (CA),,,
 ,,,Perennial,,,Centrosema,,"Vine, Forb/herb",,,,virginianum,"USA (AL, AR, DE, FL, GA, IL, KY, LA, MD, MO, MS, NC, NJ, OK, SC, TN, TX, VA), USA+ (PR, VI)",,,
 ,,,Perennial,,,Chrysosplenium,,Forb/herb,,,,alternifolium,"USA (IA, MN), CAN (AB, BC, MB, SK)",,,
@@ -1439,7 +1439,7 @@ Spring and Summer,Early Summer,No,Perennial,Medium,Dense,Ceanothus,Thicket Formi
 ,,,Perennial,,,Chasmanthium,,Graminoid,,,,latifolium,"USA (AL, AR, AZ, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MD, MI, MO, MS, NC, NJ, NM, OH, OK, PA, SC, TN, TX, VA, WI, WV)",,,
 ,,,Perennial,,,Cheilanthes,,Forb/herb,,,,leucopoda,USA (TX),,,
 ,,,Annual,,,Chenopodium,,Forb/herb,,,,leptophyllum,"USA (AK, AZ, CA, CO, ID, KS, LA, MD, MT, NE, NM, NV, OK, OR, TX, UT, WA, WY), CAN (AB, MB, NS, NT, ON, SK, YT)",,,
-"Spring, Summer, Fall",Late Spring,No,Perennial,Low,Dense,Chilopsis,Multiple Stem,"Tree, Shrub",Rapid,25,No,linearis,"USA (AZ, CA, GA, KS, NM, NV, OK, TX, UT)",None,10.0,6.6
+"Spring, Summer, Fall",Late Spring,No,Perennial,Low,Dense,Chilopsis,Multiple Stem,"Tree, Shrub",Rapid,25.0,No,linearis,"USA (AZ, CA, GA, KS, NM, NV, OK, TX, UT)",None,10.0,6.6
 ,,,"Biennial, Perennial",,,Chrysopsis,,Forb/herb,,,,linearifolia,USA (FL),,,
 ,,,Perennial,,,Chamaecrista,,"Subshrub, Forb/herb",,,,lineata,"USA (FL), USA+ (PR, VI)",,,
 ,,,Perennial,,,Chamaelirium,,Forb/herb,,,,luteum,"USA (AL, AR, CT, DC, DE, FL, GA, IL, IN, KY, LA, MA, MD, MI, MS, NC, NJ, NY, OH, PA, SC, TN, VA, WV), CAN (ON)",,,
@@ -1501,7 +1501,7 @@ Spring and Summer,Spring,Yes,Perennial,Low,Moderate,Chrysothamnus,Multiple Stem,
 ,,,Perennial,,,Clethra,,"Tree, Shrub",,,,acuminata,"USA (AL, GA, KY, NC, PA, SC, TN, VA, WV)",,,
 ,,,Perennial,,,Clematis,,Vine,,,,addisonii,USA (VA),,,
 ,,,Perennial,,,Clematis,,"Subshrub, Forb/herb",,,,albicoma,"USA (VA, WV)",,,
-Spring and Summer,Summer,No,Perennial,Medium,Moderate,Clethra,Multiple Stem,Shrub,Moderate,16,No,alnifolia,"USA (AL, CT, DE, FL, GA, LA, MA, MD, ME, MS, NC, NH, NJ, NY, PA, RI, SC, TN, TX, VA), CAN (NS)",Slow,7.0,4.5
+Spring and Summer,Summer,No,Perennial,Medium,Moderate,Clethra,Multiple Stem,Shrub,Moderate,16.0,No,alnifolia,"USA (AL, CT, DE, FL, GA, LA, MA, MD, ME, MS, NC, NH, NJ, NY, PA, RI, SC, TN, TX, VA), CAN (NS)",Slow,7.0,4.5
 ,,,Annual,,,Clarkia,,Forb/herb,,,,amoena,"USA (CA, NY, OR, WA), CAN (BC, QC)",,,
 ,,,Perennial,,,Clintonia,,Forb/herb,,,,andrewsiana,"USA (CA, OR)",,,
 ,,,Perennial,,,Clinopodium,,Forb/herb,,,,arkansanum,"USA (AR, IL, IN, KS, MI, MN, MO, NM, NY, OH, OK, PA, TN, TX, VA, WI, WV), CAN (ON)",,,
@@ -1553,7 +1553,7 @@ Spring,Mid Spring,No,"Annual, Perennial",Medium,Porous,Claytonia,Single Crown,Fo
 ,,,Perennial,,,Clematis,,"Subshrub, Forb/herb",,,,viticaulis,USA (VA),,,
 ,,,Perennial,,,Clinopodium,,Forb/herb,,,,vulgare,"USA (AR, AZ, CO, CT, DC, DE, IA, IL, IN, KS, KY, MA, MD, ME, MI, MN, MT, NC, NH, NJ, NM, NY, OH, OR, PA, RI, TN, UT, VA, VT, WA, WI, WV), CAN (BC, NB, NF, NS, ON, QC), FRA (SPM)",,,
 ,,,Perennial,,,Cnidoscolus,,Forb/herb,,,,texanus,"USA (AR, KS, LA, OK, TX)",,,
-Spring and Summer,Mid Spring,Yes,Perennial,Medium,Dense,Cornus,Multiple Stem,"Tree, Shrub",Moderate,25,No,alternifolia,"USA (AL, AR, CT, DE, FL, GA, IA, IL, IN, KY, MA, MD, ME, MI, MN, MO, MS, NC, NH, NJ, NY, OH, PA, RI, SC, TN, VA, VT, WI, WV), CAN (MB, NB, NF, NS, ON, PE, QC), FRA (SPM)",None,7.3,4.8
+Spring and Summer,Mid Spring,Yes,Perennial,Medium,Dense,Cornus,Multiple Stem,"Tree, Shrub",Moderate,25.0,No,alternifolia,"USA (AL, AR, CT, DE, FL, GA, IA, IL, IN, KY, MA, MD, ME, MI, MN, MO, MS, NC, NH, NJ, NY, OH, PA, RI, SC, TN, VA, VT, WI, WV), CAN (MB, NB, NF, NS, ON, PE, QC), FRA (SPM)",None,7.3,4.8
 ,,,Perennial,,,Conopholis,,Forb/herb,,,,americana,"USA (AL, CT, DC, DE, FL, GA, IA, IL, IN, KY, MA, MD, ME, MI, MS, NC, NH, NJ, NY, OH, PA, RI, SC, TN, VA, VT, WI, WV), CAN (MB, NS, ON, QC)",,,
 ,,,Perennial,,,Cornus,,Shrub,,,,amomum,"USA (AL, CT, DC, DE, FL, GA, IA, IL, IN, KY, MA, MD, ME, MI, MO, MS, NC, NH, NJ, NY, OH, PA, RI, SC, TN, VA, VT, WV)",,,
 ,,,Perennial,,,Corylus,,Shrub,,,,americana,"USA (AL, AR, CT, DC, DE, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NY, OH, OK, PA, RI, SC, SD, TN, VA, VT, WI, WV), CAN (MB, ON, QC)",,,
@@ -1569,18 +1569,18 @@ Spring and Summer,Late Spring,No,Perennial,Medium,Dense,Cornus,Rhizomatous,"Subs
 ,,,Perennial,,,Collinsonia,,Forb/herb,,,,canadensis,"USA (AL, AR, CT, DC, DE, FL, GA, IL, IN, KY, LA, MA, MD, MI, MO, MS, NC, NH, NJ, NY, OH, PA, RI, SC, TN, VA, VT, WI, WV), CAN (ON, QC)",,,
 ,,,Annual,,,Coreopsis,,Forb/herb,,,,calliopsidea,USA (CA),,,
 ,,,Perennial,,,Consolea,,Shrub,,,,corallicola,USA (FL),,,
-Spring and Summer,Early Spring,No,Perennial,Medium,Dense,Corylus,Multiple Stem,"Tree, Shrub",Moderate,15,No,cornuta,"USA (AL, CA, CO, CT, DE, GA, IA, ID, IL, MA, MD, ME, MI, MN, MT, NC, ND, NH, NJ, NY, OH, OR, PA, RI, SC, SD, TN, VA, VT, WA, WI, WV, WY), CAN (AB, BC, MB, NB, NF, NS, ON, PE, QC, SK), FRA (SPM)",Slow,7.5,4.8
+Spring and Summer,Early Spring,No,Perennial,Medium,Dense,Corylus,Multiple Stem,"Tree, Shrub",Moderate,15.0,No,cornuta,"USA (AL, CA, CO, CT, DE, GA, IA, ID, IL, MA, MD, ME, MI, MN, MT, NC, ND, NH, NJ, NY, OH, OR, PA, RI, SC, SD, TN, VA, VT, WA, WI, WV, WY), CAN (AB, BC, MB, NB, NF, NS, ON, PE, QC, SK), FRA (SPM)",Slow,7.5,4.8
 ,,,Perennial,,,Corema,,"Subshrub, Shrub",,,,conradii,"USA (MA, ME, NJ, NY), CAN (NB, NS, PE, QC)",,,
 ,,,Perennial,,,Colubrina,,"Tree, Shrub",,,,cubensis,USA (FL),,,
 ,,,Perennial,,,Coreopsis,,Forb/herb,,,,delphiniifolia,"USA (AL, GA, NC, SC, TN, VA)",,,
 ,,,Perennial,,,Commelina,,Forb/herb,,,,dianthifolia,"USA (AZ, CO, NM, TX)",,,
 ,,,"Annual, Perennial",,,Commelina,,Forb/herb,,,,diffusa,"USA (AL, AR, DC, DE, FL, GA, HI, IL, IN, KS, KY, LA, MD, MO, MS, NC, NJ, NY, OH, OK, PA, SC, TN, TX, UM, VA, VT, WV), USA+ (PR, VI)",,,
 ,,,Perennial,,,Coccoloba,,"Tree, Shrub",,,,diversifolia,"USA (, FL), USA+ (PR, VI)",,,
-Spring and Summer,Mid Spring,Yes,Perennial,Medium,Dense,Cornus,Multiple Stem,"Tree, Shrub",Rapid,20,No,drummondii,"USA (AL, AR, GA, IA, IL, IN, KS, KY, LA, MI, MO, MS, NE, NY, OH, OK, PA, SD, TN, TX, WI), CAN (ON)",Rapid,7.5,4.5
+Spring and Summer,Mid Spring,Yes,Perennial,Medium,Dense,Cornus,Multiple Stem,"Tree, Shrub",Rapid,20.0,No,drummondii,"USA (AL, AR, GA, IA, IL, IN, KS, KY, LA, MI, MO, MS, NE, NY, OH, OK, PA, SD, TN, TX, WI), CAN (ON)",Rapid,7.5,4.5
 ,,,Perennial,,,Coryphantha,,Shrub,,,,echinus,USA (TX),,,
 ,,,Perennial,,,Commelina,,Forb/herb,,,,erecta,"USA (AL, AR, AZ, CO, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MD, MI, MN, MO, MS, NC, NE, NJ, NM, NY, OK, PA, RI, SC, SD, TN, TX, VA, WI, WV, WY), USA+ (PR, VI)",,,
 ,,,Perennial,,,Conocarpus,,"Tree, Shrub",,,,erectus,"USA (FL, HI, TX), USA+ (PR, VI)",,,
-Spring and Summer,Early Spring,No,Perennial,Medium,Porous,Cornus,Multiple Stem,"Tree, Shrub",Moderate,30,No,florida,"USA (AL, AR, CT, DC, DE, FL, GA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MO, MS, NC, NH, NJ, NY, OH, OK, PA, RI, SC, TN, TX, VA, VT, WV), CAN (ON)",None,7.7,4.8
+Spring and Summer,Early Spring,No,Perennial,Medium,Porous,Cornus,Multiple Stem,"Tree, Shrub",Moderate,30.0,No,florida,"USA (AL, AR, CT, DC, DE, FL, GA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MO, MS, NC, NH, NJ, NY, OH, OK, PA, RI, SC, TN, TX, VA, VT, WV), CAN (ON)",None,7.7,4.8
 ,,,Perennial,,,Cornus,,"Tree, Shrub",,,,foemina,"USA (AL, AR, DE, FL, GA, IL, IN, KY, LA, MD, MO, MS, NC, NJ, OK, SC, TN, TX, VA)",,,
 ,,,Perennial,,,Coreopsis,,"Subshrub, Shrub, Forb/herb",,,,gigantea,USA (CA),,,
 ,,,Perennial,,,Cornus,,"Tree, Shrub",,,,glabrata,"USA (CA, OR)",,,
@@ -1597,7 +1597,7 @@ Spring and Summer,Early Spring,No,Perennial,Medium,Porous,Cornus,Multiple Stem,"
 ,,,Perennial,,,Corallorhiza,,Forb/herb,,,,mertensiana,"USA (AK, CA, ID, MT, OR, WA, WY), CAN (AB, BC)",,,
 ,,,Annual,,,Corydalis,,Forb/herb,,,,micrantha,"USA (AL, AR, FL, GA, IA, IL, IN, KS, KY, LA, MN, MO, MS, NC, NE, OK, SC, SD, TN, TX, WI)",,,
 ,,,Perennial,,,Coryphantha,,Shrub,,,,nickelsiae,USA (TX),,,
-"Spring, Summer, Fall",Mid Spring,No,Perennial,Low,Dense,Cornus,Multiple Stem,Tree,Moderate,50,No,nuttallii,"USA (CA, ID, OR, WA), CAN (BC)",None,7.3,4.9
+"Spring, Summer, Fall",Mid Spring,No,Perennial,Low,Dense,Cornus,Multiple Stem,Tree,Moderate,50.0,No,nuttallii,"USA (CA, ID, OR, WA), CAN (BC)",None,7.3,4.9
 ,,,Perennial,,,Cotinus,,"Tree, Shrub",,,,obovatus,"USA (AL, AR, GA, KY, MO, OK, TN, TX)",,,
 ,,,Perennial,,,Coptis,,Forb/herb,,,,occidentalis,"USA (ID, MT, OR, WA)",,,
 ,,,Perennial,,,Coreopsis,,Forb/herb,,,,palmata,"USA (AL, AR, IA, IL, IN, KS, LA, MI, MN, MO, NE, OK, SD, WI)",,,
@@ -1605,7 +1605,7 @@ Spring and Summer,Early Spring,No,Perennial,Medium,Porous,Cornus,Multiple Stem,"
 ,,,"Annual, Perennial",,,Cottea,,Graminoid,,,,pappophoroides,"USA (AZ, NM, TX)",,,
 ,,,Perennial,,,Comarum,,Forb/herb,,,,palustre,"USA (AK, CA, CO, CT, IA, ID, IL, IN, MA, ME, MI, MN, MT, ND, NH, NJ, NY, OH, OR, PA, UT, VT, WA, WI, WY), CAN (AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT), DEN (GL), FRA (SPM)",,,
 Summer,Spring,No,Perennial,Low,Moderate,Comptonia,Rhizomatous,"Subshrub, Shrub",Slow,2.0,No,peregrina,"USA (CT, DC, DE, GA, IL, IN, KY, MA, MD, ME, MI, MN, NC, NH, NJ, NY, OH, PA, RI, SC, TN, VA, VT, WI, WV), CAN (NB, NS, ON, PE, QC)",Moderate,7.0,4.0
-Spring and Summer,Late Spring,No,Perennial,Medium,Dense,Cornus,Rhizomatous,Shrub,Moderate,10,No,racemosa,"USA (AR, CT, DE, IA, IL, IN, KY, MA, MD, ME, MI, MN, MO, NC, ND, NE, NH, NJ, NY, OH, PA, RI, SC, SD, TX, VA, VT, WI, WV), CAN (MB, ON, QC)",Slow,7.4,4.8
+Spring and Summer,Late Spring,No,Perennial,Medium,Dense,Cornus,Rhizomatous,Shrub,Moderate,10.0,No,racemosa,"USA (AR, CT, DE, IA, IL, IN, KY, MA, MD, ME, MI, MN, MO, NC, ND, NE, NH, NJ, NY, OH, PA, RI, SC, SD, TX, VA, VT, WI, WV), CAN (MB, ON, QC)",Slow,7.4,4.8
 ,,,Perennial,,,Coryphantha,,Shrub,,,,ramillosa,USA (TX),,,
 ,,,Perennial,,,Coryphantha,,Shrub,,,,recurvata,USA (AZ),,,
 ,,,Perennial,,,Coreopsis,,Forb/herb,,,,rosea,"USA (DE, GA, MA, MD, NJ, NY, PA, RI, SC), CAN (NS)",,,
@@ -1625,7 +1625,7 @@ Spring and Summer,Late Spring,No,Perennial,Medium,Dense,Cornus,Rhizomatous,Shrub
 ,,,Perennial,,,Commelina,,Forb/herb,,,,virginica,"USA (AL, AR, DC, DE, FL, GA, IL, IN, KS, KY, LA, MD, MO, MS, NC, NJ, NY, OH, OK, PA, SC, TN, TX, VA, WV), USA+ (PR)",,,
 ,,,Perennial,,,Corallorhiza,,Forb/herb,,,,wisteriana,"USA (AL, AR, AZ, CO, DC, DE, FL, GA, ID, IL, IN, KS, KY, LA, MD, MO, MS, MT, NC, NE, NH, NJ, NM, OH, OK, OR, PA, SC, SD, TN, TX, UT, VA, WV, WY)",,,
 Spring and Summer,Early Summer,No,Perennial,Low,Porous,Crepis,Bunch,Forb/herb,Moderate,3.0,No,acuminata,"USA (AZ, CA, CO, ID, MT, NM, NV, OR, UT, WA, WY)",None,7.8,6.0
-Spring and Summer,Mid Spring,Yes,Perennial,Medium,Moderate,Crataegus,Multiple Stem,"Tree, Shrub",Slow,26,No,aestivalis,"USA (AL, FL, GA, MS, NC, SC, VA)",None,7.3,4.3
+Spring and Summer,Mid Spring,Yes,Perennial,Medium,Moderate,Crataegus,Multiple Stem,"Tree, Shrub",Slow,26.0,No,aestivalis,"USA (AL, FL, GA, MS, NC, SC, VA)",None,7.3,4.3
 ,,,Perennial,,,Crataegus,,"Tree, Shrub",,,,aemula,"USA (GA, MS)",,,
 ,,,Perennial,,,Crataegus,,Shrub,,,,alma,USA (MS),,,
 ,,,Perennial,,,Crinum,,Forb/herb,,,,americanum,"USA (AL, AR, FL, GA, LA, MS, NC, SC, TX)",,,
@@ -1659,11 +1659,11 @@ Spring and Summer,Mid Spring,Yes,Perennial,Medium,Moderate,Crataegus,Multiple St
 ,,,Annual,,,Croptilon,,Forb/herb,,,,divaricatum,"USA (AL, AR, FL, GA, KS, LA, MS, NC, OK, SC, TX, VA)",,,
 ,,,Perennial,,,Crataegus,,"Tree, Shrub",,,,dispar,"USA (GA, SC)",,,
 ,,,Perennial,,,Crataegus,,"Tree, Shrub",,,,disperma,"USA (DE, IA, IL, IN, KY, MI, MO, NC, NY, OH, PA, TN, VA, WI, WV), CAN (ON)",,,
-"Spring, Summer, Fall",Mid Spring,Yes,Perennial,Low,Dense,Crataegus,Thicket Forming,"Tree, Shrub",Moderate,15,No,douglasii,"USA (AK, CA, ID, MI, MN, MT, ND, NV, OR, SD, WA, WI, WY), CAN (AB, BC, ON, QC, SK)",Moderate,7.5,4.8
+"Spring, Summer, Fall",Mid Spring,Yes,Perennial,Low,Dense,Crataegus,Thicket Forming,"Tree, Shrub",Moderate,15.0,No,douglasii,"USA (AK, CA, ID, MI, MN, MT, ND, NV, OR, SD, WA, WI, WY), CAN (AB, BC, ON, QC, SK)",Moderate,7.5,4.8
 ,,,Perennial,,,Crataegus,,"Tree, Shrub",,,,dodgei,"USA (CT, IL, IN, MA, MD, ME, MI, NH, NJ, NY, PA, RI, VA, VT, WI), CAN (ON, QC)",,,
 ,,,Annual,,,Crassula,,Forb/herb,,,,drummondii,"USA (CO, SC, TX)",,,
 ,,,Perennial,,,Crataegus,,"Tree, Shrub",,,,engelmannii,"USA (AR, GA, IL, KS, KY, LA, MO, MS, NY, OH, OK, TN, TX, VA)",,,
-Spring and Summer,Late Spring,Yes,Perennial,Low,Moderate,Crataegus,Single Stem,"Tree, Shrub",Slow,16,No,erythropoda,"USA (AZ, CO, NM, UT, WY)",Slow,8.0,3.0
+Spring and Summer,Late Spring,Yes,Perennial,Low,Moderate,Crataegus,Single Stem,"Tree, Shrub",Slow,16.0,No,erythropoda,"USA (AZ, CO, NM, UT, WY)",Slow,8.0,3.0
 ,,,Perennial,,,Crataegus,,"Tree, Shrub",,,,flabellata,"USA (AL, AR, CT, DE, GA, IL, IN, KY, LA, MA, MD, ME, MI, MN, MS, NC, NH, NJ, NY, OH, PA, SC, TN, VA, VT, WI, WV), CAN (NB, NS, ON, QC)",,,
 ,,,Perennial,,,Crataegus,,"Tree, Shrub",,,,flava,"USA (AL, FL, GA, MD, MS, NC, PA, SC, TN, VA, WV)",,,
 ,,,Perennial,,,Croton,,Shrub,,,,fruticulosus,"USA (AZ, NM, TX)",,,
@@ -1693,7 +1693,7 @@ Spring and Summer,Late Spring,No,"Annual, Perennial",Low,Porous,Crepis,Single Cr
 ,,,Perennial,,,Crataegus,,"Tree, Shrub",,,,pennsylvanica,"USA (DE, MD, NJ, NY, OH, PA, WV)",,,
 ,,,Perennial,,,Crataegus,,"Tree, Shrub",,,,persimilis,"USA (KY, NY, OH, PA), CAN (ON)",,,
 ,,,Perennial,,,Crataegus,,Tree,,,,perjucunda,"USA (NY), CAN (ON)",,,
-Spring and Summer,Mid Spring,No,Perennial,Medium,Moderate,Crataegus,Single Stem,"Tree, Shrub",Moderate,30,No,phaenopyrum,"USA (AL, AR, DC, DE, FL, GA, IL, IN, KY, LA, MA, MD, ME, MI, MO, MS, NC, NJ, NY, OH, PA, RI, SC, TN, VA, WV), CAN (ON)",None,7.0,4.3
+Spring and Summer,Mid Spring,No,Perennial,Medium,Moderate,Crataegus,Single Stem,"Tree, Shrub",Moderate,30.0,No,phaenopyrum,"USA (AL, AR, DC, DE, FL, GA, IL, IN, KY, LA, MA, MD, ME, MI, MO, MS, NC, NJ, NY, OH, PA, RI, SC, TN, VA, WV), CAN (ON)",None,7.0,4.3
 ,,,Perennial,,,Crataegus,,"Shrub, Tree",,,,phippsii,"USA (MT, WA), CAN (BC)",,,
 ,,,Perennial,,,Crataegus,,"Tree, Shrub",,,,pinetorum,"USA (AL, TN)",,,
 ,,,Perennial,,,Crataegus,,"Tree, Shrub",,,,poliophylla,USA (TX),,,
@@ -2079,7 +2079,7 @@ Spring and Summer,Early Summer,No,Perennial,Low,Porous,Echinacea,Single Stem,For
 ,,,Perennial,,,Elephantopus,,Forb/herb,,,,carolinianus,"USA (AL, AR, DC, DE, FL, GA, IL, IN, KS, KY, LA, MD, MO, MS, NC, NJ, OH, OK, PA, SC, TN, TX, VA, WV)",,,
 "Spring, Summer, Fall",Late Spring,No,Perennial,Medium,Dense,Elymus,Bunch,Graminoid,Rapid,3.0,No,canadensis,"USA (AR, AZ, CA, CO, CT, DC, DE, IA, ID, IL, IN, KS, KY, MA, MD, ME, MI, MN, MO, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY), CAN (AB, BC, MB, NB, NT, ON, QC, SK)",None,7.9,5.0
 ,,,Perennial,,,Elodea,,Forb/herb,,,,canadensis,"USA (AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, IA, ID, IL, IN, KS, KY, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, UT, VA, VT, WA, WI, WV, WY), USA+ (PR), CAN (BC, MB, NB, NS, ON, QC, SK)",,,
-Spring and Summer,Early Summer,No,Perennial,Low,Dense,Elaeagnus,Multiple Stem,Shrub,Rapid,12,No,commutata,"USA (AK, CO, ID, KY, MD, MN, MT, ND, NY, RI, SD, TX, UT, WA, WY), CAN (AB, BC, MB, NT, NU, ON, QC, SK, YT)",None,7.9,5.0
+Spring and Summer,Early Summer,No,Perennial,Low,Dense,Elaeagnus,Multiple Stem,Shrub,Rapid,12.0,No,commutata,"USA (AK, CO, ID, KY, MD, MN, MT, ND, NY, RI, SD, TX, UT, WA, WY), CAN (AB, BC, MB, NT, NU, ON, QC, SK, YT)",None,7.9,5.0
 ,,,Perennial,,,Elymus,,Graminoid,,,,diversiglumis,"USA (AR, IA, IL, MI, MN, MO, ND, OK, SD, WI, WY), CAN (MB, ON, SK)",,,
 ,,,Perennial,,,Elephantopus,,Forb/herb,,,,elatus,"USA (AL, FL, GA, LA, MS, SC)",,,
 Spring,Mid Spring,No,Perennial,Low,Moderate,Elymus,Bunch,Graminoid,Moderate,1.5,No,elymoides,"USA (AZ, CA, CO, DC, ID, IL, KS, KY, MO, MT, ND, NE, NM, NV, OK, OR, SD, TX, UT, WA, WY), CAN (AB, BC, SK)",None,8.4,6.0
@@ -2122,7 +2122,7 @@ Spring and Summer,Spring,No,Perennial,Low,Porous,Ephedra,Multiple Stem,"Subshrub
 ,,,Perennial,,,Ephedra,,"Shrub, Vine",,,,pedunculata,USA (TX),,,
 ,,,Perennial,,,Epigaea,,"Subshrub, Shrub",,,,repens,"USA (AL, CT, DC, DE, FL, GA, IA, IL, IN, KY, MA, MD, ME, MI, MN, MS, NC, NH, NJ, NY, OH, PA, RI, SC, TN, VA, VT, WI, WV), CAN (LB, MB, NB, NF, NS, ON, PE, QC), FRA (SPM)",,,
 Spring,Early Spring,Yes,Perennial,Low,Porous,Ephedra,Single Crown,"Subshrub, Shrub",Slow,1.0,No,torreyana,"USA (AZ, CO, NM, NV, TX, UT)",None,9.5,6.5
-Spring and Summer,Spring,No,Perennial,Low,Porous,Ephedra,Multiple Stem,Shrub,Moderate,15,No,trifurca,"USA (AZ, CA, NM, TX)",Slow,9.5,7.5
+Spring and Summer,Spring,No,Perennial,Low,Porous,Ephedra,Multiple Stem,Shrub,Moderate,15.0,No,trifurca,"USA (AZ, CA, NM, TX)",Slow,9.5,7.5
 Spring and Summer,Mid Spring,No,Perennial,Medium,Dense,Ephedra,Multiple Stem,Shrub,Slow,3.0,No,viridis,"USA (AZ, CA, CO, NM, NV, OR, UT, WY)",Moderate,8.0,7.0
 ,,,Annual,,,Epifagus,,Forb/herb,,,,virginiana,"USA (AL, AR, CT, DC, DE, FL, GA, IL, IN, KY, LA, MA, MD, ME, MI, MO, MS, NC, NH, NJ, NY, OH, OK, PA, RI, SC, TN, TX, VA, VT, WI, WV), CAN (NB, NS, ON, PE, QC)",,,
 ,,,Perennial,,,Equisetum,,Forb/herb,,,,arvense,"USA (AK, AL, AR, AZ, CA, CO, CT, DC, DE, GA, IA, ID, IL, IN, KS, KY, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY), CAN (AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT), DEN (GL), FRA (SPM)",,,
@@ -2376,7 +2376,7 @@ Spring and Summer,Late Spring,No,Perennial,Medium,Porous,Festuca,Bunch,Graminoid
 ,,,Perennial,,,Ferocactus,,Shrub,,,,viridescens,USA (CA),,,
 ,,,Perennial,,,Festuca,,Graminoid,,,,viviparoidea,"USA (AK, MT, WY), CAN (AB, BC, LB, NF, NT, NU, QC, YT), DEN (GL)",,,
 ,,,Perennial,,,Festuca,,Graminoid,,,,washingtonica,"USA (WA), CAN (BC)",,,
-Summer,Late Spring,No,Perennial,Low,Porous,Ferocactus,Single Stem,"Tree, Shrub",Slow,11,No,wislizeni,"USA (AZ, NM, TX)",,8.5,7.0
+Summer,Late Spring,No,Perennial,Low,Porous,Ferocactus,Single Stem,"Tree, Shrub",Slow,11.0,No,wislizeni,"USA (AZ, NM, TX)",,8.5,7.0
 ,,,Perennial,,,Ficus,,"Tree, Shrub",,,,americana,"USA (FL), USA+ (PR)",,,
 ,,,Perennial,,,Ficus,,"Tree, Shrub, Vine",,,,aurea,USA (FL),,,
 ,,,Perennial,,,Ficus,,"Tree, Shrub",,,,citrifolia,"USA (, FL), USA+ (PR, VI)",,,
@@ -2389,7 +2389,7 @@ Summer,Late Spring,No,Perennial,Low,Porous,Ferocactus,Single Stem,"Tree, Shrub",
 ,,,Perennial,,,Fothergilla,,Shrub,,,,gardenii,"USA (AL, FL, GA, NC, SC)",,,
 ,,,Perennial,,,Fothergilla,,Shrub,,,,major,"USA (AL, AR, GA, NC, SC, TN)",,,
 ,,,Perennial,,,Forestiera,,"Tree, Shrub",,,,segregata,"USA (FL, GA, SC), USA+ (PR, VI)",,,
-Spring and Fall,Indeterminate,No,Perennial,Low,Porous,Fouquieria,Multiple Stem,Shrub,Rapid,10,No,splendens,"USA (AZ, CA, NM, NV, TX)",None,8.5,7.0
+Spring and Fall,Indeterminate,No,Perennial,Low,Porous,Fouquieria,Multiple Stem,Shrub,Rapid,10.0,No,splendens,"USA (AZ, CA, NM, NV, TX)",None,8.5,7.0
 ,,,Perennial,,,Fritillaria,,Forb/herb,,,,affinis,"USA (CA, ID, OR, WA), CAN (BC)",,,
 ,,,Perennial,,,Fritillaria,,Forb/herb,,,,agrestis,USA (CA),,,
 ,,,Perennial,,,Franklinia,,"Tree, Shrub",,,,alatamaha,USA (GA),,,
@@ -2403,7 +2403,7 @@ Spring and Fall,Indeterminate,No,Perennial,Low,Porous,Fouquieria,Multiple Stem,S
 ,,,Perennial,,,Frasera,,Forb/herb,,,,caroliniensis,"USA (AL, AR, GA, IL, IN, KY, MI, MO, MS, NC, NY, OH, OK, PA, SC, TN, VA), CAN (ON)",,,
 ,,,Perennial,,,Fraxinus,,"Tree, Shrub",,,,caroliniana,"USA (AL, AR, FL, GA, LA, MS, NC, SC, TX, VA)",,,
 ,,,Perennial,,,Fritillaria,,Forb/herb,,,,camschatcensis,"USA (AK, OR, WA), CAN (BC, YT)",,,
-Spring and Summer,Late Summer,Yes,Perennial,Low,Dense,Fremontodendron,Multiple Stem,"Tree, Shrub",Moderate,10,No,californicum,"USA (AZ, CA, OR)",Moderate,7.5,7.0
+Spring and Summer,Late Summer,Yes,Perennial,Low,Dense,Fremontodendron,Multiple Stem,"Tree, Shrub",Moderate,10.0,No,californicum,"USA (AZ, CA, OR)",Moderate,7.5,7.0
 ,,,Perennial,,,Fragaria,,Forb/herb,,,,chiloensis,"USA (AK, CA, HI, NY, OR, WA), CAN (BC)",,,
 ,,,Perennial,,,Fraxinus,,"Tree, Shrub",,,,dipetala,"USA (AZ, CA, NV, OR, UT)",,,
 ,,,Perennial,,,Fritillaria,,Forb/herb,,,,eastwoodiae,USA (CA),,,
@@ -2415,9 +2415,9 @@ Spring and Summer,Late Summer,Yes,Perennial,Low,Dense,Fremontodendron,Multiple S
 ,,,Perennial,,,Fraxinus,,"Tree, Shrub",,,,greggii,"USA (AZ, NM, TX)",,,
 ,,,Perennial,,,Fraxinus,,Tree,,,,latifolia,"USA (CA, OR, WA), CAN (BC)",,,
 ,,,Perennial,,,Fritillaria,,Forb/herb,,,,micrantha,USA (CA),,,
-Spring and Summer,Early Spring,No,Perennial,Medium,Dense,Fraxinus,Single Stem,Tree,Slow,65,No,nigra,"USA (CT, DC, DE, IA, IL, IN, KY, MA, MD, ME, MI, MN, ND, NH, NJ, NY, OH, PA, RI, VA, VT, WI, WV), CAN (MB, NB, NF, NS, ON, PE, QC)",None,8.2,4.4
+Spring and Summer,Early Spring,No,Perennial,Medium,Dense,Fraxinus,Single Stem,Tree,Slow,65.0,No,nigra,"USA (CT, DC, DE, IA, IL, IN, KY, MA, MD, ME, MI, MN, ND, NH, NJ, NY, OH, PA, RI, VA, VT, WI, WV), CAN (MB, NB, NF, NS, ON, PE, QC)",None,8.2,4.4
 ,,,Perennial,,,Fritillaria,,Forb/herb,,,,ojaiensis,USA (CA),,,
-Spring and Summer,Late Spring,Yes,Perennial,Medium,Dense,Fraxinus,Single Crown,Tree,Rapid,80,No,pennsylvanica,"USA (AL, AR, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NY, OH, OK, PA, RI, SC, SD, TN, TX, UT, VA, VT, WI, WV, WY), CAN (AB, MB, NB, NS, ON, PE, QC, SK)",None,8.1,4.7
+Spring and Summer,Late Spring,Yes,Perennial,Medium,Dense,Fraxinus,Single Crown,Tree,Rapid,80.0,No,pennsylvanica,"USA (AL, AR, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NY, OH, OK, PA, RI, SC, SD, TN, TX, UT, VA, VT, WI, WV, WY), CAN (AB, MB, NB, NS, ON, PE, QC, SK)",None,8.1,4.7
 ,,,Perennial,,,Fritillaria,,Forb/herb,,,,pinetorum,"USA (CA, NV)",,,
 ,,,Perennial,,,Fritillaria,,Forb/herb,,,,pluriflora,USA (CA),,,
 ,,,Perennial,,,Fritillaria,,Forb/herb,,,,pudica,"USA (CA, CO, ID, MT, ND, NM, NV, OR, UT, WA, WY), CAN (AB, BC)",,,
@@ -2541,7 +2541,7 @@ Spring,Late Spring,No,Perennial,Medium,Moderate,Glyceria,Bunch,Graminoid,Moderat
 ,,,Perennial,,,Glyceria,,Graminoid,,,,septentrionalis,"USA (AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, NH, NJ, NY, OH, OK, PA, RI, SC, TN, TX, VA, WI, WV), CAN (ON, QC)",,,
 Spring,Early Summer,No,Perennial,Medium,Moderate,Glyceria,Rhizomatous,Graminoid,Moderate,5.7,No,striata,"USA (AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY), CAN (AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT), FRA (SPM)",Slow,8.0,4.0
 ,,,Perennial,,,Glandularia,,Forb/herb,,,,tampensis,USA (FL),,,
-Spring and Summer,Late Spring,Yes,Perennial,Medium,Dense,Gleditsia,Single Crown,"Tree, Shrub",Rapid,70,No,triacanthos,"USA (AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, PA, RI, SC, SD, TN, TX, UT, VA, VT, WI, WV, WY), CAN (ON)",None,8.0,4.8
+Spring and Summer,Late Spring,Yes,Perennial,Medium,Dense,Gleditsia,Single Crown,"Tree, Shrub",Rapid,70.0,No,triacanthos,"USA (AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, PA, RI, SC, SD, TN, TX, UT, VA, VT, WI, WV, WY), CAN (ON)",None,8.0,4.8
 ,,,Perennial,,,Gomphrena,,"Subshrub, Forb/herb",,,,caespitosa,"USA (AZ, NM, TX)",,,
 ,,,Perennial,,,Gomphrena,,Forb/herb,,,,haageana,"USA (NM, TX)",,,
 ,,,"Annual, Perennial",,,Gossypium,,"Tree, Subshrub, Shrub",,,,hirsutum,"USA (AL, CA, FL, HI, IL, LA, MA, MD, MO, MS, NC, NJ, PA, SC, TX, UM, VA), USA+ (PR, VI)",,,
@@ -2593,7 +2593,7 @@ Spring and Summer,Early Summer,No,Perennial,Low,Porous,Gutierrezia,Single Crown,
 ,,,Perennial,,,Habranthus,,Forb/herb,,,,tubispathus,"USA (AL, FL, GA, LA, TX)",,,
 ,,,Perennial,,,Hamamelis,,"Tree, Shrub",,,,vernalis,"USA (AR, MO, OK, TX)",,,
 ,,,"Biennial, Perennial",,,Hackelia,,Forb/herb,,,,virginiana,"USA (AL, AR, CT, DC, DE, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV), CAN (ON, QC)",,,
-Spring and Summer,Fall,No,Perennial,Medium,Dense,Hamamelis,Multiple Stem,"Tree, Shrub",Slow,20,No,virginiana,"USA (AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, NH, NJ, NY, OH, OK, PA, RI, SC, TN, TX, VA, VT, WI, WV), CAN (NB, NS, ON, PE, QC)",None,6.2,4.5
+Spring and Summer,Fall,No,Perennial,Medium,Dense,Hamamelis,Multiple Stem,"Tree, Shrub",Slow,20.0,No,virginiana,"USA (AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, NH, NJ, NY, OH, OK, PA, RI, SC, TN, TX, VA, VT, WI, WV), CAN (NB, NS, ON, PE, QC)",None,6.2,4.5
 ,,,Perennial,,,Halodule,,Forb/herb,,,,wrightii,"USA (AL, CA, FL, LA, MS, NC, SC, TX), USA+ (PR, VI)",,,
 ,,,Perennial,,,Heuchera,,Forb/herb,,,,abramsii,USA (CA),,,
 ,,,Annual,,,Helianthus,,Forb/herb,,,,agrestis,"USA (FL, GA)",,,
@@ -2722,7 +2722,7 @@ Spring and Summer,Early Summer,No,Perennial,Low,Moderate,Hordeum,Bunch,Graminoid
 ,,,Perennial,,,Houstonia,,Forb/herb,,,,caerulea,"USA (AL, AR, CT, DC, DE, GA, IL, IN, KY, LA, MA, MD, ME, MI, MO, MS, NC, NH, NJ, NY, OH, PA, RI, SC, TN, VA, VT, WI, WV), CAN (NB, NS, ON, QC), FRA (SPM)",,,
 ,,,Perennial,,,Howellanthus,,Forb/herb,,,,dalesianus,USA (CA),,,
 ,,,Annual,,,Hordeum,,Graminoid,,,,depressum,"USA (CA, ID, OR, SC, WA), CAN (BC)",,,
-"Spring, Summer, Fall",Late Summer,Yes,Perennial,Low,Moderate,Holodiscus,Multiple Stem,Shrub,Moderate,12,No,discolor,"USA (AZ, CA, CO, ID, MT, NV, OR, UT, WA), CAN (BC)",Rapid,7.5,6.5
+"Spring, Summer, Fall",Late Summer,Yes,Perennial,Low,Moderate,Holodiscus,Multiple Stem,Shrub,Moderate,12.0,No,discolor,"USA (AZ, CA, CO, ID, MT, NV, OR, UT, WA), CAN (BC)",Rapid,7.5,6.5
 Summer and Fall,Late Summer,Yes,Perennial,Low,Moderate,Holodiscus,Thicket Forming,Shrub,Moderate,3.0,No,dumosus,"USA (AZ, CO, ID, NM, NV, TX, UT, WY)",Rapid,8.0,7.0
 ,,,Perennial,,,Hordeum,,Graminoid,,,,jubatum,"USA (AK, AR, AZ, CA, CO, CT, DC, DE, IA, ID, IL, IN, KS, KY, MA, MD, ME, MI, MN, MO, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY), CAN (AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT), FRA (SPM)",,,
 ,,,Annual,,,Houstonia,,Forb/herb,,,,micrantha,"USA (AL, AR, FL, GA, LA, MO, MS, OK, TN, TX)",,,
@@ -2802,11 +2802,11 @@ Summer and Fall,Spring,No,Perennial,Medium,Moderate,Ilex,Multiple Stem,Shrub,Slo
 ,,,Perennial,,,Ilex,,"Tree, Shrub",,,,montana,"USA (AL, CT, GA, KY, MA, MD, NC, NJ, NY, PA, SC, TN, VA, WV)",,,
 ,,,Perennial,,,Ilex,,"Shrub, Tree",,,,mucronata,"USA (CT, IL, IN, MA, MD, ME, MI, MN, NH, NJ, NY, OH, PA, RI, VT, WI, WV), CAN (NB, NF, NS, ON, PE, QC), FRA (SPM)",,,
 ,,,Perennial,,,Ilex,,"Tree, Shrub",,,,myrtifolia,"USA (AL, FL, GA, LA, MS, NC, SC, TX)",,,
-Spring and Summer,Mid Spring,No,Perennial,Medium,Dense,Ilex,Single Stem,"Tree, Shrub",Slow,40,No,opaca,"USA (AL, AR, CT, DC, DE, FL, GA, IL, IN, KY, LA, MA, MD, MO, MS, NC, NJ, NY, OH, OK, PA, RI, SC, TN, TX, VA, WV)",None,7.0,4.5
+Spring and Summer,Mid Spring,No,Perennial,Medium,Dense,Ilex,Single Stem,"Tree, Shrub",Slow,40.0,No,opaca,"USA (AL, AR, CT, DC, DE, FL, GA, IL, IN, KY, LA, MA, MD, MO, MS, NC, NJ, NY, OH, OK, PA, RI, SC, TN, TX, VA, WV)",None,7.0,4.5
 ,,,Perennial,,,Illicium,,"Tree, Shrub",,,,parviflorum,"USA (FL, GA)",,,
 ,,,Perennial,,,Iliamna,,"Subshrub, Forb/herb",,,,rivularis,"USA (CA, CO, ID, IL, IN, MT, NV, OR, UT, VA, WA, WY), CAN (AB, BC)",,,
-Spring and Summer,Late Spring,No,Perennial,Medium,Dense,Ilex,Multiple Stem,"Tree, Shrub",Moderate,10,No,verticillata,"USA (AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, NH, NJ, NY, OH, PA, RI, SC, TN, TX, VA, VT, WI, WV), CAN (NB, NF, NS, ON, PE, QC), FRA (SPM)",None,7.5,4.5
-Spring and Summer,Mid Spring,Yes,Perennial,Low,Moderate,Ilex,Multiple Stem,"Tree, Shrub",Slow,25,No,vomitoria,"USA (AL, AR, FL, GA, LA, MS, NC, OK, SC, TX, VA)",None,7.0,4.5
+Spring and Summer,Late Spring,No,Perennial,Medium,Dense,Ilex,Multiple Stem,"Tree, Shrub",Moderate,10.0,No,verticillata,"USA (AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, NH, NJ, NY, OH, PA, RI, SC, TN, TX, VA, VT, WI, WV), CAN (NB, NF, NS, ON, PE, QC), FRA (SPM)",None,7.5,4.5
+Spring and Summer,Mid Spring,Yes,Perennial,Low,Moderate,Ilex,Multiple Stem,"Tree, Shrub",Slow,25.0,No,vomitoria,"USA (AL, AR, FL, GA, LA, MS, NC, OK, SC, TX, VA)",None,7.0,4.5
 ,,,Annual,,,Impatiens,,Forb/herb,,,,capensis,"USA (AL, AR, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, VA, VT, WA, WI, WV), CAN (AB, BC, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT), FRA (SPM)",,,
 ,,,Annual,,,Impatiens,,Forb/herb,,,,pallida,"USA (AL, AR, CT, DC, DE, GA, IA, IL, IN, KS, KY, MA, MD, ME, MI, MN, MO, NC, ND, NE, NH, NJ, NY, OH, OK, PA, RI, SC, SD, TN, VA, VT, WI, WV), CAN (NB, NF, NS, ON, QC)",,,
 ,,,Perennial,,,Indigofera,,Forb/herb,,,,caroliniana,"USA (AL, FL, GA, LA, MS, NC, SC)",,,
@@ -2884,7 +2884,7 @@ Summer,Spring,No,Perennial,Low,Porous,Iris,Colonizing,Forb/herb,Rapid,1.0,No,mis
 ,,,Perennial,,,Justicia,,Shrub,,,,candicans,USA (AZ),,,
 ,,,Perennial,,,Juglans,,Tree,,,,cinerea,"USA (AL, AR, CT, DC, DE, GA, IA, IL, IN, KY, MA, MD, ME, MI, MN, MO, MS, NC, NH, NJ, NY, OH, PA, RI, SC, TN, VA, VT, WI, WV), CAN (MB, NB, ON, PE, QC)",,,
 ,,,Perennial,,,Juniperus,,Tree,,,,coahuilensis,"USA (AZ, NM, TX)",,,
-Spring and Summer,Mid Spring,No,Perennial,Low,Dense,Juniperus,Single Stem,"Tree, Shrub",Slow,10,Yes,communis,"USA (AK, AL, AZ, CA, CO, CT, DE, GA, IA, ID, IL, IN, KY, MA, MD, ME, MI, MN, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OR, PA, RI, SC, SD, UT, VA, VT, WA, WI, WV, WY), CAN (AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT), DEN (GL), FRA (SPM)",None,8.0,5.5
+Spring and Summer,Mid Spring,No,Perennial,Low,Dense,Juniperus,Single Stem,"Tree, Shrub",Slow,10.0,Yes,communis,"USA (AK, AL, AZ, CA, CO, CT, DE, GA, IA, ID, IL, IN, KY, MA, MD, ME, MI, MN, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OR, PA, RI, SC, SD, UT, VA, VT, WA, WI, WV, WY), CAN (AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT), DEN (GL), FRA (SPM)",None,8.0,5.5
 ,,,Perennial,,,Juniperus,,"Tree, Shrub",,,,deppeana,"USA (AZ, NM, TX)",,,
 ,,,Perennial,,,Juncus,,Graminoid,,,,dudleyi,"USA (AL, AR, AZ, CA, CO, CT, DC, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY), CAN (AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT)",,,
 ,,,Perennial,,,Juniperus,,Tree,,,,flaccida,USA (TX),,,
@@ -2892,18 +2892,18 @@ Spring and Summer,Mid Spring,No,Perennial,Low,Dense,Juniperus,Single Stem,"Tree,
 Spring and Summer,Late Spring,No,Perennial,High,Dense,Juniperus,Thicket Forming,Subshrub,Moderate,4.0,No,horizontalis,"USA (AK, CT, IA, IL, MA, ME, MI, MN, MT, ND, NE, NH, NY, RI, SD, VT, WI, WY), CAN (AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT), FRA (SPM)",Slow,7.8,5.5
 ,,,Perennial,,,Juglans,,Tree,,,,major,"USA (AZ, NM, OK, TX, UT)",,,
 ,,,Perennial,,,Juglans,,"Tree, Shrub",,,,microcarpa,"USA (KS, NM, OK, TX)",,,
-Spring and Summer,Early Spring,Yes,Perennial,Low,Dense,Juniperus,Multiple Stem,"Tree, Shrub",Slow,40,Yes,monosperma,"USA (AZ, CO, KS, NM, OK, TX, UT)",None,8.5,7.0
-Spring,Late Spring,Yes,Perennial,High,Porous,Juglans,Single Stem,Tree,Rapid,100,Yes,nigra,"USA (AL, AR, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NM, NY, OH, OK, PA, RI, SC, SD, TN, TX, UT, VA, WI, WV), CAN (MB, ON, QC)",None,8.2,4.6
-Spring and Summer,Late Spring,Yes,Perennial,Low,Dense,Juniperus,Single Stem,Tree,Slow,33,Yes,occidentalis,"USA (CA, ID, NV, OR, WA)",None,8.5,6.0
-Spring and Summer,Early Spring,No,Perennial,Low,Dense,Juniperus,Single Stem,Tree,Slow,26,Yes,osteosperma,"USA (AZ, CA, CO, ID, MT, NM, NV, UT, WY)",None,8.2,6.5
+Spring and Summer,Early Spring,Yes,Perennial,Low,Dense,Juniperus,Multiple Stem,"Tree, Shrub",Slow,40.0,Yes,monosperma,"USA (AZ, CO, KS, NM, OK, TX, UT)",None,8.5,7.0
+Spring,Late Spring,Yes,Perennial,High,Porous,Juglans,Single Stem,Tree,Rapid,100.0,Yes,nigra,"USA (AL, AR, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NM, NY, OH, OK, PA, RI, SC, SD, TN, TX, UT, VA, WI, WV), CAN (MB, ON, QC)",None,8.2,4.6
+Spring and Summer,Late Spring,Yes,Perennial,Low,Dense,Juniperus,Single Stem,Tree,Slow,33.0,Yes,occidentalis,"USA (CA, ID, NV, OR, WA)",None,8.5,6.0
+Spring and Summer,Early Spring,No,Perennial,Low,Dense,Juniperus,Single Stem,Tree,Slow,26.0,Yes,osteosperma,"USA (AZ, CA, CO, ID, MT, NM, NV, UT, WY)",None,8.2,6.5
 ,,,Perennial,,,Juncus,,Graminoid,,,,patens,"USA (CA, OR, WA)",,,
 ,,,Perennial,,,Juniperus,,"Tree, Shrub",,,,pinchotii,"USA (NM, OK, TX)",,,
 ,,,Perennial,,,Justicia,,"Forb/herb, Subshrub",,,,pilosella,"USA (NM, TX)",,,
 ,,,Perennial,,,Juncus,,Graminoid,,,,saximontanus,"USA (AK, AZ, CA, CO, ID, MT, NM, NV, OR, SD, TX, UT, WA, WY), CAN (AB, BC, SK)",,,
 Spring and Summer,Late Spring,No,Perennial,Medium,Moderate,Juncus,Rhizomatous,Graminoid,Moderate,3.0,No,scirpoides,"USA (AL, AR, DC, DE, FL, GA, IL, IN, KS, KY, LA, MD, MI, MO, MS, NC, NE, NJ, NY, OK, PA, RI, SC, TN, TX, VA, WI, WV)",Slow,6.8,5.6
-Spring and Summer,Early Spring,No,Perennial,Low,Dense,Juniperus,Stoloniferous,"Tree, Shrub",Slow,50,No,scopulorum,"USA (AZ, CO, ID, KS, MT, ND, NE, NM, NV, OK, OR, SD, TX, UT, WA, WY), CAN (AB, BC, SK)",None,8.5,5.0
+Spring and Summer,Early Spring,No,Perennial,Low,Dense,Juniperus,Stoloniferous,"Tree, Shrub",Slow,50.0,No,scopulorum,"USA (AZ, CO, ID, KS, MT, ND, NE, NM, NV, OK, OR, SD, TX, UT, WA, WY), CAN (AB, BC, SK)",None,8.5,5.0
 Spring and Summer,Late Spring,No,Perennial,Low,Porous,Juncus,Bunch,Graminoid,Slow,1.5,No,tenuis,"USA (AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, HI, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY), USA+ (PR), CAN (AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK), FRA (SPM)",None,7.0,4.5
-Spring and Summer,Late Spring,No,Perennial,Low,Dense,Juniperus,Single Stem,Tree,Slow,50,Yes,virginiana,"USA (AL, AR, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV), CAN (ON, QC)",None,8.0,4.7
+Spring and Summer,Late Spring,No,Perennial,Low,Dense,Juniperus,Single Stem,Tree,Slow,50.0,Yes,virginiana,"USA (AL, AR, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV), CAN (ON, QC)",None,8.0,4.7
 ,,,Perennial,,,Kalmia,,Shrub,,,,angustifolia,"USA (CT, DC, DE, MA, MD, ME, MI, NH, NJ, NY, PA, RI, VA, VT, WV), CAN (LB, NB, NF, NS, ON, PE, QC), FRA (SPM)",,,
 ,,,Perennial,,,Kalmia,,Shrub,,,,cuneata,"USA (NC, SC)",,,
 ,,,Perennial,,,Kalmiopsis,,Shrub,,,,fragrans,USA (OR),,,
@@ -2990,7 +2990,7 @@ Summer,Late Summer,No,Perennial,Low,Dense,Lespedeza,Multiple Stem,Forb/herb,Mode
 ,,,Perennial,,,Lemna,,Forb/herb,,,,perpusilla,"USA (AL, AR, AZ, CT, DC, DE, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MN, MO, MS, NC, ND, NE, NJ, NM, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV), USA+ (PR, VI), CAN (QC)",,,
 ,,,Perennial,,,Leucaena,,"Tree, Shrub",,,,pulverulenta,USA (TX),,,
 ,,,Perennial,,,Lewisia,,Forb/herb,,,,pygmaea,"USA (AK, AZ, CA, CO, ID, MT, NM, NV, OR, SD, UT, WA, WY), CAN (AB, BC, YT)",,,
-Summer and Fall,Early Spring,No,Perennial,Low,Porous,Leucaena,Multiple Stem,"Tree, Shrub",Rapid,25,No,retusa,"USA (NM, TX)",None,8.5,6.2
+Summer and Fall,Early Spring,No,Perennial,Low,Porous,Leucaena,Multiple Stem,"Tree, Shrub",Rapid,25.0,No,retusa,"USA (NM, TX)",None,8.5,6.2
 ,,,Perennial,,,Lewisia,,Forb/herb,,,,rediviva,"USA (AZ, CA, CO, ID, MT, NV, OR, UT, WA, WY), CAN (AB, BC)",,,
 ,,,Perennial,,,Lewisia,,Forb/herb,,,,sacajaweana,USA (ID),,,
 ,,,Perennial,,,Lewisia,,Forb/herb,,,,stebbinsii,USA (CA),,,
@@ -3005,7 +3005,7 @@ Summer,Late Spring,No,Perennial,Medium,Porous,Lemna,Stoloniferous,Forb/herb,Rapi
 ,,,Perennial,,,Lippia,,"Subshrub, Shrub",,,,alba,"USA (FL, TX), USA+ (PR)",,,
 ,,,Annual,,,Limnanthes,,Forb/herb,,,,alba,"USA (CA, OR)",,,
 ,,,Perennial,,,Liatris,,Forb/herb,,,,aspera,"USA (AL, AR, FL, GA, IA, IL, IN, KS, KY, LA, MI, MN, MO, MS, NC, ND, NE, NY, OH, OK, SC, SD, TN, TX, VA, WI, WV), CAN (ON)",,,
-Spring and Summer,Mid Spring,No,Perennial,High,Moderate,Lindera,Multiple Stem,"Tree, Shrub",Slow,12,No,benzoin,"USA (AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MO, MS, NC, NH, NJ, NY, OH, OK, PA, RI, SC, TN, TX, VA, VT, WV), CAN (ON)",None,6.0,4.5
+Spring and Summer,Mid Spring,No,Perennial,High,Moderate,Lindera,Multiple Stem,"Tree, Shrub",Slow,12.0,No,benzoin,"USA (AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MO, MS, NC, NH, NJ, NY, OH, OK, PA, RI, SC, TN, TX, VA, VT, WV), CAN (ON)",None,6.0,4.5
 ,,,Perennial,,,Lilium,,Forb/herb,,,,bolanderi,"USA (CA, OR)",,,
 ,,,Perennial,,,Linnaea,,"Forb/herb, Subshrub",,,,borealis,"USA (AK, AZ, CA, CO, CT, IA, ID, IL, IN, MA, MD, ME, MI, MN, MT, ND, NH, NJ, NM, NY, OH, OR, PA, RI, SD, TN, UT, VT, WA, WI, WV, WY), CAN (AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT), DEN (GL), FRA (SPM)",,,
 ,,,Perennial,,,Liatris,,Forb/herb,,,,bracteata,USA (TX),,,
@@ -3153,11 +3153,11 @@ Spring and Summer,Summer,No,Perennial,Low,Porous,Lupinus,Multiple Stem,Forb/herb
 ,,,Perennial,,,Lupinus,,Forb/herb,,,,formosus,USA (CA),,,
 ,,,Perennial,,,Lupinus,,Forb/herb,,,,fulcratus,"USA (CA, NV)",,,
 ,,,Perennial,,,Lupinus,,"Subshrub, Forb/herb",,,,grayi,"USA (CA, NV, OR)",,,
-"Spring, Summer, Fall",Early Spring,No,Annual,Low,Porous,Lupinus,Multiple Stem,Forb/herb,Rapid,20,No,havardii,USA (TX),None,8.0,7.5
+"Spring, Summer, Fall",Early Spring,No,Annual,Low,Porous,Lupinus,Multiple Stem,Forb/herb,Rapid,20.0,No,havardii,USA (TX),None,8.0,7.5
 ,,,Annual,,,Lupinus,,Forb/herb,,,,hirsutissimus,USA (CA),,,
 ,,,Annual,,,Lupinus,,Forb/herb,,,,horizontalis,USA (CA),,,
 ,,,Perennial,,,Luina,,"Subshrub, Forb/herb",,,,hypoleuca,"USA (CA, OR, WA), CAN (BC)",,,
-Summer and Fall,Mid Spring,No,Perennial,Low,Porous,Lupinus,Multiple Stem,Forb/herb,Rapid,25,No,latifolius,"USA (AZ, CA, NM, NV, OR, UT, WA)",None,7.0,6.5
+Summer and Fall,Mid Spring,No,Perennial,Low,Porous,Lupinus,Multiple Stem,Forb/herb,Rapid,25.0,No,latifolius,"USA (AZ, CA, NM, NV, OR, UT, WA)",None,7.0,6.5
 ,,,Perennial,,,Lupinus,,"Subshrub, Forb/herb",,,,littoralis,"USA (CA, OR, WA), CAN (BC)",,,
 ,,,Perennial,,,Lupinus,,"Subshrub, Shrub",,,,longifolius,USA (CA),,,
 ,,,Annual,,,Lupinus,,Forb/herb,,,,luteolus,"USA (CA, OR)",,,
@@ -3185,7 +3185,7 @@ Spring and Summer,Early Summer,No,Perennial,Low,Porous,Lupinus,Multiple Stem,"Su
 ,,,Annual,,,Lupinus,,Forb/herb,,,,subcarnosus,"USA (FL, LA, TX)",,,
 ,,,Annual,,,Lupinus,,Forb/herb,,,,subvexus,"USA (CA, OR, WA)",,,
 ,,,Annual,,,Lupinus,,Forb/herb,,,,succulentus,"USA (AZ, CA)",,,
-Spring and Summer,Early Summer,No,Perennial,Low,Porous,Lupinus,Multiple Stem,Forb/herb,Rapid,10,No,sulphureus,"USA (OR, WA), CAN (BC)",None,7.5,6.5
+Spring and Summer,Early Summer,No,Perennial,Low,Porous,Lupinus,Multiple Stem,Forb/herb,Rapid,10.0,No,sulphureus,"USA (OR, WA), CAN (BC)",None,7.5,6.5
 ,,,Annual,,,Lupinus,,Forb/herb,,,,texensis,"USA (FL, LA, OK, TX)",,,
 ,,,Annual,,,Lupinus,,Forb/herb,,,,truncatus,USA (CA),,,
 ,,,Annual,,,Lupinus,,Forb/herb,,,,vallicola,"USA (CA, NV, OR), CAN (BC)",,,
@@ -3249,14 +3249,14 @@ Summer,Early Spring,No,Perennial,Low,Moderate,Lycium,Multiple Stem,Shrub,Moderat
 ,,,Perennial,,,Mammillaria,,Shrub,,,,grahamii,"USA (AZ, CA, NM, TX)",,,
 ,,,Perennial,,,Mammillaria,,Shrub,,,,heyderi,"USA (AZ, CO, NM, OK, TX)",,,
 ,,,Perennial,,,Marah,,"Vine, Forb/herb",,,,horridus,USA (CA),,,
-Spring and Summer,Mid Spring,Yes,Perennial,Medium,Dense,Malus,Single Stem,"Tree, Shrub",Moderate,25,No,ioensis,"USA (AR, IA, IL, IN, KS, KY, LA, MI, MN, MO, NE, NJ, OH, OK, SD, TX, WI)",Slow,7.0,5.0
+Spring and Summer,Mid Spring,Yes,Perennial,Medium,Dense,Malus,Single Stem,"Tree, Shrub",Moderate,25.0,No,ioensis,"USA (AR, IA, IL, IN, KS, KY, LA, MI, MN, MO, NE, NJ, OH, OK, SD, TX, WI)",Slow,7.0,5.0
 ,,,Perennial,,,Mammillaria,,Shrub,,,,lasiacantha,"USA (AZ, NM, TX)",,,
 ,,,Perennial,,,Malosma,,"Tree, Shrub",,,,laurina,USA (CA),,,
 ,,,Perennial,,,Magnolia,,Tree,,,,macrophylla,"USA (AL, AR, DC, GA, KY, LA, MD, MS, NC, NY, OH, SC, TN, VA, WV)",,,
 ,,,Perennial,,,Mammillaria,,Shrub,,,,mainiae,USA (AZ),,,
 ,,,Perennial,,,Mammillaria,,Shrub,,,,meiacantha,"USA (AZ, NM, TX)",,,
 ,,,Perennial,,,Marina,,Forb/herb,,,,orcuttii,USA (CA),,,
-Spring and Summer,Late Spring,No,Perennial,Medium,Dense,Maclura,Single Stem,"Tree, Shrub",Moderate,35,No,pomifera,"USA (AL, AR, CA, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, MI, MO, MS, NC, NE, NJ, NM, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, WA, WI, WV), CAN (ON)",None,7.5,4.5
+Spring and Summer,Late Spring,No,Perennial,Medium,Dense,Maclura,Single Stem,"Tree, Shrub",Moderate,35.0,No,pomifera,"USA (AL, AR, CA, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, MI, MO, MS, NC, NE, NJ, NM, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, WA, WI, WV), CAN (ON)",None,7.5,4.5
 ,,,Perennial,,,Mammillaria,,Shrub,,,,pottsii,USA (TX),,,
 ,,,Perennial,,,Mammillaria,,Shrub,,,,prolifera,USA (TX),,,
 ,,,Perennial,,,Magnolia,,Tree,,,,pyramidata,"USA (AL, AR, FL, GA, KY, LA, MS, SC, TX)",,,
@@ -3272,7 +3272,7 @@ Spring and Summer,Late Spring,No,Perennial,Medium,Dense,Maclura,Single Stem,"Tre
 ,,,Perennial,,,Maianthemum,,Forb/herb,,,,trifolium,"USA (CT, MA, ME, MI, MN, MT, NH, NJ, NY, OH, PA, RI, VT, WI), CAN (AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT), FRA (SPM)",,,
 ,,,Perennial,,,Malaxis,,Forb/herb,,,,unifolia,"USA (AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, NH, NJ, NY, OH, OK, PA, RI, SC, TN, TX, VA, VT, WI, WV), CAN (LB, MB, NB, NF, NS, ON, PE, QC), FRA (SPM)",,,
 ,,,Perennial,,,Macromeria,,Forb/herb,,,,viridiflora,"USA (AZ, NM)",,,
-Spring and Summer,Summer,Yes,Perennial,Medium,Moderate,Magnolia,Single Stem,"Tree, Shrub",Moderate,60,No,virginiana,"USA (AL, AR, DC, DE, FL, GA, LA, MA, MD, MS, NC, NJ, NY, PA, SC, TN, TX, VA)",None,6.9,5.0
+Spring and Summer,Summer,Yes,Perennial,Medium,Moderate,Magnolia,Single Stem,"Tree, Shrub",Moderate,60.0,No,virginiana,"USA (AL, AR, DC, DE, FL, GA, LA, MA, MD, MS, NC, NJ, NY, PA, SC, TN, TX, VA)",None,6.9,5.0
 ,,,Perennial,,,Manihot,,Forb/herb,,,,walkerae,USA (TX),,,
 ,,,Perennial,,,Marah,,"Vine, Forb/herb",,,,watsonii,USA (CA),,,
 ,,,Perennial,,,Mammillaria,,Shrub,,,,wrightii,"USA (AZ, NM, TX)",,,
@@ -3336,9 +3336,9 @@ Spring and Summer,Late Spring,No,Perennial,Low,Porous,Microseris,Single Crown,Fo
 ,,,Annual,,,Monoptilon,,Forb/herb,,,,bellioides,"USA (AZ, CA, NV)",,,
 ,,,Perennial,,,Monarda,,Forb/herb,,,,bradburiana,"USA (AL, AR, IA, IL, IN, KS, KY, LA, MO, OK, TN, TX, VA)",,,
 ,,,"Annual, Biennial, Perennial",,,Modiola,,"Subshrub, Forb/herb",,,,caroliniana,"USA (AL, AR, AZ, CA, DE, FL, GA, HI, KY, LA, MA, MD, MS, NC, OK, OR, PA, SC, TN, TX, VA)",,,
-Spring and Summer,Early Summer,Yes,Perennial,Low,Moderate,Morella,Multiple Stem,"Tree, Shrub",Moderate,33,No,californica,"USA (CA, OR, WA), CAN (BC)",None,7.5,6.0
+Spring and Summer,Early Summer,Yes,Perennial,Low,Moderate,Morella,Multiple Stem,"Tree, Shrub",Moderate,33.0,No,californica,"USA (CA, OR, WA), CAN (BC)",None,7.5,6.0
 ,,,Perennial,,,Morella,,"Tree, Shrub",,,,caroliniensis,"USA (AL, AR, DE, FL, GA, LA, MA, MD, MS, NC, NJ, NY, PA, SC, TX, VA)",,,
-Spring and Summer,Spring,No,Perennial,Low,,Morella,Rhizomatous,"Tree, Subshrub, Shrub",Moderate,10,No,cerifera,"USA (AL, AR, DE, FL, GA, HI, LA, MD, MS, NC, NJ, OK, SC, TX, VA, WV), USA+ (PR)",Slow,9.1,5.4
+Spring and Summer,Spring,No,Perennial,Low,,Morella,Rhizomatous,"Tree, Subshrub, Shrub",Moderate,10.0,No,cerifera,"USA (AL, AR, DE, FL, GA, HI, LA, MD, MS, NC, NJ, OK, SC, TX, VA, WV), USA+ (PR)",Slow,9.1,5.4
 ,,,"Annual, Biennial, Perennial",,,Monarda,,Forb/herb,,,,citriodora,"USA (AL, AR, AZ, CA, FL, GA, IL, KS, KY, LA, MO, MS, NE, NM, OK, SC, TN, TX, UT)",,,
 ,,,Perennial,,,Monarda,,Forb/herb,,,,clinopodia,"USA (AL, CT, DC, DE, GA, IL, IN, KY, MA, MD, MI, MO, NC, NJ, NY, OH, PA, RI, SC, TN, VA, VT, WV)",,,
 ,,,Annual,,,Monarda,,Forb/herb,,,,clinopodioides,"USA (KS, LA, OK, TX)",,,
@@ -3356,11 +3356,11 @@ Spring and Summer,Spring,No,Perennial,Low,,Morella,Rhizomatous,"Tree, Subshrub, 
 ,,,Perennial,,,Monardella,,"Subshrub, Forb/herb",,,,odoratissima,"USA (CA, ID, NV, OR, WA), CAN (BC)",,,
 ,,,Perennial,,,Montia,,Forb/herb,,,,parvifolia,"USA (AK, CA, ID, MT, OR, WA), CAN (AB, BC, YT)",,,
 ,,,Annual,,,Monarda,,Forb/herb,,,,pectinata,"USA (AZ, CA, CO, KS, MO, NE, NM, OK, OR, SD, TX, UT, WY)",,,
-Spring,Late Spring,No,Perennial,Low,Dense,Morella,Colonizing,"Tree, Shrub",Slow,12,No,pensylvanica,"USA (CT, DC, DE, MA, MD, ME, NC, NH, NJ, NY, OH, PA, RI, VA, VT), CAN (NB, NF, NS, ON, PE, QC), FRA (SPM)",Slow,7.8,5.5
+Spring,Late Spring,No,Perennial,Low,Dense,Morella,Colonizing,"Tree, Shrub",Slow,12.0,No,pensylvanica,"USA (CT, DC, DE, MA, MD, ME, NC, NH, NJ, NY, OH, PA, RI, VA, VT), CAN (NB, NF, NS, ON, PE, QC), FRA (SPM)",Slow,7.8,5.5
 ,,,"Annual, Biennial, Perennial",,,Monarda,,"Subshrub, Forb/herb",,,,punctata,"USA (AL, AR, CA, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, MI, MN, MO, MS, NC, NJ, NM, NY, OH, OK, PA, SC, TN, TX, VA, VT, WI), CAN (ON, QC)",,,
 ,,,Perennial,,,Morinda,,"Shrub, Vine",,,,royoc,USA (FL),,,
 ,,,Perennial,,,Monarda,,Forb/herb,,,,russeliana,"USA (AL, AR, KY, MS, OK, TX)",,,
-Spring and Summer,Early Spring,Yes,Perennial,Low,Moderate,Morus,Single Stem,Tree,Moderate,70,No,rubra,"USA (AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, MI, MN, MO, MS, NC, NE, NJ, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV), CAN (ON)",None,7.0,5.0
+Spring and Summer,Early Spring,Yes,Perennial,Low,Moderate,Morus,Single Stem,Tree,Moderate,70.0,No,rubra,"USA (AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, MI, MN, MO, MS, NC, NE, NJ, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV), CAN (ON)",None,7.0,5.0
 ,,,Perennial,,,Monarda,,Forb/herb,,,,stipitatoglandulosa,"USA (AR, OK)",,,
 ,,,Perennial,,,Monarda,,Forb/herb,,,,stanfieldii,USA (TX),,,
 ,,,Perennial,,,Moneses,,Forb/herb,,,,uniflora,"USA (AK, AZ, CA, CO, CT, ID, MA, ME, MI, MN, MT, NH, NM, NV, NY, OH, OR, PA, RI, SD, UT, VT, WA, WI, WY), CAN (AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT), FRA (SPM)",,,
@@ -3464,7 +3464,7 @@ Spring and Summer,Mid Spring,No,Perennial,Low,Moderate,Nolina,Single Crown,"Subs
 ,,,"Biennial, Perennial",,,Oenothera,,Forb/herb,,,,villosa,"USA (AL, AR, AZ, CA, CO, CT, GA, IA, ID, IL, IN, KS, KY, MA, MD, ME, MI, MN, MO, MS, MT, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY), CAN (AB, BC, MB, NB, NS, NT, ON, PE, QC, SK), FRA (SPM)",,,
 ,,,Perennial,,,Oenothera,,Forb/herb,,,,xylocarpa,"USA (CA, NV)",,,
 ,,,Annual,,,Okenia,,Forb/herb,,,,hypogaea,USA (FL),,,
-"Spring, Summer, Fall",Early Spring,No,Perennial,Low,Moderate,Olneya,Multiple Stem,"Tree, Shrub",Slow,25,No,tesota,"USA (AZ, CA)",None,8.6,6.8
+"Spring, Summer, Fall",Early Spring,No,Perennial,Low,Moderate,Olneya,Multiple Stem,"Tree, Shrub",Slow,25.0,No,tesota,"USA (AZ, CA)",None,8.6,6.8
 ,,,Perennial,,,Onoclea,,Forb/herb,,,,sensibilis,"USA (AL, AR, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV, WY), CAN (LB, MB, NB, NF, NS, ON, PE, QC), FRA (SPM)",,,
 ,,,Perennial,,,Opuntia,,Shrub,,,,aciculata,USA (TX),,,
 ,,,Perennial,,,Opuntia,,Shrub,,,,atrispina,USA (TX),,,
@@ -3967,18 +3967,18 @@ Spring and Summer,Late Spring,No,Perennial,Medium,Moderate,Phlox,Single Crown,Fo
 ,,,Perennial,,,Phlox,,Forb/herb,,,,latifolia,"USA (AL, GA, IN, KY, MA, MD, NC, OH, PA, SC, TN, VA, WV)",,,
 ,,,,,,Physalis,,,,,,lanceolata,,,,
 ,,,Perennial,,,Phoradendron,,"Subshrub, Shrub",,,,leucarpum,"USA (AL, AR, DC, DE, FL, GA, IL, IN, KS, KY, LA, MD, MO, MS, NC, NJ, NM, NY, OH, OK, PA, SC, TN, TX, VA, WV)",,,
-Spring and Summer,Late Spring,Yes,Perennial,Low,Porous,Philadelphus,Multiple Stem,Shrub,Moderate,12,No,lewisii,"USA (CA, ID, MT, OR, WA), CAN (AB, BC)",None,8.0,7.0
+Spring and Summer,Late Spring,Yes,Perennial,Low,Porous,Philadelphus,Multiple Stem,Shrub,Moderate,12.0,No,lewisii,"USA (CA, ID, MT, OR, WA), CAN (AB, BC)",None,8.0,7.0
 ,,,Perennial,,,Phryma,,Forb/herb,,,,leptostachya,"USA (AL, AR, CA, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV, WY), CAN (MB, NB, ON, QC)",,,
 Spring and Summer,Late Spring,No,Perennial,Low,Dense,Phlox,Multiple Stem,"Subshrub, Forb/herb",Slow,1.2,No,longifolia,"USA (AZ, CA, CO, ID, MT, NM, NV, OR, UT, WA, WY), CAN (BC)",None,8.5,6.5
 ,,,Perennial,,,Phlox,,Forb/herb,,,,longipilosa,USA (OK),,,
 ,,,Perennial,,,Phaseolus,,"Vine, Forb/herb",,,,maculatus,"USA (AZ, NM, TX)",,,
 ,,,Perennial,,,Phlox,,Forb/herb,,,,maculata,"USA (AL, CT, DC, DE, GA, IA, IL, IN, KY, MD, ME, MI, MN, MO, MS, NC, NJ, NY, OH, PA, SC, TN, VA, VT, WV), CAN (NS, ON, QC)",,,
-Spring and Summer,Late Spring,No,Perennial,Low,Dense,Physocarpus,Multiple Stem,Shrub,Rapid,15,No,malvaceus,"USA (CO, ID, MT, NV, OR, UT, WA, WY), CAN (AB, BC)",Slow,7.5,6.0
+Spring and Summer,Late Spring,No,Perennial,Low,Dense,Physocarpus,Multiple Stem,Shrub,Rapid,15.0,No,malvaceus,"USA (CO, ID, MT, NV, OR, UT, WA, WY), CAN (AB, BC)",Slow,7.5,6.0
 ,,,Perennial,,,Philadelphus,,Shrub,,,,maculatus,USA (AZ),,,
 ,,,Perennial,,,Phlox,,Forb/herb,,,,mesoleuca,"USA (NM, TX)",,,
 ,,,Perennial,,,Philadelphus,,Shrub,,,,mearnsii,"USA (NM, TX)",,,
 ,,,Perennial,,,Phlox,,Forb/herb,,,,missoulensis,USA (MT),,,
-Spring and Summer,Spring,Yes,Perennial,Low,Moderate,Philadelphus,Multiple Stem,Shrub,Moderate,15,No,microphyllus,"USA (AZ, CA, CO, NM, NV, TX, UT, WY)",None,8.5,7.0
+Spring and Summer,Spring,Yes,Perennial,Low,Moderate,Philadelphus,Multiple Stem,Shrub,Moderate,15.0,No,microphyllus,"USA (AZ, CA, CO, NM, NV, TX, UT, WY)",None,8.5,7.0
 ,,,Annual,,,Physalis,,Forb/herb,,,,missouriensis,"USA (AR, KS, MO, NE, OK, TX)",,,
 ,,,Perennial,,,Physocarpus,,Shrub,,,,monogynus,"USA (AZ, CO, MT, NM, NV, OK, SD, TX, UT, WY)",,,
 ,,,Perennial,,,Phlox,,"Subshrub, Forb/herb",,,,mollis,"USA (ID, OR, WA)",,,
@@ -4040,14 +4040,14 @@ Spring and Summer,Spring,Yes,Perennial,Low,Moderate,Philadelphus,Multiple Stem,S
 ,,,Perennial,,,Pinus,,Tree,,,,banksiana,"USA (IL, IN, MA, ME, MI, MN, MO, ND, NH, NY, OH, PA, RI, VT, WI, WV), CAN (AB, BC, LB, MB, NB, NS, NT, ON, PE, QC, SK)",,,
 ,,,Perennial,,,Picea,,Tree,,,,breweriana,"USA (CA, OR)",,,
 ,,,Perennial,,,Pinguicula,,Forb/herb,,,,caerulea,"USA (FL, GA, NC, SC)",,,
-Summer,Spring,Yes,Perennial,Low,Moderate,Pinus,Single Stem,Tree,Slow,25,No,cembroides,"USA (NM, TX)",None,8.5,7.0
+Summer,Spring,Yes,Perennial,Low,Moderate,Pinus,Single Stem,Tree,Slow,25.0,No,cembroides,"USA (NM, TX)",None,8.5,7.0
 ,,,Perennial,,,Pinus,,Tree,,,,clausa,"USA (AL, FL, GA, MS, NC, TX)",,,
-Spring and Summer,Mid Summer,No,Perennial,Medium,Dense,Pinus,Single Stem,Tree,Rapid,99,No,contorta,"USA (AK, CA, CO, ID, MT, NV, OR, SD, UT, WA, WY), CAN (AB, BC, NT, SK, YT)",None,7.5,6.2
-Spring and Summer,Late Spring,No,Perennial,Low,Dense,Pinus,Single Stem,Tree,Slow,80,No,coulteri,USA (CA),None,7.0,5.5
-Spring and Summer,Mid Spring,No,Perennial,Low,Dense,Pinus,Single Stem,Tree,Rapid,100,No,echinata,"USA (AL, AR, DC, DE, FL, GA, IL, KY, LA, MD, MO, MS, NC, NJ, NY, OH, OK, PA, SC, TN, TX, VA, WV)",None,6.0,4.0
-Spring and Summer,Early Summer,No,Perennial,Medium,Moderate,Pinus,Single Stem,Tree,Slow,50,Yes,edulis,"USA (AZ, CA, CO, NM, NV, OK, TX, UT, WY)",None,8.5,6.5
+Spring and Summer,Mid Summer,No,Perennial,Medium,Dense,Pinus,Single Stem,Tree,Rapid,99.0,No,contorta,"USA (AK, CA, CO, ID, MT, NV, OR, SD, UT, WA, WY), CAN (AB, BC, NT, SK, YT)",None,7.5,6.2
+Spring and Summer,Late Spring,No,Perennial,Low,Dense,Pinus,Single Stem,Tree,Slow,80.0,No,coulteri,USA (CA),None,7.0,5.5
+Spring and Summer,Mid Spring,No,Perennial,Low,Dense,Pinus,Single Stem,Tree,Rapid,100.0,No,echinata,"USA (AL, AR, DC, DE, FL, GA, IL, KY, LA, MD, MO, MS, NC, NJ, NY, OH, OK, PA, SC, TN, TX, VA, WV)",None,6.0,4.0
+Spring and Summer,Early Summer,No,Perennial,Medium,Moderate,Pinus,Single Stem,Tree,Slow,50.0,Yes,edulis,"USA (AZ, CA, CO, NM, NV, OK, TX, UT, WY)",None,8.5,6.5
 ,,,Perennial,,,Pinus,,Tree,,,,elliottii,"USA (AL, FL, GA, LA, MS, NC, SC, TX)",,,
-Spring and Summer,Late Spring,No,Perennial,Low,Dense,Picea,Single Stem,Tree,Slow,120,No,engelmannii,"USA (AZ, CA, CO, ID, MT, NM, NV, OR, UT, WA, WY), CAN (AB, BC)",None,8.0,6.0
+Spring and Summer,Late Spring,No,Perennial,Low,Dense,Picea,Single Stem,Tree,Slow,120.0,No,engelmannii,"USA (AZ, CA, CO, ID, MT, NM, NV, OR, UT, WA, WY), CAN (AB, BC)",None,8.0,6.0
 ,,,Perennial,,,Pinus,,Tree,,,,engelmannii,"USA (AZ, NM)",,,
 ,,,Perennial,,,Pieris,,Shrub,,,,floribunda,"USA (GA, NC, TN, VA, VT, WV)",,,
 ,,,Perennial,,,Pinus,,Tree,,,,flexilis,"USA (AZ, CA, CO, ID, MT, ND, NE, NM, NV, OR, SD, UT, WY), CAN (AB, BC)",,,
@@ -4055,7 +4055,7 @@ Spring and Summer,Late Spring,No,Perennial,Low,Dense,Picea,Single Stem,Tree,Slow
 ,,,Perennial,,,Picea,,Tree,,,,glauca,"USA (AK, CT, ID, MA, MD, ME, MI, MN, MT, NH, NJ, NY, PA, RI, SD, VT, WI, WY), CAN (AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT), FRA (SPM)",,,
 ,,,Perennial,,,Pinus,,Tree,,,,glabra,"USA (AL, DC, FL, GA, LA, MS, SC)",,,
 ,,,Perennial,,,Pinguicula,,Forb/herb,,,,ionantha,USA (FL),,,
-Spring and Summer,Late Spring,No,Perennial,Low,Porous,Pinus,Single Stem,Tree,Rapid,180,No,jeffreyi,"USA (CA, NV, OR)",None,8.4,5.6
+Spring and Summer,Late Spring,No,Perennial,Low,Porous,Pinus,Single Stem,Tree,Rapid,180.0,No,jeffreyi,"USA (CA, NV, OR)",None,8.4,5.6
 ,,,Perennial,,,Pithecellobium,,"Tree, Shrub",,,,keyense,USA (FL),,,
 ,,,Perennial,,,Pinus,,Tree,,,,lambertiana,"USA (CA, NV, OR)",,,
 ,,,Perennial,,,Pinus,,Tree,,,,leiophylla,"USA (AZ, NM)",,,
@@ -4065,18 +4065,18 @@ Spring and Summer,Late Spring,No,Perennial,Low,Porous,Pinus,Single Stem,Tree,Rap
 ,,,Perennial,,,Pinguicula,,Forb/herb,,,,macroceras,"USA (AK, CA, ID, MT, OR, WA)",,,
 ,,,Perennial,,,Pistacia,,"Shrub, Tree",,,,mexicana,USA (TX),,,
 ,,,"Annual, Perennial",,,Pilea,,"Subshrub, Forb/herb",,,,microphylla,"USA (AL, AR, FL, GA, HI, KY, LA, MI, MS, SC, TN, TX, UM), USA+ (PR, VI)",,,
-Spring and Summer,Mid Spring,No,Perennial,Low,Moderate,Pinus,Single Stem,Tree,Slow,50,Yes,monophylla,"USA (AZ, CA, ID, NM, NV, UT)",Slow,7.5,6.2
-Spring and Summer,Mid Spring,No,Perennial,Medium,Dense,Pinus,Single Stem,Tree,Rapid,200,No,monticola,"USA (CA, ID, MT, NV, OR, UT, WA), CAN (AB, BC)",None,7.0,5.5
+Spring and Summer,Mid Spring,No,Perennial,Low,Moderate,Pinus,Single Stem,Tree,Slow,50.0,Yes,monophylla,"USA (AZ, CA, ID, NM, NV, UT)",Slow,7.5,6.2
+Spring and Summer,Mid Spring,No,Perennial,Medium,Dense,Pinus,Single Stem,Tree,Rapid,200.0,No,monticola,"USA (CA, ID, MT, NV, OR, UT, WA), CAN (AB, BC)",None,7.0,5.5
 ,,,Perennial,,,Pinus,,Tree,,,,muricata,"USA (CA, OR)",,,
 ,,,Perennial,,,Pilea,,Forb/herb,,,,nummulariifolia,"USA (FL), USA+ (PR, VI)",,,
 ,,,Perennial,,,Pinus,,Tree,,,,palustris,"USA (AL, AR, FL, GA, LA, MS, NC, SC, TX, VA)",,,
 ,,,Perennial,,,Pieris,,"Vine, Shrub",,,,phillyreifolia,"USA (AL, FL, GA, MS, SC)",,,
 ,,,Perennial,,,Piscidia,,"Tree, Shrub",,,,piscipula,"USA (FL, HI), USA+ (VI)",,,
 ,,,Perennial,,,Pinguicula,,Forb/herb,,,,planifolia,"USA (AL, FL, GA, MS)",,,
-Spring and Summer,Mid Spring,No,Perennial,Low,Dense,Pinus,Single Stem,Tree,Moderate,223,No,ponderosa,"USA (AZ, CA, CO, ID, MT, ND, NE, NM, NV, OK, OR, SD, TX, UT, WA, WY), CAN (BC)",None,9.0,5.0
+Spring and Summer,Mid Spring,No,Perennial,Low,Dense,Pinus,Single Stem,Tree,Moderate,223.0,No,ponderosa,"USA (AZ, CA, CO, ID, MT, ND, NE, NM, NV, OK, OR, SD, TX, UT, WA, WY), CAN (BC)",None,9.0,5.0
 ,,,Perennial,,,Pilosocereus,,Tree,,,,polygonus,USA (FL),,,
 ,,,Perennial,,,Pinguicula,,Forb/herb,,,,primuliflora,"USA (AL, FL, GA, MS)",,,
-Spring and Summer,Late Spring,No,Perennial,Medium,Dense,Picea,Single Stem,Tree,Slow,100,No,pungens,"USA (AZ, CO, ID, MD, ME, MN, NM, NY, PA, UT, WY), CAN (NS, ON)",None,7.8,5.5
+Spring and Summer,Late Spring,No,Perennial,Medium,Dense,Picea,Single Stem,Tree,Slow,100.0,No,pungens,"USA (AZ, CO, ID, MD, ME, MN, NM, NY, PA, UT, WY), CAN (NS, ON)",None,7.8,5.5
 ,,,"Annual, Perennial",,,Pinguicula,,Forb/herb,,,,pumila,"USA (AL, FL, GA, LA, MS, NC, OK, SC, TX)",,,
 ,,,Perennial,,,Pinus,,Tree,,,,pungens,"USA (DC, GA, IL, MD, NC, NJ, PA, SC, TN, VA, WV)",,,
 ,,,Perennial,,,Pinus,,Tree,,,,quadrifolia,USA (CA),,,
@@ -4086,15 +4086,15 @@ Spring and Summer,Late Spring,No,Perennial,Medium,Dense,Picea,Single Stem,Tree,S
 ,,,Perennial,,,Pinus,,Tree,,,,rigida,"USA (CT, DC, DE, GA, IL, IN, KY, MA, MD, ME, MN, NC, NH, NJ, NY, OH, PA, RI, SC, TN, VA, VT, WV), CAN (NS, ON, QC)",,,
 ,,,Perennial,,,Piloblephis,,Shrub,,,,rigida,"USA (FL, GA)",,,
 ,,,Perennial,,,Picea,,Tree,,,,rubens,"USA (CT, MA, MD, ME, NC, NH, NJ, NY, PA, TN, VA, VT, WV), CAN (NB, NF, NS, ON, PE, QC), FRA (SPM)",,,
-Spring and Summer,Early Spring,No,Perennial,Low,Dense,Pinus,Single Stem,Tree,Slow,80,No,sabiniana,"USA (CA, OR)",None,8.3,6.0
+Spring and Summer,Early Spring,No,Perennial,Low,Dense,Pinus,Single Stem,Tree,Slow,80.0,No,sabiniana,"USA (CA, OR)",None,8.3,6.0
 ,,,Perennial,,,Pinus,,Tree,,,,serotina,"USA (AL, DE, FL, GA, MD, NC, NJ, SC, VA)",,,
 ,,,Perennial,,,Picea,,Tree,,,,sitchensis,"USA (AK, CA, OR, WA), CAN (BC)",,,
 ,,,Perennial,,,Pinus,,Tree,,,,strobus,"USA (AL, AR, CT, DC, DE, GA, IA, IL, IN, KY, MA, MD, ME, MI, MN, MO, NC, NH, NJ, NY, OH, PA, RI, SC, TN, VA, VT, WI, WV), CAN (MB, NB, NF, NS, ON, PE, QC), FRA (SPM)",,,
 ,,,Perennial,,,Pistia,,Forb/herb,,,,stratiotes,"USA (AZ, CA, CO, CT, DE, FL, GA, HI, KS, LA, MD, MO, MS, NC, NJ, NY, OH, SC, TX), USA+ (PR, VI)",,,
 ,,,Perennial,,,Pinus,,Tree,,,,strobiformis,"USA (AZ, CO, NM, TX)",,,
-Spring and Summer,Mid Spring,No,Perennial,Medium,Dense,Pinus,Single Stem,Tree,Rapid,100,No,taeda,"USA (AL, AR, DC, DE, FL, GA, IL, KY, LA, MD, MO, MS, NC, NJ, OH, OK, SC, TN, TX, VA)",None,7.0,4.0
+Spring and Summer,Mid Spring,No,Perennial,Medium,Dense,Pinus,Single Stem,Tree,Rapid,100.0,No,taeda,"USA (AL, AR, DC, DE, FL, GA, IL, KY, LA, MD, MO, MS, NC, NJ, OH, OK, SC, TN, TX, VA)",None,7.0,4.0
 ,,,Perennial,,,Pinus,,Tree,,,,torreyana,USA (CA),,,
-Spring and Summer,Mid Spring,No,Perennial,Low,Dense,Pinus,Single Stem,Tree,Rapid,70,No,virginiana,"USA (AL, DC, DE, GA, IL, IN, KY, MD, MO, MS, NC, NJ, NY, OH, PA, SC, TN, VA, WV), CAN (ON)",None,7.5,4.5
+Spring and Summer,Mid Spring,No,Perennial,Low,Dense,Pinus,Single Stem,Tree,Rapid,70.0,No,virginiana,"USA (AL, DC, DE, GA, IL, IN, KY, MD, MO, MS, NC, NJ, NY, OH, PA, SC, TN, VA, WV), CAN (ON)",None,7.5,4.5
 ,,,Perennial,,,Pinguicula,,Forb/herb,,,,vulgaris,"USA (AK, ME, MI, MN, NH, NY, VT, WI), CAN (AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, QC, SK, YT), DEN (GL), FRA (SPM)",,,
 ,,,Perennial,,,Planera,,Tree,,,,aquatica,"USA (AL, AR, FL, GA, IL, KY, LA, MO, MS, NC, OK, SC, TN, TX)",,,
 ,,,Perennial,,,Platanthera,,Forb/herb,,,,aquilonis,"USA (AK, AZ, CA, CO, CT, IA, ID, IL, IN, MA, ME, MI, MN, MT, ND, NE, NH, NJ, NM, NV, NY, OH, OR, PA, RI, SD, UT, VT, WA, WI, WY), CAN (AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT), FRA (SPM)",,,
@@ -4141,7 +4141,7 @@ Spring and Summer,Mid Spring,No,Annual,Low,Porous,Plantago,Single Crown,Forb/her
 ,,,Perennial,,,Polygala,,Forb/herb,,,,alba,"USA (AZ, CO, KS, MT, ND, NE, NM, OK, SD, TX, WY), CAN (AB, SK)",,,
 ,,,Perennial,,,Potamogeton,,Forb/herb,,,,alpinus,"USA (AK, CA, CO, CT, ID, MA, ME, MI, MN, MT, NH, NJ, NM, NV, NY, OR, PA, SD, UT, VT, WA, WI, WY), CAN (AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT), DEN (GL)",,,
 ,,,Perennial,,,Polystichum,,Forb/herb,,,,andersonii,"USA (AK, ID, MT, OR, WA), CAN (BC)",,,
-Summer,Spring,Yes,Perennial,Low,Dense,Populus,Single Stem,Tree,Rapid,60,No,angustifolia,"USA (AZ, CA, CO, ID, MT, NE, NM, NV, OR, SD, TX, UT, WY), CAN (AB, SK)",Slow,7.5,6.0
+Summer,Spring,Yes,Perennial,Low,Dense,Populus,Single Stem,Tree,Rapid,60.0,No,angustifolia,"USA (AZ, CA, CO, ID, MT, NE, NM, NV, OR, SD, TX, UT, WY), CAN (AB, SK)",Slow,7.5,6.0
 ,,,Perennial,,,Polypodium,,Forb/herb,,,,appalachianum,"USA (AL, CT, DC, GA, KY, MA, MD, ME, NC, NH, NJ, NY, OH, PA, RI, SC, TN, VA, VT, WV), CAN (NB, NF, NS, ON, PE, QC), FRA (SPM)",,,
 ,,,Perennial,,,Poa,,Graminoid,,,,arachnifera,"USA (AL, AR, FL, GA, IL, KS, LA, MS, NC, NM, OK, SC, TN, TX)",,,
 ,,,Perennial,,,Poa,,Graminoid,,,,arida,"USA (CO, IA, IL, IN, KS, MI, MN, MT, ND, NE, NJ, NM, OH, OK, SD, TX, WY), CAN (AB, MB, ON, QC, SK)",,,
@@ -4160,7 +4160,7 @@ Spring and Summer,Late Spring,No,Perennial,Medium,Moderate,Poa,Bunch,Graminoid,M
 ,,,Perennial,,,Pontederia,,Forb/herb,,,,cordata,"USA (AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, NH, NJ, NY, OH, OK, OR, PA, RI, SC, TN, TX, VA, VT, WI, WV), CAN (NB, NS, ON, PE, QC)",,,
 ,,,Perennial,,,Polemonium,,Forb/herb,,,,confertum,USA (CO),,,
 ,,,Perennial,,,Poa,,Graminoid,,,,cusickii,"USA (CA, CO, ID, MT, ND, NV, OR, UT, WA, WY), CAN (AB, BC, MB, SK, YT)",,,
-Spring and Summer,Spring,Yes,Perennial,Medium,Dense,Populus,Single Stem,Tree,Rapid,190,No,deltoides,"USA (AL, AR, AZ, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NY, OH, OK, PA, RI, SC, SD, TN, TX, UT, VA, VT, WI, WV, WY), CAN (AB, BC, MB, ON, QC, SK)",Slow,6.5,4.6
+Spring and Summer,Spring,Yes,Perennial,Medium,Dense,Populus,Single Stem,Tree,Rapid,190.0,No,deltoides,"USA (AL, AR, AZ, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NY, OH, OK, PA, RI, SC, SD, TN, TX, UT, VA, VT, WI, WV, WY), CAN (AB, BC, MB, ON, QC, SK)",Slow,6.5,4.6
 ,,,Annual,,,Polygonum,,Forb/herb,,,,douglasii,"USA (AZ, CA, CO, IA, ID, MD, ME, MI, MN, MT, ND, NE, NH, NM, NV, NY, OR, SD, UT, VT, WA, WY), CAN (AB, BC, MB, ON, QC, SK)",,,
 ,,,Perennial,,,Polemonium,,Forb/herb,,,,eximium,USA (CA),,,
 Spring,Early Spring,No,Perennial,Low,Moderate,Poa,Bunch,Graminoid,Moderate,2.0,No,fendleriana,"USA (AZ, CA, CO, ID, MT, ND, NE, NM, NV, OK, OR, SD, TX, UT, WA, WY), CAN (AB, BC, MB)",None,8.0,6.0
@@ -4211,22 +4211,22 @@ Spring,Late Spring,No,Perennial,Medium,Moderate,Poa,Bunch,Graminoid,Moderate,1.4
 ,,,Perennial,,,Poa,,Graminoid,,,,strictiramea,USA (TX),,,
 ,,,Perennial,,,Portulaca,,"Subshrub, Forb/herb",,,,suffrutescens,"USA (AZ, NM, TX)",,,
 Spring and Summer,Mid Spring,No,Perennial,Medium,Moderate,Poa,Bunch,Graminoid,Moderate,3.0,No,sylvestris,"USA (AL, AR, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MD, MI, MN, MO, MS, NC, NE, NJ, NY, OH, OK, PA, SC, SD, TN, TX, VA, WI, WV), CAN (ON)",None,7.0,5.9
-Spring and Summer,Mid Spring,Yes,Perennial,Medium,Dense,Populus,Single Stem,Tree,Rapid,65,No,tremuloides,"USA (AK, AR, AZ, CA, CO, CT, DE, IA, ID, IL, IN, KY, MA, MD, ME, MI, MN, MO, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OR, PA, RI, SD, TX, UT, VA, VT, WA, WI, WV, WY), CAN (AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT), FRA (SPM)",Moderate,9.0,4.3
+Spring and Summer,Mid Spring,Yes,Perennial,Medium,Dense,Populus,Single Stem,Tree,Rapid,65.0,No,tremuloides,"USA (AK, AR, AZ, CA, CO, CT, DE, IA, ID, IL, IN, KY, MA, MD, ME, MI, MN, MO, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OR, PA, RI, SD, TX, UT, VA, VT, WA, WI, WV, WY), CAN (AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT), FRA (SPM)",Moderate,9.0,4.3
 ,,,Annual,,,Portulaca,,Forb/herb,,,,umbraticola,"USA (AR, AZ, GA, LA, MS, NC, NM, OK, SC, TX)",,,
 ,,,Perennial,,,Polemonium,,Forb/herb,,,,vanbruntiae,"USA (MD, ME, NJ, NY, PA, VT, WV), CAN (NB, QC)",,,
 ,,,Perennial,,,Polemonium,,Forb/herb,,,,viscosum,"USA (AZ, CO, ID, MT, NM, NV, OR, UT, WA, WY), CAN (AB, BC)",,,
 ,,,Perennial,,,Polypodium,,Forb/herb,,,,virginianum,"USA (AK, AL, AR, CT, DC, DE, GA, IA, IL, IN, KY, MA, MD, ME, MI, MN, MO, NC, NH, NJ, NY, OH, PA, RI, SC, SD, TN, VA, VT, WI, WV), CAN (LB, MB, NB, NF, NS, NT, ON, PE, QC, SK), DEN (GL), FRA (SPM)",,,
 ,,,Perennial,,,Primula,,Forb/herb,,,,alcalina,"USA (ID, MT)",,,
-Spring and Summer,Mid Spring,No,Perennial,Medium,Dense,Prunus,Single Stem,"Tree, Shrub",Moderate,24,No,americana,"USA (AL, AR, AZ, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NY, OH, OK, PA, RI, SC, SD, TN, UT, VA, VT, WA, WI, WV, WY), CAN (MB, ON, QC, SK)",None,7.0,5.0
+Spring and Summer,Mid Spring,No,Perennial,Medium,Dense,Prunus,Single Stem,"Tree, Shrub",Moderate,24.0,No,americana,"USA (AL, AR, AZ, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NY, OH, OK, PA, RI, SC, SD, TN, UT, VA, VT, WA, WI, WV, WY), CAN (MB, ON, QC, SK)",None,7.0,5.0
 ,,,Perennial,,,Primula,,Forb/herb,,,,angustifolia,"USA (CO, NM)",,,
 ,,,Perennial,,,Prunus,,Shrub,,,,andersonii,"USA (CA, NV)",,,
-Spring and Summer,Early Spring,No,Perennial,Medium,Dense,Prunus,Multiple Stem,"Tree, Shrub",Moderate,12,No,angustifolia,"USA (AL, AR, CA, CO, DC, DE, FL, GA, IL, IN, KS, KY, LA, MD, MO, MS, NC, NE, NJ, NM, OK, PA, SC, TN, TX, VA, WV)",Slow,7.5,5.0
+Spring and Summer,Early Spring,No,Perennial,Medium,Dense,Prunus,Multiple Stem,"Tree, Shrub",Moderate,12.0,No,angustifolia,"USA (AL, AR, CA, CO, DC, DE, FL, GA, IL, IN, KS, KY, LA, MD, MO, MS, NC, NE, NJ, NM, OK, PA, SC, TN, TX, VA, WV)",Slow,7.5,5.0
 ,,,Perennial,,,Prunus,,"Tree, Shrub",,,,caroliniana,"USA (AL, AR, CA, FL, GA, LA, MS, NC, SC, TX)",,,
 ,,,Perennial,,,Primula,,Forb/herb,,,,capillaris,USA (NV),,,
 ,,,Perennial,,,Prosthechea,,Forb/herb,,,,cochleata,"USA (FL), USA+ (PR, VI)",,,
 ,,,Perennial,,,Primula,,Forb/herb,,,,cusickiana,"USA (ID, NV, OR, UT)",,,
 ,,,Perennial,,,Primula,,Forb/herb,,,,egaliksensis,"USA (AK, CO, WY), CAN (AB, BC, LB, MB, NF, NT, NU, ON, QC, YT), DEN (GL)",,,
-Spring,Mid Spring,No,Perennial,Medium,Moderate,Prunus,Thicket Forming,"Tree, Shrub",Moderate,80,No,emarginata,"USA (AZ, CA, ID, MT, NM, NV, OR, UT, WA, WY), CAN (BC)",None,7.8,6.2
+Spring,Mid Spring,No,Perennial,Medium,Moderate,Prunus,Thicket Forming,"Tree, Shrub",Moderate,80.0,No,emarginata,"USA (AZ, CA, ID, MT, NM, NV, OR, UT, WA, WY), CAN (BC)",None,7.8,6.2
 ,,,Perennial,,,Prunus,,Shrub,,,,eremophila,USA (CA),,,
 Spring and Summer,Early Spring,No,Perennial,Low,Porous,Prunus,Multiple Stem,Shrub,Slow,6.0,No,fasciculata,"USA (AZ, CA, NV, UT)",None,8.5,7.0
 ,,,Perennial,,,Prunus,,Shrub,,,,geniculata,USA (FL),,,
@@ -4239,7 +4239,7 @@ Spring and Summer,Late Spring,No,Perennial,Medium,Porous,Primula,Single Crown,Fo
 ,,,Perennial,,,Primula,,Forb/herb,,,,laurentiana,"USA (ME), CAN (LB, NB, NF, NS, ON, QC)",,,
 ,,,Perennial,,,Prosartes,,Forb/herb,,,,lanuginosa,"USA (AL, AR, GA, KY, MD, NC, NY, OH, PA, SC, TN, VA, WV), CAN (ON)",,,
 ,,,Perennial,,,Prosartes,,Forb/herb,,,,maculata,"USA (AL, GA, KY, MI, NC, OH, TN, VA, WV)",,,
-Spring and Summer,Late Spring,Yes,Perennial,Low,Moderate,Prunus,Multiple Stem,Shrub,Moderate,12,No,maritima,"USA (CT, DE, MA, MD, ME, NH, NJ, NY, PA, RI, VA)",Slow,7.7,5.8
+Spring and Summer,Late Spring,Yes,Perennial,Low,Moderate,Prunus,Multiple Stem,Shrub,Moderate,12.0,No,maritima,"USA (CT, DE, MA, MD, ME, NH, NJ, NY, PA, RI, VA)",Slow,7.7,5.8
 ,,,Perennial,,,Prunus,,"Tree, Shrub",,,,mexicana,"USA (AL, AR, GA, IA, IL, IN, KS, KY, LA, MO, MS, NC, NE, OH, OK, SC, SD, TN, TX, WI)",,,
 ,,,Perennial,,,Primula,,Forb/herb,,,,mistassinica,"USA (AK, IA, IL, ME, MI, MN, NY, VT, WI), CAN (AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, QC, SK, YT)",,,
 ,,,Perennial,,,Prunus,,Shrub,,,,minutiflora,USA (TX),,,
@@ -4251,18 +4251,18 @@ Spring and Summer,Late Spring,Yes,Perennial,Low,Moderate,Prunus,Multiple Stem,Sh
 Spring and Summer,Late Spring,No,Perennial,Low,Dense,Prunus,Multiple Stem,Shrub,Slow,6.0,No,pumila,"USA (AR, CO, IA, IL, IN, KS, KY, MA, MD, ME, MI, MN, MT, ND, NE, NH, NJ, NY, OH, OR, PA, SD, TN, UT, VT, WI, WY), CAN (MB, NB, ON, QC, SK)",Slow,7.0,5.9
 ,,,Perennial,,,Prunus,,Shrub,,,,rivularis,"USA (AR, CO, KS, OK, TX)",,,
 ,,,Perennial,,,Primula,,Forb/herb,,,,rusbyi,"USA (AZ, NM)",,,
-Spring and Summer,Late Spring,Yes,Perennial,Medium,Moderate,Prunus,Multiple Stem,"Tree, Shrub",Rapid,80,No,serotina,"USA (AL, AR, AZ, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NM, NY, OH, OK, PA, RI, SC, TN, TX, VA, VT, WA, WI, WV), CAN (BC, NB, NS, ON, QC)",None,7.5,4.0
+Spring and Summer,Late Spring,Yes,Perennial,Medium,Moderate,Prunus,Multiple Stem,"Tree, Shrub",Rapid,80.0,No,serotina,"USA (AL, AR, AZ, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NM, NY, OH, OK, PA, RI, SC, TN, TX, VA, VT, WA, WI, WV), CAN (BC, NB, NS, ON, QC)",None,7.5,4.0
 ,,,Perennial,,,Prosartes,,Forb/herb,,,,smithii,"USA (CA, OR, WA), CAN (BC)",,,
 ,,,Perennial,,,Primula,,Forb/herb,,,,specuicola,"USA (AZ, UT)",,,
 ,,,Perennial,,,Primula,,Subshrub,,,,suffrutescens,USA (CA),,,
-Spring and Summer,Early Spring,Yes,Perennial,Low,Dense,Prunus,Thicket Forming,"Tree, Shrub",Moderate,25,No,subcordata,"USA (CA, OR, WA)",Moderate,7.5,6.5
+Spring and Summer,Early Spring,Yes,Perennial,Low,Dense,Prunus,Thicket Forming,"Tree, Shrub",Moderate,25.0,No,subcordata,"USA (CA, OR, WA)",Moderate,7.5,6.5
 ,,,Perennial,,,Prosartes,,Forb/herb,,,,trachycarpa,"USA (AZ, CO, ID, MI, MT, ND, NE, NM, NV, OR, SD, UT, WA, WY), CAN (AB, BC, MB, ON, SK)",,,
 ,,,Perennial,,,Prunus,,"Tree, Shrub",,,,umbellata,"USA (AL, AR, FL, GA, LA, MS, NC, SC, TN, TX)",,,
-Spring and Summer,Mid Spring,No,Perennial,Medium,Dense,Prunus,Multiple Stem,"Tree, Shrub",Rapid,25,Yes,virginiana,"USA (AK, AR, AZ, CA, CO, CT, DC, DE, GA, IA, ID, IL, IN, KS, KY, MA, MD, ME, MI, MN, MO, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY), CAN (AB, BC, MB, NB, NF, NS, NT, ON, PE, QC, SK), FRA (SPM)",Moderate,8.4,5.2
+Spring and Summer,Mid Spring,No,Perennial,Medium,Dense,Prunus,Multiple Stem,"Tree, Shrub",Rapid,25.0,Yes,virginiana,"USA (AK, AR, AZ, CA, CO, CT, DC, DE, GA, IA, ID, IL, IN, KS, KY, MA, MD, ME, MI, MN, MO, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY), CAN (AB, BC, MB, NB, NF, NS, NT, ON, PE, QC, SK), FRA (SPM)",Moderate,8.4,5.2
 ,,,Perennial,,,Psilostrophe,,"Subshrub, Forb/herb",,,,cooperi,"USA (AZ, CA, NM, NV, UT)",,,
 ,,,Perennial,,,Psychotria,,"Tree, Shrub",,,,ligustrifolia,"USA (FL), USA+ (PR)",,,
 ,,,Perennial,,,Pseudotsuga,,Tree,,,,macrocarpa,USA (CA),,,
-Spring and Summer,Mid Spring,No,Perennial,Medium,Dense,Pseudotsuga,Single Stem,Tree,Moderate,200,No,menziesii,"USA (AZ, CA, CO, ID, MN, MT, NJ, NM, NV, NY, OR, PA, TX, UT, WA, WY), CAN (AB, BC)",None,7.5,5.0
+Spring and Summer,Mid Spring,No,Perennial,Medium,Dense,Pseudotsuga,Single Stem,Tree,Moderate,200.0,No,menziesii,"USA (AZ, CA, CO, ID, MN, MT, NJ, NM, NV, NY, OR, PA, TX, UT, WA, WY), CAN (AB, BC)",None,7.5,5.0
 ,,,Perennial,,,Psychotria,,"Tree, Shrub",,,,nervosa,"USA (FL), USA+ (PR, VI)",,,
 ,,,Perennial,,,Psilotum,,Forb/herb,,,,nudum,"USA (AL, AR, AZ, FL, GA, HI, LA, MS, NC, SC, TX, UM), USA+ (PR, VI)",,,
 ,,,"Annual, Biennial",,,Pseudognaphalium,,Forb/herb,,,,obtusifolium,"USA (AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, NE, NH, NJ, NY, OH, OK, PA, RI, SC, TN, TX, VA, VT, WI, WV), CAN (NB, NS, ON, PE, QC)",,,
@@ -4293,20 +4293,20 @@ Spring and Summer,Early Spring,No,Perennial,Medium,Dense,Purshia,Multiple Stem,S
 ,,,Perennial,,,Quercus,,Tree,,,,acerifolia,USA (AR),,,
 ,,,Perennial,,,Quercus,,"Tree, Shrub",,,,agrifolia,USA (CA),,,
 ,,,Perennial,,,Quercus,,"Shrub, Tree",,,,ajoensis,"USA (AZ, CO, NM)",,,
-Spring and Summer,Mid Spring,Yes,Perennial,Low,Dense,Quercus,Single Stem,Tree,Slow,100,No,alba,"USA (AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, NE, NH, NJ, NY, OH, OK, PA, RI, SC, TN, TX, VA, VT, WI, WV), CAN (ON, QC)",None,6.8,4.5
+Spring and Summer,Mid Spring,Yes,Perennial,Low,Dense,Quercus,Single Stem,Tree,Slow,100.0,No,alba,"USA (AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, NE, NH, NJ, NY, OH, OK, PA, RI, SC, TN, TX, VA, VT, WI, WV), CAN (ON, QC)",None,6.8,4.5
 ,,,Perennial,,,Quercus,,"Tree, Shrub",,,,arizonica,"USA (AZ, NM, TX)",,,
 ,,,Perennial,,,Quercus,,Tree,,,,arkansana,"USA (AL, AR, FL, GA, LA, MS, TX)",,,
 ,,,Perennial,,,Quercus,,Tree,,,,austrina,"USA (AL, FL, GA, MS, NC, SC)",,,
 ,,,Perennial,,,Quercus,,"Tree, Shrub",,,,berberidifolia,USA (CA),,,
-Spring and Summer,Early Spring,Yes,Perennial,Medium,Dense,Quercus,Single Stem,Tree,Rapid,100,No,bicolor,"USA (AL, CT, DC, DE, IA, IL, IN, KY, MA, MD, ME, MI, MN, MO, MS, NC, NH, NJ, NY, OH, PA, RI, SC, TN, VA, VT, WI, WV), CAN (NS, ON, QC)",None,6.5,4.3
+Spring and Summer,Early Spring,Yes,Perennial,Medium,Dense,Quercus,Single Stem,Tree,Rapid,100.0,No,bicolor,"USA (AL, CT, DC, DE, IA, IL, IN, KY, MA, MD, ME, MI, MN, MO, MS, NC, NH, NJ, NY, OH, PA, RI, SC, TN, VA, VT, WI, WV), CAN (NS, ON, QC)",None,6.5,4.3
 ,,,Perennial,,,Quercus,,"Tree, Shrub",,,,boyntonii,"USA (AL, TX)",,,
 ,,,Perennial,,,Quercus,,Tree,,,,buckleyi,"USA (KS, OK, TX)",,,
 ,,,Perennial,,,Quercus,,"Tree, Shrub",,,,carmenensis,USA (TX),,,
 ,,,Perennial,,,Quercus,,Tree,,,,cedrosensis,USA (CA),,,
 ,,,Perennial,,,Quercus,,"Tree, Shrub",,,,chapmanii,"USA (AL, FL, GA, SC)",,,
-"Spring, Summer, Fall",Late Spring,Yes,Perennial,Low,Dense,Quercus,Single Stem,"Tree, Shrub",Slow,90,No,chrysolepis,"USA (AZ, CA, NM, NV, OR)",Slow,7.5,4.5
+"Spring, Summer, Fall",Late Spring,Yes,Perennial,Low,Dense,Quercus,Single Stem,"Tree, Shrub",Slow,90.0,No,chrysolepis,"USA (AZ, CA, NM, NV, OR)",Slow,7.5,4.5
 ,,,Perennial,,,Quercus,,"Tree, Shrub",,,,chihuahuensis,USA (TX),,,
-Spring and Summer,Mid Spring,Yes,Perennial,Medium,Dense,Quercus,Single Stem,Tree,Rapid,70,No,coccinea,"USA (AL, AR, CT, DC, DE, GA, IL, IN, KY, LA, MA, MD, ME, MI, MO, MS, NC, NH, NJ, NY, OH, PA, RI, SC, TN, VA, VT, WI, WV)",None,6.9,4.5
+Spring and Summer,Mid Spring,Yes,Perennial,Medium,Dense,Quercus,Single Stem,Tree,Rapid,70.0,No,coccinea,"USA (AL, AR, CT, DC, DE, GA, IL, IN, KY, LA, MA, MD, ME, MI, MO, MS, NC, NH, NJ, NY, OH, PA, RI, SC, TN, VA, VT, WI, WV)",None,6.9,4.5
 ,,,Perennial,,,Quercus,,"Tree, Shrub",,,,depressipes,USA (TX),,,
 ,,,Perennial,,,Quercus,,Tree,,,,douglasii,USA (CA),,,
 ,,,Perennial,,,Quercus,,"Tree, Shrub",,,,dumosa,USA (CA),,,
@@ -4316,8 +4316,8 @@ Spring and Summer,Mid Spring,Yes,Perennial,Medium,Dense,Quercus,Single Stem,Tree
 ,,,Perennial,,,Quercus,,Tree,,,,engelmannii,USA (CA),,,
 ,,,Perennial,,,Quercus,,Tree,,,,falcata,"USA (AL, AR, DC, DE, FL, GA, IL, IN, KY, LA, MD, MO, MS, NC, NJ, NY, OH, OK, PA, SC, TN, TX, VA, WV)",,,
 ,,,Perennial,,,Quercus,,"Tree, Shrub",,,,fusiformis,"USA (OK, TX)",,,
-Spring and Summer,Mid Spring,No,Perennial,Medium,Moderate,Quercus,Single Crown,"Tree, Shrub",Slow,40,Yes,gambelii,"USA (AZ, CO, NM, NV, OK, SD, TX, UT, WY)",Moderate,8.0,6.5
-Spring and Summer,Mid Spring,Yes,Perennial,Low,Moderate,Quercus,Single Stem,"Tree, Shrub",Slow,80,No,garryana,"USA (CA, OR, WA), CAN (BC)",None,6.7,4.8
+Spring and Summer,Mid Spring,No,Perennial,Medium,Moderate,Quercus,Single Crown,"Tree, Shrub",Slow,40.0,Yes,gambelii,"USA (AZ, CO, NM, NV, OK, SD, TX, UT, WY)",Moderate,8.0,6.5
+Spring and Summer,Mid Spring,Yes,Perennial,Low,Moderate,Quercus,Single Stem,"Tree, Shrub",Slow,80.0,No,garryana,"USA (CA, OR, WA), CAN (BC)",None,6.7,4.8
 ,,,Perennial,,,Quercus,,"Tree, Shrub",,,,georgiana,"USA (AL, GA, NC, SC)",,,
 ,,,Perennial,,,Quercus,,"Tree, Shrub",,,,geminata,"USA (AL, FL, GA, LA, MS, NC, SC)",,,
 ,,,Perennial,,,Quercus,,Tree,,,,gravesii,USA (TX),,,
@@ -4331,16 +4331,16 @@ Spring and Summer,Mid Spring,Yes,Perennial,Low,Moderate,Quercus,Single Stem,"Tre
 ,,,Perennial,,,Quercus,,"Tree, Shrub",,,,incana,"USA (AL, AR, FL, GA, LA, MS, NC, OK, SC, TX, VA)",,,
 ,,,Perennial,,,Quercus,,Shrub,,,,intricata,USA (TX),,,
 ,,,Perennial,,,Quercus,,Shrub,,,,inopina,USA (FL),,,
-Spring and Summer,Late Spring,No,Perennial,Low,Moderate,Quercus,Single Stem,"Tree, Shrub",Slow,85,No,kelloggii,"USA (CA, OR)",None,7.5,5.5
+Spring and Summer,Late Spring,No,Perennial,Low,Moderate,Quercus,Single Stem,"Tree, Shrub",Slow,85.0,No,kelloggii,"USA (CA, OR)",None,7.5,5.5
 ,,,Perennial,,,Quercus,,"Tree, Shrub",,,,laceyi,USA (TX),,,
-Spring and Summer,Late Spring,Yes,Perennial,Low,Moderate,Quercus,Single Stem,Tree,Rapid,40,No,laevis,"USA (AL, FL, GA, LA, MS, NC, SC, VA)",None,5.8,4.0
-Spring and Summer,Early Spring,No,Perennial,Low,Moderate,Quercus,Single Stem,Tree,Rapid,70,No,laurifolia,"USA (AL, AR, FL, GA, LA, MD, MS, NC, PA, SC, TX, VA)",None,6.5,4.2
-Spring and Summer,Early Spring,No,Perennial,Medium,Dense,Quercus,Single Crown,Tree,Rapid,100,No,lobata,USA (CA),None,7.5,4.5
-Spring and Summer,Mid Spring,No,Perennial,Medium,Dense,Quercus,Single Stem,Tree,Moderate,80,No,lyrata,"USA (AL, AR, DE, FL, GA, IL, IN, KY, LA, MD, MO, MS, NC, NJ, OK, SC, TN, TX, VA)",None,7.5,4.5
-Spring and Summer,Mid Spring,No,Perennial,Medium,Dense,Quercus,Single Stem,"Tree, Shrub",Slow,100,No,macrocarpa,"USA (AL, AR, CT, DC, DE, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, ND, NE, NH, NJ, NM, NY, OH, OK, PA, RI, SD, TN, TX, VA, VT, WI, WV, WY), CAN (AB, MB, NB, ON, QC, SK)",None,7.5,4.5
+Spring and Summer,Late Spring,Yes,Perennial,Low,Moderate,Quercus,Single Stem,Tree,Rapid,40.0,No,laevis,"USA (AL, FL, GA, LA, MS, NC, SC, VA)",None,5.8,4.0
+Spring and Summer,Early Spring,No,Perennial,Low,Moderate,Quercus,Single Stem,Tree,Rapid,70.0,No,laurifolia,"USA (AL, AR, FL, GA, LA, MD, MS, NC, PA, SC, TX, VA)",None,6.5,4.2
+Spring and Summer,Early Spring,No,Perennial,Medium,Dense,Quercus,Single Crown,Tree,Rapid,100.0,No,lobata,USA (CA),None,7.5,4.5
+Spring and Summer,Mid Spring,No,Perennial,Medium,Dense,Quercus,Single Stem,Tree,Moderate,80.0,No,lyrata,"USA (AL, AR, DE, FL, GA, IL, IN, KY, LA, MD, MO, MS, NC, NJ, OK, SC, TN, TX, VA)",None,7.5,4.5
+Spring and Summer,Mid Spring,No,Perennial,Medium,Dense,Quercus,Single Stem,"Tree, Shrub",Slow,100.0,No,macrocarpa,"USA (AL, AR, CT, DC, DE, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, ND, NE, NH, NJ, NM, NY, OH, OK, PA, RI, SD, TN, TX, VA, VT, WI, WV, WY), CAN (AB, MB, NB, ON, QC, SK)",None,7.5,4.5
 ,,,Perennial,,,Quercus,,"Tree, Shrub",,,,marilandica,"USA (AL, AR, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MD, MO, MS, NC, NE, NJ, NY, OH, OK, PA, SC, TN, TX, VA, WV)",,,
 ,,,Perennial,,,Quercus,,"Tree, Shrub",,,,macdonaldii,USA (CA),,,
-Spring and Summer,Mid Spring,No,Perennial,Medium,Dense,Quercus,Single Stem,Tree,Moderate,80,No,michauxii,"USA (AL, AR, DE, FL, GA, IL, IN, KY, LA, MD, MO, MS, NC, NJ, OK, SC, TN, TX, VA)",Slow,6.5,4.5
+Spring and Summer,Mid Spring,No,Perennial,Medium,Dense,Quercus,Single Stem,Tree,Moderate,80.0,No,michauxii,"USA (AL, AR, DE, FL, GA, IL, IN, KY, LA, MD, MO, MS, NC, NJ, OK, SC, TN, TX, VA)",Slow,6.5,4.5
 ,,,Perennial,,,Quercus,,Shrub,,,,minima,"USA (AL, FL, GA, LA, MS, NC, TX)",,,
 ,,,Perennial,,,Quercus,,"Tree, Shrub",,,,mohriana,"USA (NM, OK, TX)",,,
 ,,,Perennial,,,Quercus,,Tree,,,,montana,"USA (AL, CT, DC, DE, GA, IL, IN, KY, LA, MA, MD, ME, MI, MS, NC, NH, NJ, NY, OH, PA, RI, SC, TN, VA, VT, WV)",,,
@@ -4373,7 +4373,7 @@ Spring and Summer,Mid Spring,No,Perennial,Medium,Dense,Quercus,Single Stem,Tree,
 ,,,Perennial,,,Quercus,,"Tree, Shrub",,,,turbinella,"USA (AZ, CA, CO, NM, NV, TX, UT)",,,
 ,,,Perennial,,,Quercus,,Shrub,,,,vacciniifolia,"USA (CA, NV, OR)",,,
 ,,,Perennial,,,Quercus,,"Shrub, Tree",,,,vaseyana,USA (TX),,,
-Spring and Summer,Early Spring,Yes,Perennial,Medium,Moderate,Quercus,Single Stem,Tree,Moderate,80,No,velutina,"USA (AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, NE, NH, NJ, NY, OH, OK, PA, RI, SC, TN, TX, VA, VT, WI, WV), CAN (ON)",None,6.5,4.5
+Spring and Summer,Early Spring,Yes,Perennial,Medium,Moderate,Quercus,Single Stem,Tree,Moderate,80.0,No,velutina,"USA (AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, NE, NH, NJ, NY, OH, OK, PA, RI, SC, TN, TX, VA, VT, WI, WV), CAN (ON)",None,6.5,4.5
 ,,,Perennial,,,Quercus,,Tree,,,,virginiana,"USA (AL, FL, GA, LA, MS, NC, SC, TX, VA)",,,
 ,,,Perennial,,,Quercus,,Tree,,,,viminea,USA (AZ),,,
 ,,,Perennial,,,Quercus,,"Tree, Shrub",,,,wislizeni,USA (CA),,,
@@ -4394,15 +4394,15 @@ Spring and Summer,Late Spring,No,Perennial,Medium,Porous,Ratibida,Single Crown,F
 ,,,Perennial,,,Reynosia,,"Tree, Shrub",,,,septentrionalis,USA (FL),,,
 Spring and Summer,Late Summer,No,Perennial,Medium,Dense,Rhododendron,Multiple Stem,Shrub,Moderate,6.0,No,albiflorum,"USA (CO, ID, MT, OR, WA), CAN (AB, BC)",None,6.5,4.5
 ,,,Perennial,,,Rhododendron,,Shrub,,,,alabamense,"USA (AL, FL, GA, MS, TN)",,,
-Spring and Summer,Late Spring,Yes,Perennial,Low,Dense,Rhododendron,Multiple Stem,Shrub,Moderate,18,No,arborescens,"USA (AL, GA, KY, MD, MS, NC, NY, PA, SC, TN, VA, WV)",None,5.7,4.2
+Spring and Summer,Late Spring,Yes,Perennial,Low,Dense,Rhododendron,Multiple Stem,Shrub,Moderate,18.0,No,arborescens,"USA (AL, GA, KY, MD, MS, NC, NY, PA, SC, TN, VA, WV)",None,5.7,4.2
 ,,,Perennial,,,Rhus,,Shrub,,,,aromatica,"USA (AL, AR, CT, DC, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, MI, MN, MO, MS, NC, NE, NH, NJ, NY, OH, OK, PA, SC, SD, TN, TX, VA, VT, WI, WV), CAN (ON, QC)",,,
 Spring and Summer,Early Spring,Yes,Perennial,Low,Dense,Rhododendron,Colonizing,Shrub,Moderate,2.3,No,atlanticum,"USA (DC, DE, GA, MD, NC, NJ, PA, SC, VA)",Moderate,5.7,4.2
 ,,,Perennial,,,Rhododendron,,Shrub,,,,austrinum,"USA (AL, FL, GA, MS)",,,
 ,,,Perennial,,,Rhipsalis,,Shrub,,,,baccifera,"USA (FL), USA+ (PR, VI)",,,
 ,,,Perennial,,,Rhododendron,,Shrub,,,,carolinianum,"USA (CT, MA, NC, SC, TN)",,,
 ,,,Perennial,,,Rhododendron,,Shrub,,,,calendulaceum,"USA (AL, CT, GA, KY, MD, NC, NY, OH, PA, SC, TN, VA, WV)",,,
-Spring and Summer,Mid Spring,No,Perennial,Low,Dense,Rhododendron,Multiple Stem,Shrub,Moderate,18,Yes,canadense,"USA (CT, MA, ME, NH, NJ, NY, PA, RI, VT), CAN (LB, NB, NF, NS, ON, PE, QC), FRA (SPM)",Slow,5.3,4.0
-Spring and Summer,Spring,No,Perennial,Low,Dense,Rhododendron,Multiple Stem,Shrub,Slow,14,No,canescens,"USA (AL, AR, DE, FL, GA, KY, LA, MD, MS, NC, OK, PA, SC, TN, TX)",None,5.8,4.3
+Spring and Summer,Mid Spring,No,Perennial,Low,Dense,Rhododendron,Multiple Stem,Shrub,Moderate,18.0,Yes,canadense,"USA (CT, MA, ME, NH, NJ, NY, PA, RI, VT), CAN (LB, NB, NF, NS, ON, PE, QC), FRA (SPM)",Slow,5.3,4.0
+Spring and Summer,Spring,No,Perennial,Low,Dense,Rhododendron,Multiple Stem,Shrub,Slow,14.0,No,canescens,"USA (AL, AR, DE, FL, GA, KY, LA, MD, MS, NC, OK, PA, SC, TN, TX)",None,5.8,4.3
 ,,,Perennial,,,Rhododendron,,"Tree, Shrub",,,,catawbiense,"USA (AL, GA, KY, MA, NC, SC, TN, VA, WV)",,,
 ,,,Perennial,,,Rhododendron,,Shrub,,,,chapmanii,USA (FL),,,
 ,,,Perennial,,,Rhynchospora,,Graminoid,,,,corniculata,"USA (AL, AR, DE, FL, GA, IL, IN, KY, LA, MD, MO, MS, NC, OK, SC, TN, TX, VA)",,,
@@ -4411,20 +4411,20 @@ Spring and Summer,Spring,No,Perennial,Low,Dense,Rhododendron,Multiple Stem,Shrub
 ,,,Perennial,,,Rhododendron,,Shrub,,,,cumberlandense,"USA (AL, GA, KY, NC, SC, TN, VA)",,,
 ,,,Perennial,,,Rhododendron,,"Shrub, Tree",,,,eastmanii,USA (SC),,,
 ,,,Perennial,,,Rhododendron,,Shrub,,,,flammeum,"USA (GA, SC)",,,
-Spring and Summer,Mid Spring,Yes,Perennial,Low,Dense,Rhus,Rhizomatous,"Tree, Shrub",Moderate,12,No,glabra,"USA (AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY), CAN (AB, BC, MB, ON, QC, SK)",Moderate,7.5,5.3
+Spring and Summer,Mid Spring,Yes,Perennial,Low,Dense,Rhus,Rhizomatous,"Tree, Shrub",Moderate,12.0,No,glabra,"USA (AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY), CAN (AB, BC, MB, ON, QC, SK)",Moderate,7.5,5.3
 ,,,Perennial,,,Rhapidophyllum,,Shrub,,,,hystrix,"USA (AL, FL, GA, MS, SC)",,,
 ,,,Perennial,,,Rhodiola,,Forb/herb,,,,integrifolia,"USA (AK, CA, CO, ID, MN, MT, NM, NV, NY, OR, UT, WA, WY), CAN (AB, BC, NT, YT)",,,
 ,,,Perennial,,,Rhus,,"Tree, Shrub",,,,integrifolia,USA (CA),,,
 ,,,Perennial,,,Rhododendron,,Shrub,,,,lapponicum,"USA (AK, CT, ME, NH, NY, WI), CAN (AB, BC, LB, MB, NF, NS, NT, NU, ON, QC, YT), DEN (GL)",,,
 ,,,Perennial,,,Rhus,,"Tree, Shrub",,,,lanceolata,"USA (AZ, NM, OK, TX)",,,
 ,,,Perennial,,,Rhizophora,,"Tree, Shrub",,,,mangle,"USA (FL, HI, NC, SC), USA+ (PR, VI)",,,
-Spring and Summer,Spring,No,Perennial,Medium,Dense,Rhododendron,Multiple Stem,"Tree, Shrub",Moderate,15,No,macrophyllum,"USA (CA, OR, WA), CAN (BC)",None,7.0,5.5
+Spring and Summer,Spring,No,Perennial,Medium,Dense,Rhododendron,Multiple Stem,"Tree, Shrub",Moderate,15.0,No,macrophyllum,"USA (CA, OR, WA), CAN (BC)",None,7.0,5.5
 ,,,Perennial,,,Rhododendron,,"Tree, Shrub",,,,maximum,"USA (AL, CT, DC, DE, GA, KY, MA, MD, ME, NC, NH, NJ, NY, OH, PA, RI, SC, TN, VA, VT, WV), CAN (NS)",,,
 ,,,Perennial,,,Rhododendron,,Shrub,,,,minus,"USA (AL, GA, KY, NC, SC, TN)",,,
-Spring and Summer,Spring,Yes,Perennial,Low,Moderate,Rhus,Multiple Stem,"Tree, Shrub",Moderate,10,No,microphylla,"USA (AZ, NM, OK, TX)",None,8.5,7.0
+Spring and Summer,Spring,Yes,Perennial,Low,Moderate,Rhus,Multiple Stem,"Tree, Shrub",Moderate,10.0,No,microphylla,"USA (AZ, NM, OK, TX)",None,8.5,7.0
 ,,,Perennial,,,Rhynchosia,,"Vine, Subshrub, Forb/herb",,,,minima,"USA (, AL, AR, FL, GA, HI, LA, MO, MS, TX), USA+ (PR, VI)",,,
 ,,,Perennial,,,Rhododendron,,Shrub,,,,oblongifolium,"USA (AR, LA, OK, TX)",,,
-Spring and Summer,Late Spring,No,Perennial,Medium,Dense,Rhododendron,Multiple Stem,Shrub,Moderate,10,No,occidentale,"USA (CA, OR)",None,6.5,4.5
+Spring and Summer,Late Spring,No,Perennial,Medium,Dense,Rhododendron,Multiple Stem,Shrub,Moderate,10.0,No,occidentale,"USA (CA, OR)",None,6.5,4.5
 ,,,Perennial,,,Rhus,,"Tree, Shrub",,,,ovata,"USA (AZ, CA)",,,
 ,,,Perennial,,,Rhynchosia,,"Vine, Forb/herb",,,,parvifolia,USA (FL),,,
 ,,,Perennial,,,Rhexia,,Forb/herb,,,,parviflora,"USA (AL, FL, GA)",,,
@@ -4474,7 +4474,7 @@ Spring and Summer,Early Summer,Yes,Perennial,Low,Moderate,Rosa,Multiple Stem,Sub
 ,,,Perennial,,,Rosa,,Subshrub,,,,arkansana,"USA (AR, CO, DC, IA, IL, IN, KS, MA, MI, MN, MO, MT, ND, NE, NM, NY, OH, OK, SD, TX, WI, WY), CAN (AB, BC, MB, ON, SK)",,,
 ,,,Perennial,,,Rosa,,Subshrub,,,,blanda,"USA (CT, IA, IL, IN, KS, MA, MD, ME, MI, MN, MO, MS, MT, ND, NE, NH, NJ, NY, OH, PA, SD, VA, VT, WI, WV), CAN (AB, MB, NB, NS, NT, ON, QC, SK)",,,
 ,,,Perennial,,,Rosa,,Subshrub,,,,bridgesii,USA (CA),,,
-"Spring, Summer, Fall",Summer,Yes,Perennial,Low,Dense,Rosa,Thicket Forming,Subshrub,Rapid,10,No,californica,"USA (CA, OR)",Rapid,8.0,7.0
+"Spring, Summer, Fall",Summer,Yes,Perennial,Low,Dense,Rosa,Thicket Forming,Subshrub,Rapid,10.0,No,californica,"USA (CA, OR)",Rapid,8.0,7.0
 ,,,Perennial,,,Rosa,,Subshrub,,,,carolina,"USA (AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, NE, NH, NJ, NY, OH, OK, PA, RI, SC, TN, TX, VA, VT, WI, WV), CAN (NB, NS, ON, PE, QC), FRA (SPM)",,,
 ,,,Perennial,,,Romneya,,"Subshrub, Shrub",,,,coulteri,USA (CA),,,
 ,,,Perennial,,,Rosa,,Subshrub,,,,dulcissima,"USA (IA, MN, ND, SD, WI), CAN (MB, SK)",,,
@@ -4482,15 +4482,15 @@ Spring and Summer,Early Summer,Yes,Perennial,Low,Moderate,Rosa,Multiple Stem,Sub
 ,,,Perennial,,,Rosa,,Subshrub,,,,gymnocarpa,"USA (CA, ID, MT, OR, WA), CAN (BC)",,,
 ,,,Perennial,,,Robinia,,"Tree, Shrub",,,,hispida,"USA (AL, AR, CA, CO, CT, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, NE, NH, NJ, NM, NY, OH, OK, OR, PA, RI, SC, TN, TX, UT, VA, VT, WA, WI, WV), CAN (NS, ON)",,,
 ,,,Perennial,,,Rosa,,Subshrub,,,,minutifolia,USA (CA),,,
-Spring and Summer,Late Spring,Yes,Perennial,Low,Porous,Robinia,Multiple Stem,"Tree, Shrub",Rapid,25,No,neomexicana,"USA (AZ, CA, CO, NM, NV, TX, UT, WY)",Slow,8.5,7.0
+Spring and Summer,Late Spring,Yes,Perennial,Low,Porous,Robinia,Multiple Stem,"Tree, Shrub",Rapid,25.0,No,neomexicana,"USA (AZ, CA, CO, NM, NV, TX, UT, WY)",Slow,8.5,7.0
 ,,,Perennial,,,Rosa,,Subshrub,,,,nitida,"USA (CT, MA, ME, NH, NJ, NY, OH, RI, VT), CAN (NB, NF, NS, ON, PE, QC), FRA (SPM)",,,
-Spring and Summer,Late Spring,Yes,Perennial,Low,Moderate,Rosa,Thicket Forming,Subshrub,Rapid,10,No,nutkana,"USA (AK, CA, CO, ID, MT, NM, NV, OR, UT, WA, WY), CAN (BC)",Moderate,7.0,6.5
+Spring and Summer,Late Spring,Yes,Perennial,Low,Moderate,Rosa,Thicket Forming,Subshrub,Rapid,10.0,No,nutkana,"USA (AK, CA, CO, ID, MT, NM, NV, OR, UT, WA, WY), CAN (BC)",Moderate,7.0,6.5
 ,,,Perennial,,,Rosa,,Subshrub,,,,obtusiuscula,USA (TN),,,
 ,,,Perennial,,,Rosa,,Subshrub,,,,palustris,"USA (AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KY, LA, MA, MD, ME, MI, MO, MS, NC, NH, NJ, NY, OH, PA, RI, SC, TN, VA, VT, WI, WV), CAN (NB, NS, ON, QC)",,,
 ,,,Perennial,,,Rosa,,Subshrub,,,,palustriformis,"USA (ME, MI, NY, OH, WI)",,,
 ,,,Perennial,,,Rosa,,Subshrub,,,,pinetorum,USA (CA),,,
 ,,,Perennial,,,Rosa,,Subshrub,,,,pisocarpa,"USA (CA, ID, OR, WA), CAN (BC)",,,
-Spring,Spring,Yes,Perennial,Low,Moderate,Robinia,Multiple Stem,Tree,Rapid,60,No,pseudoacacia,"USA (AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY), CAN (BC, NB, NS, ON, PE, QC)",Moderate,8.2,4.6
+Spring,Spring,Yes,Perennial,Low,Moderate,Robinia,Multiple Stem,Tree,Rapid,60.0,No,pseudoacacia,"USA (AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY), CAN (BC, NB, NS, ON, PE, QC)",Moderate,8.2,4.6
 ,,,Perennial,,,Roystonea,,Tree,,,,regia,"USA (FL), USA+ (PR, VI)",,,
 ,,,Perennial,,,Rosa,,"Vine, Subshrub",,,,setigera,"USA (AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, MI, MO, MS, NC, NE, NH, NJ, NY, OH, OK, PA, SC, TN, TX, VA, WI, WV), CAN (ON)",,,
 ,,,Perennial,,,Rosa,,Subshrub,,,,spithamea,"USA (CA, OR)",,,
@@ -4544,7 +4544,7 @@ Spring and Summer,Spring,No,Perennial,Medium,Porous,Rubus,Rhizomatous,Subshrub,R
 ,,,Perennial,,,Ruellia,,Forb/herb,,,,purshiana,"USA (AL, GA, LA, MD, NC, SC, TN, VA, WV)",,,
 ,,,Perennial,,,Rumex,,Forb/herb,,,,salicifolius,"USA (AK, AZ, CA, CO, CT, DE, IA, ID, IL, IN, KS, KY, MA, ME, MI, MN, MO, MT, ND, NE, NH, NJ, NM, NV, NY, OH, OR, PA, RI, SD, TX, UT, VT, WA, WI, WY), CAN (AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT), FRA (SPM)",,,
 ,,,Perennial,,,Rudbeckia,,Forb/herb,,,,scabrifolia,"USA (LA, TX)",,,
-Spring and Summer,Early Spring,No,Perennial,Low,Porous,Rubus,Multiple Stem,"Vine, Subshrub",Moderate,12,No,spectabilis,"USA (AK, CA, ID, OR, WA), CAN (BC)",Slow,7.2,5.7
+Spring and Summer,Early Spring,No,Perennial,Low,Porous,Rubus,Multiple Stem,"Vine, Subshrub",Moderate,12.0,No,spectabilis,"USA (AK, CA, ID, OR, WA), CAN (BC)",Slow,7.2,5.7
 ,,,Perennial,,,Ruellia,,Forb/herb,,,,strepens,"USA (AL, AR, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MD, MI, MO, MS, NC, NE, NJ, OH, OK, PA, SC, TN, TX, VA, WV)",,,
 ,,,Perennial,,,Rudbeckia,,Forb/herb,,,,subtomentosa,"USA (AR, CT, IA, IL, IN, KS, KY, LA, MA, MI, MO, MS, NC, NY, OK, TN, TX, WI)",,,
 ,,,Perennial,,,Rudbeckia,,Forb/herb,,,,texana,"USA (LA, TX)",,,
@@ -4557,7 +4557,7 @@ Spring and Summer,Early Spring,No,Perennial,Medium,Dense,Rubus,Thicket Forming,S
 ,,,Perennial,,,Saccharum,,Graminoid,,,,alopecuroides,"USA (AL, AR, DC, FL, GA, IL, IN, KY, LA, MD, MO, MS, NC, NJ, OH, OK, SC, TN, TX, VA, WV)",,,
 ,,,Perennial,,,Sarracenia,,Forb/herb,,,,alata,"USA (AL, LA, MS, TX)",,,
 ,,,Perennial,,,Sassafras,,"Tree, Shrub",,,,albidum,"USA (AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MO, MS, NC, NH, NJ, NY, OH, OK, PA, RI, SC, TN, TX, VA, VT, WI, WV), CAN (ON)",,,
-Spring and Summer,Late Spring,No,Perennial,Medium,Dense,Salix,Multiple Stem,"Tree, Shrub",Rapid,60,No,amygdaloides,"USA (AZ, CO, IA, ID, IL, IN, KS, KY, MI, MN, MO, MT, ND, NE, NM, NV, NY, OH, OK, OR, PA, SD, TX, UT, WA, WI, WY), CAN (AB, BC, MB, ON, QC, SK)",None,8.0,6.0
+Spring and Summer,Late Spring,No,Perennial,Medium,Dense,Salix,Multiple Stem,"Tree, Shrub",Rapid,60.0,No,amygdaloides,"USA (AZ, CO, IA, ID, IL, IN, KS, KY, MI, MN, MO, MT, ND, NE, NM, NV, NY, OH, OK, OR, PA, SD, TX, UT, WA, WI, WY), CAN (AB, BC, MB, ON, QC, SK)",None,8.0,6.0
 ,,,Annual,,,Sabatia,,Forb/herb,,,,angularis,"USA (AL, AR, CT, DC, DE, FL, GA, IL, IN, KS, KY, LA, MA, MD, MI, MO, MS, NC, NJ, NM, NY, OH, OK, PA, SC, TN, TX, VA, WI, WV), CAN (ON)",,,
 ,,,Perennial,,,Salvia,,Subshrub,,,,apiana,USA (CA),,,
 ,,,,,,Salix,,,,,,arctica,,,,
@@ -4570,7 +4570,7 @@ Spring and Summer,Late Spring,No,Perennial,Medium,Dense,Salix,Multiple Stem,"Tre
 ,,,Perennial,,,Salix,,"Tree, Shrub",,,,bebbiana,"USA (AK, AZ, CA, CO, CT, IA, ID, IL, IN, MA, MD, ME, MI, MN, MT, ND, NE, NH, NJ, NM, NV, NY, OH, OR, PA, RI, SD, UT, VT, WA, WI, WY), CAN (AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT)",,,
 ,,,Annual,,,Salicornia,,Forb/herb,,,,bigelovii,"USA (AL, CA, CT, DE, FL, GA, LA, MA, MD, ME, MS, NC, NH, NJ, NM, NY, RI, SC, TX, VA), USA+ (PR)",,,
 ,,,Perennial,,,Salix,,Tree,,,,bonplandiana,USA (AZ),,,
-Spring and Summer,Late Spring,Yes,Perennial,Low,Moderate,Salix,Multiple Stem,Shrub,Rapid,24,No,boothii,"USA (AZ, CA, CO, ID, MT, NM, NV, OR, UT, WA, WY), CAN (AB, BC)",Rapid,8.0,5.5
+Spring and Summer,Late Spring,Yes,Perennial,Low,Moderate,Salix,Multiple Stem,Shrub,Rapid,24.0,No,boothii,"USA (AZ, CA, CO, ID, MT, NM, NV, OR, UT, WA, WY), CAN (AB, BC)",Rapid,8.0,5.5
 ,,,Perennial,,,Salix,,Shrub,,,,brachycarpa,"USA (CA, CO, ID, MT, NM, OR, UT, WA, WY), CAN (AB, BC, MB, NT, ON, QC, SK, YT)",,,
 ,,,Annual,,,Sabatia,,Forb/herb,,,,brevifolia,"USA (AL, FL, GA, SC)",,,
 ,,,Perennial,,,Salvia,,"Subshrub, Shrub",,,,brandegeei,USA (CA),,,
@@ -4603,23 +4603,23 @@ Spring and Summer,Late Spring,No,Perennial,Medium,Porous,Salvia,Multiple Stem,"S
 ,,,Perennial,,,Salix,,"Tree, Shrub",,,,eriocephala,"USA (AL, AR, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, ND, NE, NH, NJ, NY, OH, OK, PA, RI, SD, TN, VA, VT, WI, WV), CAN (MB, NB, NF, NS, ON, PE, QC, SK)",,,
 ,,,Perennial,,,Salvia,,"Subshrub, Shrub",,,,eremostachya,USA (CA),,,
 ,,,Perennial,,,Sabal,,"Tree, Shrub",,,,etonia,USA (FL),,,
-Spring and Summer,Early Spring,No,Perennial,Low,Dense,Salix,Rhizomatous,"Tree, Shrub",Rapid,10,No,exigua,"USA (AZ, CA, CO, ID, KS, MT, NM, NV, OR, TX, UT, WA, WY), CAN (AB, BC, SK)",Moderate,8.5,6.0
+Spring and Summer,Early Spring,No,Perennial,Low,Dense,Salix,Rhizomatous,"Tree, Shrub",Rapid,10.0,No,exigua,"USA (AZ, CA, CO, ID, KS, MT, NM, NV, OR, TX, UT, WA, WY), CAN (AB, BC, SK)",Moderate,8.5,6.0
 ,,,Perennial,,,Salvia,,Forb/herb,,,,farinacea,"USA (CT, FL, LA, NM, OH, OK, TX)",,,
 ,,,Perennial,,,Salix,,"Tree, Shrub",,,,floridana,"USA (AL, FL, GA)",,,
 ,,,Perennial,,,Sarracenia,,Forb/herb,,,,flava,"USA (AL, FL, GA, NC, NJ, SC, VA)",,,
 ,,,Perennial,,,Saxifraga,,Forb/herb,,,,flagellaris,"USA (AK, AZ, CO, ID, MT, NM, UT, WY), CAN (AB, BC, NT, YT)",,,
 ,,,Annual,,,Sabatia,,Forb/herb,,,,gentianoides,"USA (AL, AR, FL, GA, LA, MS, NC, SC, TX)",,,
-Spring and Summer,Spring,Yes,Perennial,Low,Moderate,Salix,Thicket Forming,"Tree, Shrub",Rapid,15,No,geyeriana,"USA (AZ, CA, CO, ID, MT, NM, NV, OR, UT, WA, WY), CAN (BC)",Rapid,7.5,6.5
+Spring and Summer,Spring,Yes,Perennial,Low,Moderate,Salix,Thicket Forming,"Tree, Shrub",Rapid,15.0,No,geyeriana,"USA (AZ, CA, CO, ID, MT, NM, NV, OR, UT, WA, WY), CAN (BC)",Rapid,7.5,6.5
 ,,,Perennial,,,Saccharum,,Graminoid,,,,giganteum,"USA (AL, AR, DC, DE, FL, GA, IL, KY, LA, MD, MO, MS, NC, NJ, NY, OK, PA, SC, TN, TX, VA)",,,
 ,,,Perennial,,,Salix,,"Tree, Shrub",,,,glauca,"USA (AK, CO, ID, MT, NM, OR, UT, WA, WY), CAN (AB, BC, LB, MB, NF, NS, NT, NU, ON, QC, SK, YT), DEN (GL), FRA (SPM)",,,
-Spring and Summer,Early Spring,Yes,Perennial,Medium,Dense,Salix,Multiple Stem,Tree,Rapid,40,No,gooddingii,"USA (AZ, CA, CO, NM, NV, TX, UT)",None,7.4,5.7
+Spring and Summer,Early Spring,Yes,Perennial,Medium,Dense,Salix,Multiple Stem,Tree,Rapid,40.0,No,gooddingii,"USA (AZ, CA, CO, NM, NV, TX, UT)",None,7.4,5.7
 ,,,Perennial,,,Sagittaria,,Forb/herb,,,,graminea,"USA (AL, AR, AZ, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, NE, NH, NJ, NM, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WA, WI, WV), CAN (LB, NB, NF, NS, ON, PE, QC)",,,
 ,,,Perennial,,,Salvia,,"Subshrub, Shrub, Forb/herb",,,,greggii,USA (TX),,,
 ,,,Annual,,,Sabatia,,Forb/herb,,,,grandiflora,"USA (AL, FL)",,,
 ,,,Perennial,,,Salvia,,Forb/herb,,,,henryi,"USA (AZ, NM, TX)",,,
 ,,,Perennial,,,Saxifraga,,Forb/herb,,,,hirculus,"USA (AK, CO, MT, NM, UT), CAN (BC, LB, MB, NT, NU, ON, QC, YT), DEN (GL)",,,
 ,,,Perennial,,,Salix,,"Tree, Shrub",,,,hookeriana,"USA (AK, CA, OR, WA), CAN (BC)",,,
-Spring and Summer,Spring,Yes,Perennial,Medium,Dense,Salix,Multiple Stem,Shrub,Rapid,10,No,humilis,"USA (AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV), CAN (LB, MB, NB, NF, NS, ON, PE, QC)",Slow,7.0,5.9
+Spring and Summer,Spring,Yes,Perennial,Medium,Dense,Salix,Multiple Stem,Shrub,Rapid,10.0,No,humilis,"USA (AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV), CAN (LB, MB, NB, NF, NS, ON, PE, QC)",Slow,7.0,5.9
 ,,,Perennial,,,Salix,,Shrub,,,,irrorata,"USA (AZ, CO, NM, WY)",,,
 ,,,Perennial,,,Sagittaria,,Forb/herb,,,,lancifolia,"USA (AL, DE, FL, GA, LA, MD, MS, NC, OK, SC, TX, VA), USA+ (PR)",,,
 ,,,Perennial,,,Sagittaria,,Forb/herb,,,,latifolia,"USA (AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, HI, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY), USA+ (PR), CAN (AB, BC, MB, NB, NF, NS, ON, PE, QC, SK)",,,
@@ -4629,8 +4629,8 @@ Spring and Summer,Spring,Yes,Perennial,Medium,Dense,Salix,Multiple Stem,Shrub,Ra
 ,,,Perennial,,,Sarracenia,,Forb/herb,,,,leucophylla,"USA (AL, FL, GA, MS, NC)",,,
 ,,,Perennial,,,Salvia,,"Subshrub, Forb/herb",,,,lemmonii,"USA (AZ, NM)",,,
 ,,,Perennial,,,Sagittaria,,Forb/herb,,,,longiloba,"USA (AZ, CA, CO, KS, NE, NM, OK, TX)",,,
-Spring and Summer,Spring,Yes,Perennial,Medium,Dense,Salix,Multiple Stem,"Tree, Shrub",Rapid,13,No,lucida,"USA (AK, AZ, CA, CO, CT, DE, IA, ID, IL, IN, KS, MA, MD, ME, MI, MN, MT, ND, NH, NJ, NM, NV, NY, OH, OR, PA, RI, SD, UT, VA, VT, WA, WI, WV, WY), CAN (AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT), FRA (SPM)",Slow,7.2,5.8
-Spring and Summer,Spring,Yes,Perennial,Medium,Dense,Salix,Multiple Stem,"Tree, Shrub",Rapid,16,No,lutea,"USA (AZ, CA, CO, IA, ID, KS, MN, MO, MT, ND, NE, NV, OR, SD, UT, WY), CAN (AB, MB, NT, ON, SK)",Slow,7.2,5.8
+Spring and Summer,Spring,Yes,Perennial,Medium,Dense,Salix,Multiple Stem,"Tree, Shrub",Rapid,13.0,No,lucida,"USA (AK, AZ, CA, CO, CT, DE, IA, ID, IL, IN, KS, MA, MD, ME, MI, MN, MT, ND, NH, NJ, NM, NV, NY, OH, OR, PA, RI, SD, UT, VA, VT, WA, WI, WV, WY), CAN (AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT), FRA (SPM)",Slow,7.2,5.8
+Spring and Summer,Spring,Yes,Perennial,Medium,Dense,Salix,Multiple Stem,"Tree, Shrub",Rapid,16.0,No,lutea,"USA (AZ, CA, CO, IA, ID, KS, MN, MO, MT, ND, NE, NV, OR, SD, UT, WY), CAN (AB, MB, NT, ON, SK)",Slow,7.2,5.8
 ,,,Perennial,,,Salvia,,"Subshrub, Shrub",,,,lycioides,"USA (NM, TX)",,,
 ,,,Perennial,,,Salvia,,Forb/herb,,,,lyrata,"USA (AL, AR, CT, DC, DE, FL, GA, IL, IN, KS, KY, LA, MD, MO, MS, NC, NJ, NY, OH, OK, PA, SC, TN, TX, VA, WV)",,,
 ,,,Perennial,,,Salix,,Tree,,,,maccalliana,"USA (MN, ND, WA), CAN (AB, BC, MB, NT, ON, QC, SK, YT)",,,
@@ -4640,11 +4640,11 @@ Spring and Summer,Spring,Yes,Perennial,Medium,Dense,Salix,Multiple Stem,"Tree, S
 ,,,Perennial,,,Sabal,,Tree,,,,mexicana,USA (TX),,,
 ,,,Perennial,,,Sabal,,"Tree, Shrub",,,,minor,"USA (AL, AR, FL, GA, LA, MS, NC, OK, SC, TX)",,,
 ,,,Perennial,,,Sarracenia,,Forb/herb,,,,minor,"USA (FL, GA, NC, SC)",,,
-Spring and Summer,Late Spring,Yes,Perennial,Low,Moderate,Salix,Thicket Forming,"Tree, Shrub",Moderate,12,No,monticola,"USA (AZ, CO, NM, UT, WY)",Slow,7.0,5.0
+Spring and Summer,Late Spring,Yes,Perennial,Low,Moderate,Salix,Thicket Forming,"Tree, Shrub",Moderate,12.0,No,monticola,"USA (AZ, CO, NM, UT, WY)",Slow,7.0,5.0
 ,,,Perennial,,,Salvia,,"Subshrub, Shrub",,,,munzii,USA (CA),,,
 ,,,Perennial,,,Salix,,"Tree, Shrub",,,,myrtillifolia,"USA (AK, CO, WY), CAN (AB, BC, LB, MB, NB, NT, NU, ON, SK, YT)",,,
 ,,,Perennial,,,Salix,,"Tree, Shrub",,,,myricoides,"USA (CT, IL, IN, MA, ME, MI, MN, NH, OH, PA, RI, VT, WI), CAN (NB, NF, ON, QC)",,,
-Spring and Summer,Early Spring,Yes,Perennial,Medium,Moderate,Salix,Multiple Stem,Tree,Rapid,100,No,nigra,"USA (AL, AR, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, NE, NH, NJ, NY, OH, OK, PA, RI, SC, TN, TX, VA, VT, WI, WV), CAN (MB, NB, ON, QC)",Slow,8.0,4.8
+Spring and Summer,Early Spring,Yes,Perennial,Medium,Moderate,Salix,Multiple Stem,Tree,Rapid,100.0,No,nigra,"USA (AL, AR, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, NE, NH, NJ, NY, OH, OK, PA, RI, SC, TN, TX, VA, VT, WI, WV), CAN (MB, NB, ON, QC)",Slow,8.0,4.8
 ,,,Perennial,,,Salix,,"Subshrub, Shrub",,,,nivalis,"USA (CA, CO, ID, MT, NM, NV, OR, UT, WA, WY), CAN (AB, BC)",,,
 ,,,Perennial,,,Sambucus,,"Tree, Shrub",,,,nigra,"USA (AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, HI, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY), USA+ (PR, VI), CAN (BC, MB, NB, NS, ON, PE, QC)",,,
 ,,,Perennial,,,Sanguisorba,,Forb/herb,,,,officinalis,"USA (AK, CA, ME, MI, MN, NE, OR, PA, WA), CAN (BC, NS, NT, YT)",,,
@@ -4663,7 +4663,7 @@ Spring and Summer,Early Spring,Yes,Perennial,Medium,Moderate,Salix,Multiple Stem
 ,,,Perennial,,,Salvia,,"Subshrub, Shrub",,,,pinguifolia,"USA (AZ, NM, TX)",,,
 ,,,Perennial,,,Sagittaria,,Forb/herb,,,,platyphylla,"USA (AL, AR, FL, GA, IL, KS, KY, LA, MO, MS, NC, OH, OK, SC, TN, TX, VA, WV)",,,
 Spring and Summer,Late Spring,Yes,Perennial,Low,Dense,Salix,Multiple Stem,"Tree, Subshrub, Shrub",Rapid,8.0,No,planifolia,"USA (AK, AZ, CA, CO, ID, ME, MI, MN, MT, NH, NM, NV, OR, SD, UT, VT, WA, WI, WY), CAN (AB, BC, LB, MB, NF, NT, NU, ON, QC, SK, YT), FRA (SPM)",Slow,6.0,4.5
-Spring and Summer,Early Spring,Yes,Perennial,Low,Moderate,Salix,Single Crown,"Tree, Shrub",Moderate,45,No,prolixa,"USA (AK, CA, ID, MT, NV, OR, UT, WA, WY), CAN (AB, BC, NT, YT)",Slow,7.0,5.0
+Spring and Summer,Early Spring,Yes,Perennial,Low,Moderate,Salix,Single Crown,"Tree, Shrub",Moderate,45.0,No,prolixa,"USA (AK, CA, ID, MT, NV, OR, UT, WA, WY), CAN (AB, BC, NT, YT)",Slow,7.0,5.0
 ,,,Perennial,,,Salix,,Shrub,,,,pseudomonticola,"USA (AK, ID, MN, MT, SD, WA, WY), CAN (AB, BC, MB, NT, ON, QC, SK, YT)",,,
 ,,,Perennial,,,Sarracenia,,Forb/herb,,,,psittacina,"USA (AL, FL, GA, LA, MS, SC)",,,
 ,,,Perennial,,,Sarracenia,,Forb/herb,,,,purpurea,"USA (AK, AL, CA, CT, DC, DE, FL, GA, IL, IN, LA, MA, MD, ME, MI, MN, MS, NC, NH, NJ, NY, OH, PA, RI, SC, VA, VT, WA, WI, WV), CAN (AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK), FRA (SPM)",,,
@@ -4681,11 +4681,11 @@ Spring and Summer,Early Spring,Yes,Perennial,Low,Moderate,Salix,Single Crown,"Tr
 ,,,Perennial,,,Sagittaria,,Forb/herb,,,,sanfordii,USA (CA),,,
 ,,,Perennial,,,Sapindus,,"Tree, Shrub",,,,saponaria,"USA (AL, AR, AZ, CO, FL, GA, HI, KS, LA, MO, MS, NM, OK, SC, TX), USA+ (PR, VI)",,,
 ,,,Perennial,,,Sarcodes,,Forb/herb,,,,sanguinea,"USA (CA, NV, OR)",,,
-Spring and Summer,Early Spring,Yes,Perennial,Low,Moderate,Salix,Multiple Stem,"Tree, Shrub",Rapid,50,No,scouleriana,"USA (AK, AZ, CA, CO, ID, MT, NM, NV, OR, SD, UT, WA, WY), CAN (AB, BC, NT, SK, YT)",None,8.0,6.5
-Spring and Summer,Mid Spring,Yes,Perennial,Medium,Dense,Salix,Multiple Stem,"Tree, Shrub",Rapid,12,No,sericea,"USA (AL, AR, CT, DC, DE, GA, IA, IL, IN, KY, MA, MD, ME, MI, MN, MO, NC, NH, NJ, NY, OH, PA, RI, SC, TN, VA, VT, WI, WV), CAN (NB, NS, QC)",None,7.0,5.2
+Spring and Summer,Early Spring,Yes,Perennial,Low,Moderate,Salix,Multiple Stem,"Tree, Shrub",Rapid,50.0,No,scouleriana,"USA (AK, AZ, CA, CO, ID, MT, NM, NV, OR, SD, UT, WA, WY), CAN (AB, BC, NT, SK, YT)",None,8.0,6.5
+Spring and Summer,Mid Spring,Yes,Perennial,Medium,Dense,Salix,Multiple Stem,"Tree, Shrub",Rapid,12.0,No,sericea,"USA (AL, AR, CT, DC, DE, GA, IA, IL, IN, KY, MA, MD, ME, MI, MN, MO, NC, NH, NJ, NY, OH, PA, RI, SC, TN, VA, VT, WI, WV), CAN (NB, NS, QC)",None,7.0,5.2
 ,,,Perennial,,,Salix,,"Tree, Shrub",,,,serissima,"USA (CO, CT, IL, IN, MA, MI, MN, MT, ND, NJ, NY, OH, PA, SD, VT, WI, WY), CAN (AB, BC, LB, MB, NB, NF, NT, ON, QC, SK)",,,
-Spring and Summer,Early Summer,No,Perennial,Low,Dense,Salix,Rhizomatous,"Tree, Shrub",Rapid,20,No,sessilifolia,"USA (CA, OR, WA), CAN (BC)",Moderate,8.5,6.0
-Spring and Summer,,No,Perennial,Medium,Dense,Salix,Multiple Stem,"Tree, Shrub",Rapid,23,No,sitchensis,"USA (AK, CA, ID, MT, OR, WA), CAN (AB, BC)",Slow,7.5,5.5
+Spring and Summer,Early Summer,No,Perennial,Low,Dense,Salix,Rhizomatous,"Tree, Shrub",Rapid,20.0,No,sessilifolia,"USA (CA, OR, WA), CAN (BC)",Moderate,8.5,6.0
+Spring and Summer,,No,Perennial,Medium,Dense,Salix,Multiple Stem,"Tree, Shrub",Rapid,23.0,No,sitchensis,"USA (AK, CA, ID, MT, OR, WA), CAN (AB, BC)",Slow,7.5,5.5
 ,,,Perennial,,,Salvia,,"Subshrub, Forb/herb",,,,sonomensis,USA (CA),,,
 ,,,Perennial,,,Salvia,,Forb/herb,,,,spathacea,USA (CA),,,
 ,,,Annual,,,Sabatia,,Forb/herb,,,,stellaris,"USA (AL, CT, DE, FL, GA, LA, MA, MD, MS, NC, NJ, NY, RI, SC, VA)",,,
@@ -4699,7 +4699,7 @@ Spring and Summer,,No,Perennial,Medium,Dense,Salix,Multiple Stem,"Tree, Shrub",R
 ,,,Perennial,,,Salvia,,Subshrub,,,,vaseyi,USA (CA),,,
 ,,,Perennial,,,Samolus,,Forb/herb,,,,valerandi,"USA (AL, AR, AZ, CA, CT, DC, DE, FL, GA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MO, MS, NC, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, TN, TX, UT, VA, VT, WA, WI, WV), USA+ (PR), CAN (NB, NS, ON, PE, QC)",,,
 ,,,Perennial,,,Salix,,Shrub,,,,vestita,"USA (MT, OR, WA), CAN (AB, BC, LB, MB, NF, NS, NU, ON, QC)",,,
-Summer,Spring,No,Perennial,Low,Porous,Sarcobatus,Multiple Stem,Shrub,Rapid,10,No,vermiculatus,"USA (AZ, CA, CO, ID, MT, ND, NE, NM, NV, OR, SD, TX, UT, WA, WY), CAN (AB, SK)",None,8.5,7.5
+Summer,Spring,No,Perennial,Low,Porous,Sarcobatus,Multiple Stem,Shrub,Rapid,10.0,No,vermiculatus,"USA (AZ, CA, CO, ID, MT, ND, NE, NM, NV, OR, SD, TX, UT, WA, WY), CAN (AB, SK)",None,8.5,7.5
 ,,,Perennial,,,Schoenoplectus,,Graminoid,,,,acutus,"USA (AK, AR, AZ, CA, CO, CT, IA, ID, IL, IN, KS, KY, MA, ME, MI, MN, MO, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SD, TX, UT, VA, VT, WA, WI, WV, WY), CAN (AB, BC, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT), FRA (SPM)",,,
 ,,,Perennial,,,Scutellaria,,Forb/herb,,,,altamaha,"USA (GA, NC, SC)",,,
 ,,,Perennial,,,Schwalbea,,Forb/herb,,,,americana,"USA (AL, CT, DE, FL, GA, KY, LA, MA, MD, MS, NC, NJ, NY, SC, TN, TX, VA)",,,
@@ -4811,7 +4811,7 @@ Summer and Fall,Mid Summer,No,Perennial,Medium,Moderate,Senecio,Rhizomatous,"Sub
 ,,,Perennial,,,Selaginella,,Forb/herb,,,,wallacei,"USA (CA, ID, MT, OR, WA), CAN (AB, BC)",,,
 ,,,Perennial,,,Sedum,,Forb/herb,,,,wrightii,"USA (NM, TX)",,,
 ,,,Perennial,,,Selaginella,,Forb/herb,,,,wrightii,"USA (NM, TX)",,,
-Spring and Summer,Late Spring,Yes,Perennial,Low,Dense,Shepherdia,Multiple Stem,"Tree, Shrub",Rapid,18,No,argentea,"USA (AZ, CA, CO, IA, ID, KS, MI, MN, MT, ND, NE, NM, NV, NY, OR, SD, UT, WI, WY), CAN (AB, BC, MB, SK)",Rapid,8.0,5.3
+Spring and Summer,Late Spring,Yes,Perennial,Low,Dense,Shepherdia,Multiple Stem,"Tree, Shrub",Rapid,18.0,No,argentea,"USA (AZ, CA, CO, IA, ID, KS, MI, MN, MT, ND, NE, NM, NV, NY, OR, SD, UT, WI, WY), CAN (AB, BC, MB, SK)",Rapid,8.0,5.3
 Spring and Summer,Late Spring,Yes,Perennial,Low,Dense,Shepherdia,Multiple Stem,Shrub,Rapid,6.0,No,canadensis,"USA (AK, AZ, CA, CO, ID, IL, IN, ME, MI, MN, MT, ND, NM, NV, NY, OH, OR, PA, SD, UT, VT, WA, WI, WY), CAN (AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, QC, SK, YT)",Rapid,8.0,5.3
 ,,,Perennial,,,Shortia,,"Subshrub, Forb/herb",,,,galacifolia,"USA (CT, GA, NC, SC, TN, VA)",,,
 ,,,Perennial,,,Shepherdia,,Shrub,,,,rotundifolia,"USA (AZ, UT)",,,
@@ -4878,7 +4878,7 @@ Summer,Spring,No,Perennial,Medium,Porous,Smilax,Single Crown,"Shrub, Vine",Slow,
 ,,,Perennial,,,Solidago,,Forb/herb,,,,altiplanities,"USA (OK, TX)",,,
 ,,,Perennial,,,Solidago,,Forb/herb,,,,altissima,"USA (AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, HI, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV), CAN (MB, NB, ON, PE, QC, SK)",,,
 ,,,"Annual, Perennial",,,Solanum,,"Subshrub, Forb/herb",,,,americanum,"USA (, AL, AZ, CA, CO, FL, GA, HI, KS, LA, MO, MS, NM, NV, OR, TX, UM, WA), USA+ (PR, VI), CAN (BC, MB)",,,
-Spring and Summer,Early Summer,No,Perennial,Medium,Moderate,Sorbus,Single Stem,"Tree, Shrub",Moderate,40,No,americana,"USA (CT, GA, IL, MA, MD, ME, MI, MN, NC, NH, NJ, NY, PA, RI, SC, TN, VA, VT, WI, WV), CAN (NB, NF, NS, ON, PE, QC), FRA (SPM)",None,6.8,5.3
+Spring and Summer,Early Summer,No,Perennial,Medium,Moderate,Sorbus,Single Stem,"Tree, Shrub",Moderate,40.0,No,americana,"USA (CT, GA, IL, MA, MD, ME, MI, MN, NC, NH, NJ, NY, PA, RI, SC, TN, VA, VT, WI, WV), CAN (NB, NF, NS, ON, PE, QC), FRA (SPM)",None,6.8,5.3
 ,,,Perennial,,,Solidago,,Forb/herb,,,,arguta,"USA (AL, AR, CT, DE, FL, GA, IL, KS, KY, LA, MA, MD, ME, MO, MS, NC, NH, NJ, NY, OH, OK, PA, RI, SC, TN, TX, VA, VT, WV), CAN (ON)",,,
 ,,,Perennial,,,Solidago,,Forb/herb,,,,arenicola,"USA (AL, KY, TN)",,,
 ,,,Perennial,,,Solidago,,Forb/herb,,,,asperula,"USA (CT, MA, ME, NH, NJ, NY, RI), CAN (NF, NS, PE, QC)",,,
@@ -4893,7 +4893,7 @@ Spring and Summer,Early Summer,No,Perennial,Medium,Moderate,Sorbus,Single Stem,"
 Spring and Summer,Late Summer,No,Perennial,Medium,Dense,Solidago,Rhizomatous,Forb/herb,Rapid,3.5,No,canadensis,"USA (AK, AR, AZ, CA, CO, CT, DE, IA, ID, IL, IN, KS, KY, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY), CAN (AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT)",Rapid,7.5,4.8
 ,,,Perennial,,,Solidago,,Forb/herb,,,,curtisii,"USA (AL, GA, KY, MD, MS, NC, PA, SC, TN, VA, WV)",,,
 ,,,Perennial,,,Solidago,,Forb/herb,,,,cutleri,"USA (ME, NH, NY, VT), CAN (QC)",,,
-Summer and Fall,Early Summer,No,Perennial,Medium,Moderate,Sorbus,Single Crown,"Tree, Shrub",Slow,40,No,decora,"USA (CT, IA, IL, IN, MA, ME, MI, MN, NH, NY, OH, PA, VT, WI), CAN (LB, MB, NB, NF, NS, ON, QC, SK), DEN (GL), FRA (SPM)",Slow,7.0,4.0
+Summer and Fall,Early Summer,No,Perennial,Medium,Moderate,Sorbus,Single Crown,"Tree, Shrub",Slow,40.0,No,decora,"USA (CT, IA, IL, IN, MA, ME, MI, MN, NH, NY, OH, PA, VT, WI), CAN (LB, MB, NB, NF, NS, ON, QC, SK), DEN (GL), FRA (SPM)",Slow,7.0,4.0
 ,,,Perennial,,,Solanum,,Forb/herb,,,,dimidiatum,"USA (AL, AR, CA, FL, GA, IL, KS, LA, MO, MS, NM, OK, SC, TX)",,,
 ,,,Perennial,,,Solanum,,"Subshrub, Forb/herb",,,,elaeagnifolium,"USA (AL, AR, AZ, CA, CO, FL, GA, HI, ID, IL, IN, KS, KY, LA, MD, MO, MS, NC, NE, NM, NV, OK, OR, SC, TN, TX, UT, WA), USA+ (PR)",,,
 ,,,Perennial,,,Sorghastrum,,Graminoid,,,,elliottii,"USA (AL, AR, FL, GA, IN, LA, MD, MS, NC, OK, SC, TN, TX, VA)",,,
@@ -4939,7 +4939,7 @@ Summer and Fall,Late Spring,No,Perennial,Low,Dense,Sorghastrum,Bunch,Graminoid,M
 Spring and Summer,Late Summer,No,Perennial,Medium,Dense,Solidago,Rhizomatous,Forb/herb,Rapid,3.3,No,rugosa,"USA (AL, AR, CT, DC, DE, FL, GA, IL, IN, KY, LA, MA, MD, ME, MI, MO, MS, NC, NH, NJ, NY, OH, OK, PA, RI, SC, TN, TX, VA, VT, WI, WV), CAN (LB, NB, NF, NS, ON, PE, QC), FRA (SPM)",Rapid,7.5,5.0
 ,,,Perennial,,,Solidago,,Forb/herb,,,,rupestris,"USA (DC, IN, KY, MD, OH, PA, TN, VA)",,,
 ,,,Perennial,,,Solidago,,Forb/herb,,,,sciaphila,"USA (IA, IL, MN, WI)",,,
-Spring and Summer,Summer,No,Perennial,Medium,Moderate,Sorbus,Multiple Stem,"Tree, Shrub",Moderate,12,No,scopulina,"USA (AK, AZ, CA, CO, ID, MT, ND, NM, NV, OR, SD, UT, WA, WY), CAN (AB, BC, NT, SK, YT)",None,7.3,5.6
+Spring and Summer,Summer,No,Perennial,Medium,Moderate,Sorbus,Multiple Stem,"Tree, Shrub",Moderate,12.0,No,scopulina,"USA (AK, AZ, CA, CO, ID, MT, ND, NM, NV, OR, SD, UT, WA, WY), CAN (AB, BC, NT, SK, YT)",None,7.3,5.6
 Spring and Summer,Late Summer,No,Perennial,Low,Moderate,Solidago,Multiple Stem,Forb/herb,Moderate,3.5,No,sempervirens,"USA (AL, CT, DE, FL, GA, IL, IN, LA, MA, MD, ME, MI, MS, NC, NH, NJ, NY, OH, PA, RI, SC, TX, VA), USA+ (PR), CAN (NB, NF, NS, ON, PE, QC)",Slow,7.5,5.5
 ,,,Perennial,,,Sophora,,"Tree, Shrub",,,,secundiflora,"USA (NM, TX)",,,
 ,,,Perennial,,,Sorghastrum,,Graminoid,,,,secundum,"USA (AL, AR, FL, GA, KS, LA, MS, SC)",,,
@@ -5128,7 +5128,7 @@ Spring and Summer,Mid Spring,No,Perennial,Medium,Dense,Symphoricarpos,Rhizomatou
 ,,,Perennial,,,Symphyotrichum,,Forb/herb,,,,welshii,USA (UT),,,
 ,,,Perennial,,,Symphyotrichum,,Forb/herb,,,,woldenii,USA (IA),,,
 ,,,Perennial,,,Tanacetum,,Forb/herb,,,,bipinnatum,"USA (AK, ME, MI, WI), CAN (AB, BC, MB, NB, NF, NT, NU, ON, QC, SK, YT)",,,
-Spring and Summer,Early Summer,No,Perennial,High,Dense,Taxus,Single Stem,Tree,Slow,40,No,brevifolia,"USA (AK, CA, ID, MT, NV, OR, WA), CAN (AB, BC)",None,7.5,6.2
+Spring and Summer,Early Summer,No,Perennial,High,Dense,Taxus,Single Stem,Tree,Slow,40.0,No,brevifolia,"USA (AK, CA, ID, MT, NV, OR, WA), CAN (AB, BC)",None,7.5,6.2
 Spring and Summer,Spring,No,Perennial,Low,Dense,Taxus,Multiple Stem,Shrub,Moderate,5.0,No,canadensis,"USA (CT, IA, IL, IN, KY, MA, MD, ME, MI, MN, NC, NH, NJ, NY, OH, PA, RI, TN, VA, VT, WI, WV), CAN (LB, MB, NB, NF, NS, ON, PE, QC), FRA (SPM)",Slow,7.5,5.3
 ,,,Perennial,,,Taxodium,,Tree,,,,distichum,"USA (AL, AR, DE, FL, GA, IL, IN, KY, LA, MD, MO, MS, NC, NJ, NY, OH, OK, PA, SC, TN, TX, VA, WV)",,,
 ,,,Perennial,,,Taxus,,Tree,,,,floridana,USA (FL),,,
@@ -5143,7 +5143,7 @@ Spring and Summer,Spring,No,Perennial,Low,Dense,Taxus,Multiple Stem,Shrub,Modera
 ,,,Perennial,,,Tephrosia,,"Shrub, Forb/herb",,,,angustissima,USA (FL),,,
 ,,,Perennial,,,Tetrazygia,,"Tree, Shrub",,,,bicolor,"USA (FL, HI)",,,
 "Spring, Summer, Fall",Late Summer,No,Perennial,Low,Moderate,Tetradymia,Multiple Stem,"Subshrub, Shrub",Slow,4.0,No,canescens,"USA (AZ, CA, CO, ID, MT, NM, NV, OR, UT, WA, WY), CAN (BC)",None,8.0,7.0
-"Spring, Summer, Fall",Late Summer,No,Perennial,Low,Moderate,Tetradymia,Multiple Stem,"Subshrub, Shrub",Slow,12,No,glabrata,"USA (CA, ID, NV, OR, UT)",None,8.0,7.0
+"Spring, Summer, Fall",Late Summer,No,Perennial,Low,Moderate,Tetradymia,Multiple Stem,"Subshrub, Shrub",Slow,12.0,No,glabrata,"USA (CA, ID, NV, OR, UT)",None,8.0,7.0
 ,,,Perennial,,,Tellima,,Forb/herb,,,,grandiflora,"USA (AK, CA, ID, MT, OR, WA), CAN (AB, BC)",,,
 ,,,Perennial,,,Tectaria,,Forb/herb,,,,heracleifolia,"USA (FL, TX), USA+ (PR)",,,
 ,,,Perennial,,,Tetraneuris,,Forb/herb,,,,herbacea,"USA (IL, MI, OH), CAN (ON)",,,
@@ -5151,7 +5151,7 @@ Spring and Summer,Spring,No,Perennial,Low,Dense,Taxus,Multiple Stem,Shrub,Modera
 ,,,Perennial,,,Tetradymia,,"Subshrub, Shrub",,,,nuttallii,"USA (CO, NV, UT, WY)",,,
 ,,,Perennial,,,Tephrosia,,"Subshrub, Forb/herb",,,,onobrychoides,"USA (AL, AR, LA, MS, OK, TX)",,,
 ,,,Perennial,,,Tetraneuris,,"Subshrub, Forb/herb",,,,scaposa,"USA (AR, CO, KS, NM, OK, TX)",,,
-Spring and Summer,Indeterminate,Yes,Perennial,Low,Porous,Tecoma,Multiple Stem,"Tree, Shrub",Rapid,20,No,stans,"USA (AZ, FL, HI, NM, TX), USA+ (PR, VI)",None,8.0,6.5
+Spring and Summer,Indeterminate,Yes,Perennial,Low,Porous,Tecoma,Multiple Stem,"Tree, Shrub",Rapid,20.0,No,stans,"USA (AZ, FL, HI, NM, TX), USA+ (PR, VI)",None,8.0,6.5
 ,,,Perennial,,,Tetragonotheca,,Forb/herb,,,,texana,USA (TX),,,
 ,,,Perennial,,,Tephrosia,,"Subshrub, Forb/herb",,,,virginiana,"USA (AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, MI, MN, MO, MS, NC, NE, NH, NJ, NY, OH, OK, PA, RI, SC, TN, TX, VA, WI, WV), CAN (ON)",,,
 ,,,Perennial,,,Thalictrum,,Forb/herb,,,,alpinum,"USA (AK, CA, CO, ID, MT, NM, NV, OR, UT, WY), CAN (BC, LB, NF, NT, QC, YT), DEN (GL)",,,
@@ -5174,11 +5174,11 @@ Spring and Fall,Early Spring,Yes,Perennial,Low,Porous,Thamnosma,Multiple Stem,Su
 ,,,Perennial,,,Thermopsis,,Forb/herb,,,,montana,"USA (AZ, CO, ID, MT, NM, NV, OR, UT, WA, WY)",,,
 ,,,Perennial,,,Thelypteris,,Forb/herb,,,,noveboracensis,"USA (AL, AR, CT, DC, DE, GA, IL, IN, KY, LA, MA, MD, ME, MI, MS, NC, NH, NJ, NY, OH, OK, PA, RI, SC, TN, VA, VT, WV), CAN (NB, NF, NS, ON, PE, QC), FRA (SPM)",,,
 ,,,Perennial,,,Thalictrum,,Forb/herb,,,,occidentale,"USA (AK, CA, CO, ID, MT, NV, OR, WA, WY), CAN (AB, BC, SK, YT)",,,
-Spring and Summer,Mid Spring,No,Perennial,Medium,Dense,Thuja,Single Stem,Tree,Slow,50,No,occidentalis,"USA (CT, IA, IL, IN, KY, MA, MD, ME, MI, MN, NC, NH, NJ, NY, OH, PA, RI, SC, TN, VA, VT, WI, WV), CAN (MB, NB, NS, ON, PE, QC)",None,7.0,5.2
+Spring and Summer,Mid Spring,No,Perennial,Medium,Dense,Thuja,Single Stem,Tree,Slow,50.0,No,occidentalis,"USA (CT, IA, IL, IN, KY, MA, MD, ME, MI, MN, NC, NH, NJ, NY, OH, PA, RI, SC, TN, VA, VT, WI, WV), CAN (MB, NB, NS, ON, PE, QC)",None,7.0,5.2
 ,,,Perennial,,,Thelypteris,,Forb/herb,,,,ovata,"USA (AL, FL, GA, SC, TX)",,,
 ,,,Perennial,,,Thelypteris,,Forb/herb,,,,palustris,"USA (AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV), CAN (MB, NB, NF, NS, ON, PE, QC, SK), FRA (SPM)",,,
 ,,,Perennial,,,Thymophylla,,"Subshrub, Forb/herb",,,,pentachaeta,"USA (AZ, CA, NM, NV, SC, TX, UT)",,,
-Spring and Summer,Mid Spring,No,Perennial,Medium,Dense,Thuja,Single Stem,Tree,Slow,150,No,plicata,"USA (AK, CA, ID, MT, OR, WA), CAN (AB, BC)",None,7.1,5.1
+Spring and Summer,Mid Spring,No,Perennial,Medium,Dense,Thuja,Single Stem,Tree,Slow,150.0,No,plicata,"USA (AK, CA, ID, MT, OR, WA), CAN (AB, BC)",None,7.1,5.1
 ,,,Perennial,,,Thalictrum,,Forb/herb,,,,pubescens,"USA (AL, CT, DC, DE, GA, IL, IN, KY, MA, MD, ME, MI, MS, NC, NH, NJ, NY, OH, PA, RI, SC, TN, VA, VT, WV), CAN (LB, NB, NF, NS, ON, PE, QC), FRA (SPM)",,,
 ,,,Annual,,,Thysanocarpus,,Forb/herb,,,,radians,"USA (CA, OR)",,,
 ,,,Perennial,,,Thrinax,,Tree,,,,radiata,"USA (, FL)",,,
@@ -5192,7 +5192,7 @@ Spring and Summer,Mid Spring,No,Perennial,Medium,Dense,Thuja,Single Stem,Tree,Sl
 ,,,Perennial,,,Thalictrum,,Forb/herb,,,,thalictroides,"USA (AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, MA, MD, ME, MI, MN, MO, MS, NC, NH, NJ, NY, OH, OK, PA, RI, SC, TN, TX, VA, VT, WI, WV), CAN (ON)",,,
 ,,,Perennial,,,Thalictrum,,Forb/herb,,,,venulosum,"USA (CO, ID, ME, MI, MN, MT, ND, NE, NM, NY, OR, SD, UT, VT, WA, WI, WY), CAN (AB, BC, MB, NB, NT, ON, PE, QC, SK, YT)",,,
 ,,,Perennial,,,Thermopsis,,Forb/herb,,,,villosa,"USA (AL, CT, GA, KY, MA, MD, ME, NC, NH, NJ, NY, PA, TN, VA, VT, WV)",,,
-Spring and Summer,Late Spring,Yes,Perennial,Medium,Dense,Tilia,Single Stem,Tree,Moderate,100,No,americana,"USA (AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV), CAN (MB, NB, ON, QC, SK)",Slow,7.5,4.5
+Spring and Summer,Late Spring,Yes,Perennial,Medium,Dense,Tilia,Single Stem,Tree,Moderate,100.0,No,americana,"USA (AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV), CAN (MB, NB, ON, QC, SK)",Slow,7.5,4.5
 ,,,Annual,,,Tinantia,,Forb/herb,,,,anomala,USA (TX),,,
 ,,,Perennial,,,Tillandsia,,Forb/herb,,,,baileyi,USA (TX),,,
 ,,,Perennial,,,Tillandsia,,Forb/herb,,,,balbisiana,USA (FL),,,
@@ -5332,8 +5332,8 @@ Spring and Summer,Late Spring,No,"Annual, Perennial",Low,Moderate,Trifolium,Rhiz
 ,,,Perennial,,,Tradescantia,,Forb/herb,,,,wrightii,"USA (NM, TX)",,,
 ,,,Perennial,,,Tsuga,,Tree,,,,canadensis,"USA (AL, CT, DC, DE, GA, IN, KY, MA, MD, ME, MI, MN, MO, NC, NH, NJ, NY, OH, PA, RI, SC, TN, VA, VT, WI, WV), CAN (NB, NS, ON, PE, QC)",,,
 ,,,Perennial,,,Tsuga,,Tree,,,,caroliniana,"USA (GA, NC, OH, SC, TN, VA)",,,
-Spring and Summer,Mid Spring,No,Perennial,Medium,Dense,Tsuga,Single Stem,Tree,Slow,170,No,heterophylla,"USA (AK, CA, ID, MT, OR, WA), CAN (AB, BC)",Slow,6.0,4.5
-Summer,Early Summer,No,Perennial,Medium,Dense,Tsuga,Single Stem,Tree,Slow,125,No,mertensiana,"USA (AK, CA, ID, MT, NV, OR, WA), CAN (BC)",None,7.3,4.5
+Spring and Summer,Mid Spring,No,Perennial,Medium,Dense,Tsuga,Single Stem,Tree,Slow,170.0,No,heterophylla,"USA (AK, CA, ID, MT, OR, WA), CAN (AB, BC)",Slow,6.0,4.5
+Summer,Early Summer,No,Perennial,Medium,Dense,Tsuga,Single Stem,Tree,Slow,125.0,No,mertensiana,"USA (AK, CA, ID, MT, NV, OR, WA), CAN (BC)",None,7.3,4.5
 ,,,Perennial,,,Turbina,,"Vine, Forb/herb",,,,corymbosa,"USA (FL, LA, TX), USA+ (PR)",,,
 ,,,Perennial,,,Turnera,,"Subshrub, Shrub",,,,diffusa,"USA (TX), USA+ (PR, VI)",,,
 ,,,Perennial,,,Turnera,,"Subshrub, Shrub",,,,ulmifolia,"USA (FL, HI), USA+ (PR, VI)",,,
@@ -5344,7 +5344,7 @@ Spring and Summer,Late Spring,No,Perennial,Medium,Porous,Typha,Rhizomatous,Forb/
 ,,,Perennial,,,Ulmus,,Tree,,,,crassifolia,"USA (AR, FL, LA, MO, MS, OK, TN, TX)",,,
 ,,,Perennial,,,Ulmus,,Tree,,,,rubra,"USA (AL, AR, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV), CAN (NB, ON, QC)",,,
 ,,,Perennial,,,Ulmus,,Tree,,,,thomasii,"USA (AR, CT, IA, IL, IN, KS, KY, MA, MD, MI, MN, MO, ND, NE, NH, NJ, NY, OH, PA, SD, TN, VT, WI, WV), CAN (ON, QC)",,,
-"Spring, Summer, Fall",Spring,Yes,Perennial,Medium,Dense,Umbellularia,Single Stem,"Tree, Shrub",Moderate,80,Yes,californica,"USA (CA, OR)",None,7.4,5.7
+"Spring, Summer, Fall",Spring,Yes,Perennial,Medium,Dense,Umbellularia,Single Stem,"Tree, Shrub",Moderate,80.0,Yes,californica,"USA (CA, OR)",None,7.4,5.7
 Spring and Summer,Early Summer,No,Perennial,Medium,Porous,Uniola,Rhizomatous,Graminoid,Slow,6.0,No,paniculata,"USA (AL, DE, FL, GA, LA, MD, MS, NC, SC, TX, VA)",Moderate,7.5,6.0
 ,,,Perennial,,,Ungnadia,,"Tree, Shrub",,,,speciosa,"USA (NM, TX)",,,
 ,,,Annual,,,Urtica,,Forb/herb,,,,chamaedryoides,"USA (AL, AR, FL, GA, IL, KS, KY, LA, MO, MS, NC, NY, OH, OK, SC, TN, TX, WV)",,,
@@ -5378,7 +5378,7 @@ Spring and Summer,Early Summer,No,Perennial,Medium,Porous,Vaccinium,Multiple Ste
 ,,,Perennial,,,Vaccinium,,"Subshrub, Shrub",,,,cespitosum,"USA (AK, CA, CO, ID, ME, MI, MN, MT, NH, NM, NV, NY, OR, UT, VT, WA, WI, WY), CAN (AB, BC, LB, MB, NB, NF, NS, NT, ON, QC, SK, YT)",,,
 ,,,Annual,,,Valerianella,,Forb/herb,,,,chenopodiifolia,"USA (IL, IN, KY, MD, MI, NJ, NY, OH, PA, WI, WV), CAN (ON)",,,
 ,,,Perennial,,,Vancouveria,,Forb/herb,,,,chrysantha,"USA (CA, OR)",,,
-Spring and Summer,Early Summer,No,Perennial,Medium,Dense,Vaccinium,Multiple Stem,Shrub,Moderate,12,No,corymbosum,"USA (AL, AR, CT, DC, DE, FL, GA, IL, IN, KY, LA, MA, MD, ME, MI, MS, NC, NH, NJ, NY, OH, OK, PA, RI, SC, TN, TX, VA, VT, WA, WI, WV), CAN (BC, NB, NS, ON, QC)",None,7.5,4.7
+Spring and Summer,Early Summer,No,Perennial,Medium,Dense,Vaccinium,Multiple Stem,Shrub,Moderate,12.0,No,corymbosum,"USA (AL, AR, CT, DC, DE, FL, GA, IL, IN, KY, LA, MA, MD, ME, MI, MS, NC, NH, NJ, NY, OH, OK, PA, RI, SC, TN, TX, VA, VT, WA, WI, WV), CAN (BC, NB, NS, ON, QC)",None,7.5,4.7
 ,,,Perennial,,,Vaccinium,,"Shrub, Subshrub",,,,crassifolium,"USA (GA, NC, SC, VA)",,,
 ,,,Perennial,,,Vaccinium,,"Subshrub, Shrub",,,,deliciosum,"USA (CA, ID, OR, WA), CAN (BC)",,,
 ,,,Perennial,,,Valeriana,,Forb/herb,,,,dioica,"USA (CA, ID, ME, MT, NV, SD, WA, WY), CAN (AB, BC, LB, MB, NB, NF, NT, ON, QC, SK, YT)",,,
@@ -5397,7 +5397,7 @@ Spring and Summer,Early Summer,No,Perennial,Medium,Dense,Vaccinium,Multiple Stem
 Spring and Summer,Mid Spring,No,Perennial,Medium,Dense,Vaccinium,Multiple Stem,Shrub,Moderate,8.0,No,ovalifolium,"USA (AK, ID, MI, MT, OR, SD, WA), CAN (AB, BC, LB, NF, NS, NT, ON, QC, YT)",None,7.5,4.5
 Spring and Summer,Late Spring,No,Perennial,Medium,Moderate,Vaccinium,Multiple Stem,"Subshrub, Shrub",Slow,8.0,No,ovatum,"USA (CA, OR, WA), CAN (BC)",Moderate,7.5,5.5
 ,,,Perennial,,,Vaccinium,,"Subshrub, Shrub",,,,oxycoccos,"USA (AK, CT, ID, IL, IN, MA, MD, ME, MI, MN, NH, NJ, NY, OH, OR, PA, RI, VA, VT, WA, WI, WV), CAN (AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT), DEN (GL), FRA (SPM)",,,
-Spring and Summer,Spring,No,Perennial,Low,Moderate,Vaccinium,Multiple Stem,Shrub,Slow,12,No,parvifolium,"USA (AK, CA, OR, WA), CAN (BC)",Slow,7.5,5.0
+Spring and Summer,Spring,No,Perennial,Low,Moderate,Vaccinium,Multiple Stem,Shrub,Slow,12.0,No,parvifolium,"USA (AK, CA, OR, WA), CAN (BC)",Slow,7.5,5.0
 ,,,Perennial,,,Vaccinium,,"Subshrub, Shrub",,,,pallidum,"USA (AL, AR, CT, DC, DE, GA, IL, IN, KS, KY, MA, MD, ME, MI, MN, MO, MS, NC, NH, NJ, NY, OH, OK, PA, RI, SC, TN, VA, VT, WI, WV), CAN (ON)",,,
 ,,,Perennial,,,Vancouveria,,Forb/herb,,,,planipetala,"USA (CA, OR)",,,
 ,,,Perennial,,,Vanilla,,"Vine, Forb/herb",,,,planifolia,"USA (FL), USA+ (PR, VI)",,,
@@ -5481,10 +5481,10 @@ Spring and Summer,Indeterminate,Yes,Perennial,Low,Moderate,Viburnum,Multiple Ste
 ,,,Annual,,,Vicia,,"Vine, Forb/herb",,,,hassei,"USA (CA, OR)",,,
 ,,,Perennial,,,Viola,,Forb/herb,,,,howellii,"USA (CA, OR, WA), CAN (BC)",,,
 ,,,Perennial,,,Viola,,Forb/herb,,,,labradorica,"USA (AL, CO, CT, DC, DE, FL, GA, IL, IN, KY, MA, MD, ME, MI, MN, NC, ND, NH, NJ, NY, OH, PA, RI, SC, TN, VA, VT, WI, WV), CAN (LB, MB, NB, NF, NS, NT, ON, PE, QC, SK), DEN (GL), FRA (SPM)",,,
-Spring and Summer,Late Spring,Yes,Perennial,Low,Moderate,Viburnum,Multiple Stem,Shrub,Slow,10,No,lantanoides,"USA (CT, GA, KY, MA, MD, ME, NC, NH, NJ, NY, OH, PA, RI, TN, VA, VT, WV), CAN (NB, NS, ON, PE, QC)",Moderate,7.0,4.9
+Spring and Summer,Late Spring,Yes,Perennial,Low,Moderate,Viburnum,Multiple Stem,Shrub,Slow,10.0,No,lantanoides,"USA (CT, GA, KY, MA, MD, ME, NC, NH, NJ, NY, OH, PA, RI, TN, VA, VT, WV), CAN (NB, NS, ON, PE, QC)",Moderate,7.0,4.9
 ,,,Perennial,,,Viola,,Forb/herb,,,,lanceolata,"USA (AL, AR, CA, CT, DC, DE, FL, GA, IA, IL, IN, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, NE, NH, NJ, NY, OH, OK, OR, PA, RI, SC, TN, TX, VA, VT, WA, WI, WV), CAN (BC, NB, NF, NS, ON, PE, QC), FRA (SPM)",,,
 ,,,Perennial,,,Vitis,,Vine,,,,labrusca,"USA (AL, CT, DC, DE, GA, IL, IN, KY, LA, MA, MD, ME, MI, MS, NC, NH, NJ, NY, OH, PA, RI, SC, TN, UT, VA, VT, WI, WV), CAN (NB, NS, ON)",,,
-Spring and Summer,Late Spring,No,Perennial,Medium,Dense,Viburnum,Multiple Stem,"Tree, Shrub",Slow,28,No,lentago,"USA (AL, CO, CT, GA, IA, IL, IN, KY, MA, MD, ME, MI, MN, MO, MT, ND, NE, NH, NJ, NY, OH, PA, RI, SD, VA, VT, WI, WV, WY), CAN (MB, NB, ON, QC, SK)",None,7.0,5.0
+Spring and Summer,Late Spring,No,Perennial,Medium,Dense,Viburnum,Multiple Stem,"Tree, Shrub",Slow,28.0,No,lentago,"USA (AL, CO, CT, GA, IA, IL, IN, KY, MA, MD, ME, MI, MN, MO, MT, ND, NE, NH, NJ, NY, OH, PA, RI, SD, VA, VT, WI, WV, WY), CAN (MB, NB, ON, QC, SK)",None,7.0,5.0
 ,,,Perennial,,,Vittaria,,Forb/herb,,,,lineata,"USA (FL, GA), USA+ (PR)",,,
 ,,,Perennial,,,Viola,,Forb/herb,,,,lobata,"USA (CA, OR)",,,
 ,,,Annual,,,Vicia,,"Vine, Forb/herb",,,,ludoviciana,"USA (AL, AR, AZ, CA, CO, FL, GA, KS, LA, MO, MS, NM, NV, OK, OR, TX, UT)",,,
@@ -5498,7 +5498,7 @@ Spring and Summer,Late Spring,No,Perennial,Medium,Dense,Viburnum,Multiple Stem,"
 ,,,Perennial,,,Viburnum,,"Tree, Shrub",,,,nudum,"USA (AL, AR, CT, DC, DE, FL, GA, IL, IN, KY, LA, MA, MD, ME, MI, MS, NC, NH, NJ, NY, OH, PA, RI, SC, TN, TX, VA, VT, WI, WV), CAN (NB, NF, NS, ON, PE, QC), FRA (SPM)",,,
 ,,,Perennial,,,Viola,,Forb/herb,,,,nuttallii,"USA (CO, ID, KS, MN, MT, ND, NE, NM, SD, WY)",,,
 ,,,Perennial,,,Viburnum,,"Tree, Shrub",,,,obovatum,"USA (AL, FL, GA, SC)",,,
-Spring and Summer,Late Spring,No,Perennial,Medium,Dense,Viburnum,Multiple Stem,"Tree, Shrub",Slow,12,No,opulus,"USA (CT, IA, ID, IL, IN, KY, MA, MD, ME, MI, MN, MO, MT, ND, NE, NH, NJ, NM, NY, OH, PA, RI, SD, TN, VA, VT, WA, WI, WV, WY), CAN (AB, BC, MB, NB, NF, NS, ON, PE, QC, SK), FRA (SPM)",None,7.0,5.2
+Spring and Summer,Late Spring,No,Perennial,Medium,Dense,Viburnum,Multiple Stem,"Tree, Shrub",Slow,12.0,No,opulus,"USA (CT, IA, ID, IL, IN, KY, MA, MD, ME, MI, MN, MO, MT, ND, NE, NH, NJ, NM, NY, OH, PA, RI, SD, TN, VA, VT, WA, WI, WV, WY), CAN (AB, BC, MB, NB, NF, NS, ON, PE, QC, SK), FRA (SPM)",None,7.0,5.2
 ,,,Perennial,,,Viola,,Forb/herb,,,,orbiculata,"USA (ID, MT, OR, WA, WY), CAN (AB, BC)",,,
 ,,,Perennial,,,Viola,,Forb/herb,,,,palmata,"USA (AL, CT, DE, FL, GA, KY, LA, MA, MD, ME, MI, MS, NC, NH, NJ, NY, OH, PA, RI, SC, TN, VA, VT, WI, WV), CAN (ON)",,,
 ,,,Perennial,,,Viola,,Forb/herb,,,,palustris,"USA (AK, AZ, CA, CO, ID, ME, MT, NH, NV, NY, OR, SD, UT, VT, WA, WY), CAN (AB, BC, LB, MB, NF, NT, NU, ON, QC, SK), DEN (GL)",,,
@@ -5506,7 +5506,7 @@ Spring and Summer,Late Spring,No,Perennial,Medium,Dense,Viburnum,Multiple Stem,"
 ,,,Perennial,,,Viola,,Forb/herb,,,,pedata,"USA (AL, AR, CT, DC, DE, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, NE, NH, NJ, NY, OH, OK, PA, RI, SC, TN, TX, VA, WI, WV), CAN (ON)",,,
 ,,,Perennial,,,Viola,,Forb/herb,,,,pedatifida,"USA (AR, AZ, CO, IA, IL, IN, KS, MI, MN, MO, MT, ND, NE, NM, OH, OK, SD, WI, WY), CAN (AB, MB, ON, SK)",,,
 ,,,Perennial,,,Viola,,Forb/herb,,,,pedunculata,USA (CA),,,
-Spring and Summer,Spring,Yes,Perennial,Low,Moderate,Viburnum,Multiple Stem,"Tree, Shrub",Slow,16,No,prunifolium,"USA (AL, AR, CT, DC, DE, GA, IA, IL, IN, KS, KY, LA, MD, MI, MO, MS, NC, NJ, NY, OH, OK, PA, SC, TN, TX, VA, WI, WV)",None,7.5,4.8
+Spring and Summer,Spring,Yes,Perennial,Low,Moderate,Viburnum,Multiple Stem,"Tree, Shrub",Slow,16.0,No,prunifolium,"USA (AL, AR, CT, DC, DE, GA, IA, IL, IN, KS, KY, LA, MD, MI, MO, MS, NC, NJ, NY, OH, OK, PA, SC, TN, TX, VA, WI, WV)",None,7.5,4.8
 ,,,Perennial,,,Viola,,Forb/herb,,,,praemorsa,"USA (CA, CO, ID, MT, NV, OR, UT, WA, WY), CAN (AB, BC)",,,
 ,,,,,,Viola,,,,,,primulifolia,,,,
 ,,,Perennial,,,Vicia,,"Vine, Forb/herb",,,,pulchella,"USA (AZ, NM)",,,
@@ -5558,7 +5558,7 @@ Spring and Summer,Summer,No,Perennial,Low,Porous,Xerophyllum,Rhizomatous,Forb/he
 ,,,Perennial,,,Yucca,,"Tree, Shrub",,,,brevifolia,"USA (AZ, CA, NV, UT)",,,
 ,,,Perennial,,,Yucca,,"Subshrub, Shrub, Forb/herb",,,,campestris,"USA (NM, TX)",,,
 ,,,Perennial,,,Yucca,,"Subshrub, Shrub, Forb/herb",,,,constricta,USA (TX),,,
-Spring and Summer,Late Spring,No,Perennial,Low,Porous,Yucca,Stoloniferous,"Tree, Shrub",Moderate,20,No,elata,"USA (AZ, NM, NV, TX, UT)",Slow,8.5,7.0
+Spring and Summer,Late Spring,No,Perennial,Low,Porous,Yucca,Stoloniferous,"Tree, Shrub",Moderate,20.0,No,elata,"USA (AZ, NM, NV, TX, UT)",Slow,8.5,7.0
 ,,,Perennial,,,Yucca,,"Tree, Shrub",,,,faxoniana,"USA (NM, TX)",,,
 ,,,Perennial,,,Yucca,,"Subshrub, Shrub, Forb/herb",,,,filamentosa,"USA (AL, AR, CT, DE, FL, GA, IL, IN, KS, KY, LA, MA, MD, MI, MO, MS, NC, NE, NJ, NY, OH, PA, RI, SC, TN, TX, VA, WI, WV)",,,
 ,,,Perennial,,,Yucca,,"Forb/herb, Shrub, Subshrub",,,,flaccida,"USA (AL, FL, GA, MS, NC, SC, TN, VA), CAN (ON)",,,
