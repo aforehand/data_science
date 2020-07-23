@@ -314,6 +314,7 @@ combine root crops with vigorous plants that need thinning and won't mind the
 disturbance
 always include ground cover, nitrogen fixers, and mulchers
 define function for each patch
+use heights of pfaf canopy trees to set height range for all canopy trees. 
 """
 
 class GuildRecommender:
